@@ -6,3 +6,5 @@ plotly
 networkx
 ipykernel
 ipython
+folium
+plotly
