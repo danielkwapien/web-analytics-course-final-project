@@ -13,6 +13,11 @@ def load_data():
 
 
 def create_graph(artist_genre_data):
+    """
+    create tehe Artist-Genre graph
+    two types of nodes: artist and genre
+    edges between artist and genre
+    """
     # Create a new graph
     G = nx.Graph()
 
