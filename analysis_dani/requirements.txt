@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+matplotlib
+plotly
+networkx
+ipykernel
+ipython
+folium
+plotly

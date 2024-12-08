@@ -1,10 +1,12 @@
+numpy
 streamlit
 pandas
-numpy
 matplotlib
 plotly
 networkx
-ipykernel
-ipython
-folium
-plotly
+community
+plotly-express
+python-louvain
+tabulate
+streamlit-folium
+streamlit-plotly-events
