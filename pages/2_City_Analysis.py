@@ -5,14 +5,22 @@ from utils.utils import *
 from modules.attractions_module.graph1 import *
 from modules.popularity_module.genre_popularity import *
 
+
+df= load_data()
+
 st.title("City Events Analysis")
+segments = df.groupby(['segment_name'])['genre_name'].apply(set).to_dict()
+# Allow the user to select a segment dynamically
+selected_segment = st.selectbox("Select a Segment", list(segments.keys()))
 
 try:
     # Assuming data for the map is preloaded or available
     average_prices_df = pd.read_csv("data/prices_by_city.csv")
+    if selected_segment != 'all':
+        average_prices_df = average_prices_df[average_prices_df['segment_name'] == selected_segment]
 
     # Ensure required columns are present
-    if all(col in average_prices_df.columns for col in ['venue_latitude', 'venue_longitude', 'average_price', 'venue_city']):
+    if all(col in average_prices_df.columns for col in ['venue_latitude', 'venue_longitude', 'average_price', 'venue_city', 'segment_name']):
         fig = go.Figure()
 
         fig.add_trace(go.Scattermapbox(
@@ -41,13 +49,13 @@ try:
                 }
             ),
             margin={"r": 0, "t": 40, "l": 0, "b": 0},
-            title="Bubble Map of Average Prices by Venue in the USA",
+            title=f"Bubble Map of Average Prices for {selected_segment} by City",
             height=600,
             width=1200
         )
 
         # Display the map in Streamlit
-        st.plotly_chart(fig, use_container_width=False, theme=None)
+        st.plotly_chart(fig, use_container_width=False, theme='streamlit')
     else:
         st.error(
             "Data file is missing required columns: 'venue_latitude', 'venue_longitude', 'average_price', 'venue_city'.")
@@ -62,10 +70,6 @@ cities = ['all', 'Las Vegas', 'New York', 'Boston', 'Chicago', 'Philadelphia',
 
 
 selected_city = st.selectbox("Select a City to Filter", cities)
-df= load_data()
-segments = df.groupby(['segment_name'])['genre_name'].apply(set).to_dict()
-# Allow the user to select a segment dynamically
-selected_segment = st.selectbox("Select a Segment", list(segments.keys()))
 
 
 if selected_city != 'all':

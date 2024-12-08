@@ -1,0 +1,2427 @@
+venue_state_code,segment_name,genre_name,sub_genre_name,min_price,max_price,average_price
+AK,Sports,Boxing,Boxing,13.35,69.75,41.55
+AL,Arts & Theatre,Children's Theatre,Children's Theatre,31.4,60.4,45.9
+AL,Arts & Theatre,Circus & Specialty Acts,Circus,20.0,90.0,55.0
+AL,Arts & Theatre,Classical,Symphonic,35.285714285714285,101.71428571428571,68.5
+AL,Arts & Theatre,Comedy,Comedy,30.35670731707317,62.08841463414634,46.22256097560975
+AL,Arts & Theatre,Dance,Dance,49.55555555555556,99.0,74.27777777777777
+AL,Arts & Theatre,Magic & Illusion,Magic,41.833333333333336,109.5,75.66666666666667
+AL,Arts & Theatre,Miscellaneous Theatre,Miscellaneous Theatre,29.75,69.75,49.75
+AL,Arts & Theatre,Multimedia,Multimedia,55.0,95.0,75.0
+AL,Arts & Theatre,Theatre,Comedy,45.0,95.0,70.0
+AL,Arts & Theatre,Theatre,Drama,54.0,60.0,57.0
+AL,Arts & Theatre,Theatre,Horror,41.0,96.0,68.5
+AL,Arts & Theatre,Theatre,Miscellaneous,39.5,49.5,44.5
+AL,Arts & Theatre,Theatre,Musical,45.17333333333333,103.17333333333333,74.17333333333333
+AL,Film,Comedy,Comedy,10.0,10.0,10.0
+AL,Film,Drama,Drama,10.0,10.0,10.0
+AL,Film,Family,Miscellaneous,10.0,10.0,10.0
+AL,Miscellaneous,Community/Cultural,Public Skating,10.0,85.0,47.5
+AL,Miscellaneous,Food & Drink,Food & Drink,55.0,55.0,55.0
+AL,Miscellaneous,Ice Shows,Ice Shows,19.444444444444443,90.0,54.72222222222222
+AL,Miscellaneous,Lecture/Seminar,Lecture/Seminar,43.0,123.0,83.0
+AL,Music,Blues,Blues,55.833333333333336,151.16666666666666,103.5
+AL,Music,Classical,Classical/Vocal,24.5,74.5,49.5
+AL,Music,Country,Alternative Country,25.0,25.0,25.0
+AL,Music,Country,Bluegrass,27.0,27.0,27.0
+AL,Music,Country,Country,32.35,87.03,59.69
+AL,Music,Dance/Electronic,Witchstep,15.75,175.0,95.375
+AL,Music,Folk,Indie Folk,31.0,33.5,32.25
+AL,Music,Hip-Hop/Rap,French Rap,40.3,122.3,81.3
+AL,Music,Hip-Hop/Rap,Urban,35.0,35.0,35.0
+AL,Music,Jazz,Jazz,24.25,65.5,44.875
+AL,Music,Metal,Heavy Metal,10.0,10.0,10.0
+AL,Music,Metal,Nu-Metal,32.25,92.25,62.25
+AL,Music,New Age,New Age,43.333333333333336,70.0,56.666666666666664
+AL,Music,Other,Other,39.0,118.1,78.55
+AL,Music,Pop,Pop,27.666666666666668,115.91666666666667,71.79166666666667
+AL,Music,R&B,R&B,58.3125,142.3125,100.3125
+AL,Music,R&B,Soul,34.5,49.0,41.75
+AL,Music,Religious,Gospel,20.428571428571427,81.21428571428571,50.82142857142857
+AL,Music,Religious,Praise & Worship,0.0,0.0,0.0
+AL,Music,Rock,Alternative Rock,28.75,39.125,33.9375
+AL,Music,Rock,Pop,37.15219512195122,76.85951219512195,57.00585365853658
+AL,Music,Undefined,Undefined,25.0,65.0,45.0
+AL,Music,World,Latin,0.0,0.0,0.0
+AL,Sports,Baseball,MLB,40.0,155.0,97.5
+AL,Sports,Baseball,Professional,40.0,155.0,97.5
+AL,Sports,Basketball,NBA D League,3.0,182.0,92.5
+AL,Sports,Hockey,Minor League,13.196078431372548,48.490196078431374,30.84313725490196
+AL,Sports,Motorsports/Racing,Motorsports/Racing,24.333333333333332,77.0,50.666666666666664
+AL,Sports,Rodeo,Bullriding,20.0,105.0,62.5
+AL,Sports,Rodeo,Rodeo,26.0,26.0,26.0
+AR,Arts & Theatre,Children's Theatre,Children's Theatre,28.833333333333332,68.83333333333333,48.833333333333336
+AR,Arts & Theatre,Comedy,Comedy,32.625,60.125,46.375
+AR,Arts & Theatre,Dance,Dance,26.666666666666668,94.16666666666667,60.416666666666664
+AR,Arts & Theatre,Magic & Illusion,Magic,36.0,104.0,70.0
+AR,Arts & Theatre,Miscellaneous Theatre,Miscellaneous Theatre,33.13333333333333,106.63333333333333,69.88333333333334
+AR,Arts & Theatre,Theatre,Musical,34.916666666666664,105.75,70.33333333333333
+AR,Film,Family,Miscellaneous,10.0,10.0,10.0
+AR,Miscellaneous,Family,Other,25.0,308.0,166.5
+AR,Miscellaneous,Ice Shows,Ice Shows,20.0,82.5,51.25
+AR,Miscellaneous,Undefined,Undefined,63.7475,66.2475,64.9975
+AR,Music,Alternative,Alternative Rock,22.0,38.166666666666664,30.083333333333332
+AR,Music,Blues,Blues,45.0,89.5,67.25
+AR,Music,Country,Country,33.854166666666664,100.27083333333333,67.0625
+AR,Music,Country,Country Soul,0.0,0.0,0.0
+AR,Music,Folk,Folk,35.0,185.0,110.0
+AR,Music,Folk,Indie Folk,39.5,39.5,39.5
+AR,Music,Metal,Heavy Metal,35.0,65.0,50.0
+AR,Music,Other,Other,49.9,79.9,64.9
+AR,Music,R&B,R&B,47.0,204.5,125.75
+AR,Music,Religious,Gospel,13.75,69.875,41.8125
+AR,Music,Rock,Blues-Rock,45.5,574.5,310.0
+AR,Music,Rock,Hard Rock,0.0,0.0,0.0
+AR,Music,Rock,Pop,44.712857142857146,174.89142857142858,109.80214285714285
+AR,Music,Rock,Rock,0.0,0.0,0.0
+AR,Sports,Basketball,College,7.3,14.8,11.05
+AR,Sports,Motorsports/Racing,Motorsports/Racing,25.0,65.0,45.0
+AR,Sports,Rodeo,Bullriding,19.0,109.0,64.0
+AR,Sports,Wrestling,Wrestling,20.0,20.0,20.0
+AZ,Arts & Theatre,Children's Theatre,Children's Theatre,27.666666666666668,126.91666666666667,77.29166666666667
+AZ,Arts & Theatre,Circus & Specialty Acts,Circus,44.0,64.0,54.0
+AZ,Arts & Theatre,Classical,Symphonic,20.875,68.0,44.4375
+AZ,Arts & Theatre,Comedy,Comedy,39.20970588235294,101.73911764705883,70.47441176470589
+AZ,Arts & Theatre,Dance,Dance,33.36363636363637,73.0909090909091,53.22727272727273
+AZ,Arts & Theatre,Magic & Illusion,Magic,32.5,81.0,56.75
+AZ,Arts & Theatre,Miscellaneous Theatre,Miscellaneous Theatre,47.666666666666664,132.11111111111111,89.88888888888889
+AZ,Arts & Theatre,Performance Art,Performance Art,41.5,89.0,65.25
+AZ,Arts & Theatre,Theatre,Drama,32.0,100.0,66.0
+AZ,Arts & Theatre,Theatre,Horror,40.0,100.0,70.0
+AZ,Arts & Theatre,Theatre,Miscellaneous,29.25,54.25,41.75
+AZ,Arts & Theatre,Theatre,Musical,40.971698113207545,167.00943396226415,103.99056603773585
+AZ,Arts & Theatre,Theatre,Podcast,35.0,45.0,40.0
+AZ,Miscellaneous,Community/Civic,Community/Civic,69.5,124.5,97.0
+AZ,Miscellaneous,Family,Other,33.166666666666664,332.6666666666667,182.91666666666666
+AZ,Miscellaneous,Ice Shows,Ice Shows,25.0,140.0,82.5
+AZ,Miscellaneous,Lecture/Seminar,Lecture/Seminar,37.5,180.66666666666666,109.08333333333333
+AZ,Miscellaneous,Undefined,Undefined,91.92307692307692,172.69230769230768,132.30769230769232
+AZ,Music,Alternative,Alternative,18.0,33.0,25.5
+AZ,Music,Alternative,Alternative Rock,25.862727272727273,39.5,32.681363636363635
+AZ,Music,Alternative,Americana,25.0,25.0,25.0
+AZ,Music,Alternative,Indie Pop,32.31125,38.56125,35.43625
+AZ,Music,Alternative,Indie Rock,10.666666666666666,12.333333333333334,11.5
+AZ,Music,Alternative,Post-Punk,0.0,0.0,0.0
+AZ,Music,Alternative,Post-Rock/Experimental,0.0,0.0,0.0
+AZ,Music,Alternative,Shoegaze,15.0,40.0,27.5
+AZ,Music,Ballads/Romantic,Ballads/Romantic,49.5,139.5,94.5
+AZ,Music,Blues,Blues,32.8,36.8,34.8
+AZ,Music,Blues,Folk-Blues,0.0,0.0,0.0
+AZ,Music,Classical,Classical/Vocal,48.4,140.4,94.4
+AZ,Music,Country,Bluegrass,33.5,51.0,42.25
+AZ,Music,Country,Country,31.970666666666666,89.36466666666666,60.66766666666667
+AZ,Music,Dance/Electronic,Trip Hop,20.0,30.0,25.0
+AZ,Music,Dance/Electronic,Witchstep,22.5,35.72222222222222,29.11111111111111
+AZ,Music,Folk,Folk,19.0,19.0,19.0
+AZ,Music,Folk,Folk Rock,16.666666666666668,16.666666666666668,16.666666666666668
+AZ,Music,Folk,Indie Folk,37.166666666666664,49.388888888888886,43.27777777777778
+AZ,Music,Hip-Hop/Rap,Alternative Rap,25.0,25.0,25.0
+AZ,Music,Hip-Hop/Rap,French Rap,36.86842105263158,60.026315789473685,48.44736842105263
+AZ,Music,Hip-Hop/Rap,Hip-Hop/Rap,71.25,76.25,73.75
+AZ,Music,Hip-Hop/Rap,Reggaeton,41.0,181.0,111.0
+AZ,Music,Holiday,Christmas Music,28.0,38.0,33.0
+AZ,Music,Jazz,Jazz,42.4375,70.0625,56.25
+AZ,Music,Latin,Latin,46.388888888888886,139.16666666666666,92.77777777777777
+AZ,Music,Metal,Heavy Metal,30.0,45.0,37.5
+AZ,Music,Metal,Nu-Metal,39.0,84.73076923076923,61.86538461538461
+AZ,Music,New Age,New Age,31.5,57.0,44.25
+AZ,Music,Other,Other,17.125,35.875,26.5
+AZ,Music,Pop,Adult Contemporary,53.5,105.66666666666667,79.58333333333333
+AZ,Music,Pop,Indie Pop,120.0,120.0,120.0
+AZ,Music,Pop,K-Pop,41.0,79.0,60.0
+AZ,Music,Pop,Pop,41.833333333333336,83.5,62.666666666666664
+AZ,Music,Pop,Pop Rock,27.0,108.6,67.8
+AZ,Music,Pop,Singer-Songwriter,60.0,63.333333333333336,61.666666666666664
+AZ,Music,R&B,Funk,27.0,37.0,32.0
+AZ,Music,R&B,R&B,34.22727272727273,58.68181818181818,46.45454545454545
+AZ,Music,R&B,Soul,34.5,69.5,52.0
+AZ,Music,Reggae,Reggae,28.0,68.0,48.0
+AZ,Music,Religious,Gospel,34.0,96.375,65.1875
+AZ,Music,Rock,Alternative Rock,33.86363636363637,60.36363636363637,47.11363636363637
+AZ,Music,Rock,Avant-Garde Rock,30.0,30.0,30.0
+AZ,Music,Rock,Funk-Rock,22.5,22.5,22.5
+AZ,Music,Rock,Garage Rock,30.0,30.0,30.0
+AZ,Music,Rock,Oldies & Classics,47.5,155.0,101.25
+AZ,Music,Rock,Pop,35.195507246376806,64.85492753623188,50.025217391304345
+AZ,Music,Rock,Psychedelic,16.0,16.0,16.0
+AZ,Music,Rock,Punk,25.928571428571427,31.071428571428573,28.5
+AZ,Music,Rock,Rockabilly,30.0,30.0,30.0
+AZ,Music,Rock,Soft Rock,30.0,30.0,30.0
+AZ,Music,Undefined,Undefined,24.73076923076923,42.19230769230769,33.46153846153846
+AZ,Music,World,Latin,45.0,55.0,50.0
+AZ,Music,World,World,36.07142857142857,71.5,53.785714285714285
+AZ,Sports,Basketball,College,27.647058823529413,309.0,168.3235294117647
+AZ,Sports,Basketball,Minor League,12.0,156.0,84.0
+AZ,Sports,Basketball,NBA,65.58064516129032,4516.129032258064,2290.8548387096776
+AZ,Sports,Football,Professional,31.899999999999995,125.0,78.45
+AZ,Sports,Hockey,AHL,25.0,88.0,56.5
+AZ,Sports,Hockey,College,27.25,110.375,68.8125
+AZ,Sports,Motorsports/Racing,Motorsports/Racing,28.314285714285713,65.22857142857143,46.771428571428565
+AZ,Sports,Wrestling,Wrestling,35.0,350.0,192.5
+CA,Arts & Theatre,Children's Theatre,Children's Theatre,32.702666666666666,78.036,55.36933333333333
+CA,Arts & Theatre,Circus & Specialty Acts,Circus,34.8,92.4,63.6
+CA,Arts & Theatre,Classical,Classical/Vocal,30.0,30.0,30.0
+CA,Arts & Theatre,Classical,Symphonic,44.65384615384615,127.46153846153847,86.0576923076923
+CA,Arts & Theatre,Comedy,Comedy,33.47712545676005,68.17084043848965,50.82398294762485
+CA,Arts & Theatre,Dance,Dance,47.63133333333333,122.58600000000001,85.10866666666666
+CA,Arts & Theatre,Magic & Illusion,Magic,38.833333333333336,101.61111111111111,70.22222222222223
+CA,Arts & Theatre,Miscellaneous,Miscellaneous,22.071428571428573,22.071428571428573,22.071428571428573
+CA,Arts & Theatre,Miscellaneous Theatre,Miscellaneous Theatre,46.166666666666664,114.61111111111111,80.38888888888889
+CA,Arts & Theatre,Multimedia,Multimedia,36.333333333333336,66.33333333333333,51.333333333333336
+CA,Arts & Theatre,Opera,Opera,60.214285714285715,286.5,173.35714285714286
+CA,Arts & Theatre,Performance Art,Performance Art,44.275,194.65,119.4625
+CA,Arts & Theatre,Theatre,Comedy,43.0,73.0,58.0
+CA,Arts & Theatre,Theatre,Drama,60.56028368794326,197.15602836879432,128.8581560283688
+CA,Arts & Theatre,Theatre,Horror,36.0,106.0,71.0
+CA,Arts & Theatre,Theatre,Miscellaneous,34.708333333333336,56.708333333333336,45.708333333333336
+CA,Arts & Theatre,Theatre,Musical,49.35697674418604,191.80465116279072,120.58081395348837
+CA,Arts & Theatre,Theatre,Podcast,33.8,55.3,44.55
+CA,Arts & Theatre,Variety,Cabaret,24.95,129.95,77.44999999999999
+CA,Arts & Theatre,Variety,Variety,65.0,85.0,75.0
+CA,Film,Animation,Animation,74.0,114.0,94.0
+CA,Film,Family,Miscellaneous,49.5,99.5,74.5
+CA,Film,Music,Music,15.0,15.0,15.0
+CA,Miscellaneous,Community/Civic,Community/Civic,59.25,111.75,85.5
+CA,Miscellaneous,Family,Other,34.375,254.95,144.6625
+CA,Miscellaneous,Holiday,Holiday,24.99,174.99,99.99000000000001
+CA,Miscellaneous,Ice Shows,Ice Shows,22.127659574468087,133.19148936170214,77.65957446808511
+CA,Miscellaneous,Lecture/Seminar,Lecture/Seminar,44.78125,99.6875,72.234375
+CA,Miscellaneous,Psychics/Mediums/Hypnotists,Psychics/Mediums/Hypnotists,42.5,102.5,72.5
+CA,Miscellaneous,Undefined,Undefined,33.66457142857143,36.42171428571429,35.043142857142854
+CA,Music,Alternative,Alternative,26.534166666666668,66.89833333333333,46.71625
+CA,Music,Alternative,Alternative Rock,42.085,140.6070588235294,91.3460294117647
+CA,Music,Alternative,Ambient Pop,32.42,32.42,32.42
+CA,Music,Alternative,Americana,44.25,74.5,59.375
+CA,Music,Alternative,Dream Pop,32.42,32.42,32.42
+CA,Music,Alternative,Electronic Pop,59.245,124.22,91.73249999999999
+CA,Music,Alternative,Goth,108.58,108.58,108.58
+CA,Music,Alternative,Indie Pop,31.97666666666667,49.333333333333336,40.655
+CA,Music,Alternative,Indie Rock,27.810000000000002,27.810000000000002,27.810000000000002
+CA,Music,Alternative,Post-Punk,38.25,38.25,38.25
+CA,Music,Alternative,Psychobilly,28.25,620.5,324.375
+CA,Music,Alternative,Shoegaze,13.11,13.11,13.11
+CA,Music,Alternative,Ska,34.43,34.43,34.43
+CA,Music,Alternative,Ska Punk,31.5,31.5,31.5
+CA,Music,Ballads/Romantic,Ballads/Romantic,36.333333333333336,131.33333333333334,83.83333333333333
+CA,Music,Blues,Blues,39.12304347826087,54.001304347826085,46.56217391304348
+CA,Music,Blues,Folk-Blues,29.27,29.27,29.27
+CA,Music,Blues,Soul-Blues,57.345,84.0,70.6725
+CA,Music,Children's Music,Children's Music,31.5,63.833333333333336,47.666666666666664
+CA,Music,Classical,Classical/Vocal,58.05625,184.93125,121.49375
+CA,Music,Country,Bluegrass,33.166666666666664,51.333333333333336,42.25
+CA,Music,Country,Country,40.44085106382979,85.54468085106383,62.99276595744681
+CA,Music,Dance/Electronic,Avant-Garde,32.42,32.42,32.42
+CA,Music,Dance/Electronic,Club Dance,20.83,20.83,20.83
+CA,Music,Dance/Electronic,Dance Pop,24.95,24.95,24.95
+CA,Music,Dance/Electronic,Dance/Electronic,27.58272727272727,27.58272727272727,27.58272727272727
+CA,Music,Dance/Electronic,Dubstep,24.95,24.95,24.95
+CA,Music,Dance/Electronic,House,33.63166666666667,43.04833333333334,38.339999999999996
+CA,Music,Dance/Electronic,Progressive House,39.95,39.95,39.95
+CA,Music,Dance/Electronic,Techno,34.95,97.95,66.45
+CA,Music,Dance/Electronic,Trance,25.95,25.95,25.95
+CA,Music,Dance/Electronic,Witchstep,36.07526315789474,64.68929824561404,50.38228070175438
+CA,Music,Folk,Alternative Folk,29.45,495.0,262.22499999999997
+CA,Music,Folk,Americana,34.24,46.07333333333333,40.156666666666666
+CA,Music,Folk,Folk,31.963636363636365,31.963636363636365,31.963636363636365
+CA,Music,Folk,Folk Rock,17.285,21.105,19.195
+CA,Music,Folk,Indie Folk,36.625,53.708333333333336,45.166666666666664
+CA,Music,Folk,Irish Folk,29.28,29.28,29.28
+CA,Music,Folk,Neo-Traditional Folk,29.28,29.28,29.28
+CA,Music,Folk,Traditional Irish Folk,59.38,59.38,59.38
+CA,Music,Hip-Hop/Rap,French Rap,37.627027027027026,62.45135135135135,50.03918918918919
+CA,Music,Hip-Hop/Rap,Hip-Hop/Rap,35.49727272727273,70.09272727272727,52.795
+CA,Music,Hip-Hop/Rap,Old School Rap,28.25,620.5,324.375
+CA,Music,Hip-Hop/Rap,Reggaeton,43.25,185.75,114.5
+CA,Music,Hip-Hop/Rap,Urban,30.89,96.0525,63.47125
+CA,Music,Holiday,Christmas Music,12.0,12.0,12.0
+CA,Music,Jazz,Classic Jazz,25.4,49.87,37.635
+CA,Music,Jazz,Contemporary Jazz,30.19,51.74,40.965
+CA,Music,Jazz,Fusion,58.71666666666667,58.71666666666667,58.71666666666667
+CA,Music,Jazz,Jazz,49.98594202898551,71.15927536231884,60.57260869565218
+CA,Music,Jazz,Jazz Funk,31.634999999999998,31.634999999999998,31.634999999999998
+CA,Music,Jazz,New Orleans Jazz,55.58,55.58,55.58
+CA,Music,Jazz,Swing Jazz,47.75,47.75,47.75
+CA,Music,Jazz,World Jazz,67.3,67.3,67.3
+CA,Music,Latin,Latin,54.081896551724135,157.54741379310346,105.8146551724138
+CA,Music,Metal,Death Metal/Black Metal,33.39,33.39,33.39
+CA,Music,Metal,Doom Metal,24.66,24.66,24.66
+CA,Music,Metal,Goth Metal,47.82,503.08,275.45
+CA,Music,Metal,Heavy Metal,29.962666666666667,236.01533333333333,132.989
+CA,Music,Metal,Industrial Metal,26.7,26.7,26.7
+CA,Music,Metal,Metal,21.51,21.51,21.51
+CA,Music,Metal,Nu-Metal,43.18518518518518,98.05555555555556,70.62037037037037
+CA,Music,Metal,Power Metal,30.305,377.93,204.1175
+CA,Music,New Age,New Age,34.0,74.0,54.0
+CA,Music,Other,Other,37.908181818181816,99.49909090909091,68.70363636363636
+CA,Music,Pop,Adult Contemporary,46.63636363636363,102.86363636363636,74.75
+CA,Music,Pop,French Pop,0.0,0.0,0.0
+CA,Music,Pop,Indie Pop,26.445,40.8575,33.65125
+CA,Music,Pop,K-Pop,53.916666666666664,180.58333333333334,117.25
+CA,Music,Pop,Pop,38.6712,101.28389999999999,69.97755000000001
+CA,Music,Pop,Pop Rock,25.3125,28.445,26.87875
+CA,Music,Pop,Pop Vocal,30.19,67.15,48.67
+CA,Music,Pop,Singer-Songwriter,52.08714285714286,75.73,63.90857142857143
+CA,Music,R&B,Deep Funk Revival,38.25,161.95,100.1
+CA,Music,R&B,Funk,22.973333333333333,24.084444444444443,23.528888888888886
+CA,Music,R&B,Northern Soul,17.48,17.48,17.48
+CA,Music,R&B,Pop-Soul,57.75,97.0,77.375
+CA,Music,R&B,R&B,48.428970588235295,109.26941176470588,78.84919117647058
+CA,Music,R&B,Soul,40.47333333333333,91.83444444444444,66.15388888888889
+CA,Music,Reggae,DJ,0.0,14.95,7.475
+CA,Music,Reggae,Reggae,38.53,51.025,44.777499999999996
+CA,Music,Reggae,Reggae-Pop,25.215,92.565,58.89
+CA,Music,Reggae,Roots Reggae,7.95,15.59,11.77
+CA,Music,Religious,Contemporary Christian,54.15,89.526,71.838
+CA,Music,Religious,Gospel,41.61,89.025,65.3175
+CA,Music,Rock,Alternative Rock,34.69195833333333,65.61029166666667,50.151125
+CA,Music,Rock,Arena Rock,31.5,52.5,42.0
+CA,Music,Rock,Blues-Rock,32.148,32.148,32.148
+CA,Music,Rock,Celtic Rock,34.25,56.75,45.5
+CA,Music,Rock,Classic Rock,35.32,35.32,35.32
+CA,Music,Rock,Electronic,32.36,37.51,34.935
+CA,Music,Rock,Emo,24.95,24.95,24.95
+CA,Music,Rock,Folk Rock,27.75,90.125,58.9375
+CA,Music,Rock,Funk-Rock,16.715,16.715,16.715
+CA,Music,Rock,Garage Rock,27.22,27.22,27.22
+CA,Music,Rock,German Rock,59.5,79.5,69.5
+CA,Music,Rock,Glam,29.96666666666667,740.6666666666666,385.31666666666666
+CA,Music,Rock,Grindcore,39.21666666666667,341.8166666666666,190.51666666666665
+CA,Music,Rock,Guitar Virtuoso,43.7,43.7,43.7
+CA,Music,Rock,Hard Rock,33.43,460.674,247.052
+CA,Music,Rock,Hardcore Punk,31.007777777777775,49.31888888888889,40.163333333333334
+CA,Music,Rock,Indie Rock,22.6,22.6,22.6
+CA,Music,Rock,New Wave,36.25,383.875,210.0625
+CA,Music,Rock,Oldies & Classics,60.166666666666664,96.0,78.08333333333333
+CA,Music,Rock,Pop,40.134599483204134,79.99250645994832,60.06355297157623
+CA,Music,Rock,Pop Punk,25.42,25.42,25.42
+CA,Music,Rock,Progressive Rock,43.23,43.23,43.23
+CA,Music,Rock,Punk,28.866774193548387,124.11225806451613,76.48951612903227
+CA,Music,Rock,Rock,28.12818181818182,89.67,58.89909090909091
+CA,Music,Rock,Rock & Roll,26.94666666666667,329.93833333333333,178.4425
+CA,Music,Rock,Roots Rock,34.0,34.0,34.0
+CA,Music,Rock,Soft Rock,47.25,47.25,47.25
+CA,Music,Rock,Southern Rock,36.34,49.465,42.9025
+CA,Music,Rock,Stoner Metal,24.17,24.17,24.17
+CA,Music,Rock,Surf,38.27,38.27,38.27
+CA,Music,Rock,Surf Rock,0.0,0.0,0.0
+CA,Music,Undefined,Undefined,37.49387755102041,50.5030612244898,43.99846938775511
+CA,Music,World,Hawaiian,35.79333333333333,68.40666666666667,52.1
+CA,Music,World,Latin,38.96666666666667,121.51666666666665,80.24166666666666
+CA,Music,World,Latin Pop,7.95,16.62,12.285
+CA,Music,World,Trova,49.0,359.0,204.0
+CA,Music,World,World,40.24681818181818,84.54454545454546,62.395681818181814
+CA,Sports,Baseball,Minor League,12.4,39.12413793103448,25.762068965517237
+CA,Sports,Basketball,College,17.351470588235294,113.30441176470588,65.32794117647059
+CA,Sports,Basketball,High School,31.0,306.0,168.5
+CA,Sports,Basketball,Minor League,23.031964285714285,194.07142857142858,108.55169642857142
+CA,Sports,Basketball,NBA,82.98306451612903,5358.173951612903,2720.578508064516
+CA,Sports,Equestrian,Horse Racing,5.0,20.27777777777778,12.63888888888889
+CA,Sports,Football,College,45.5,278.0,161.75
+CA,Sports,Football,NFL,146.25,2046.25,1096.25
+CA,Sports,Hockey,AHL,22.083333333333332,109.54166666666667,65.8125
+CA,Sports,Hockey,Minor League,35.0,149.0,92.0
+CA,Sports,Hockey,NHL,44.945454545454545,462.96363636363634,253.95454545454547
+CA,Sports,Indoor Soccer,Indoor Soccer,4.99,39.99,22.490000000000002
+CA,Sports,Martial Arts,Mixed Martial Arts,65.0,300.0,182.5
+CA,Sports,Motorsports/Racing,Motorsports/Racing,27.359375,137.890625,82.625
+CA,Sports,Rodeo,Bullriding,20.46875,120.2375,70.353125
+CA,Sports,Rodeo,Rodeo,25.0,350.0,187.5
+CA,Sports,Soccer,Soccer,42.333333333333336,257.3333333333333,149.83333333333334
+CA,Sports,Wrestling,Wrestling,63.75,813.75,438.75
+CO,Arts & Theatre,Children's Theatre,Children's Theatre,39.5,59.5,49.5
+CO,Arts & Theatre,Classical,Symphonic,29.0,49.0,39.0
+CO,Arts & Theatre,Comedy,Comedy,40.49142857142857,71.56285714285714,56.027142857142856
+CO,Arts & Theatre,Dance,Dance,44.75,94.75,69.75
+CO,Arts & Theatre,Miscellaneous Theatre,Miscellaneous Theatre,42.0,67.0,54.5
+CO,Arts & Theatre,Multimedia,Multimedia,35.0,39.5,37.25
+CO,Arts & Theatre,Performance Art,Performance Art,49.75,299.0,174.375
+CO,Arts & Theatre,Theatre,Podcast,36.916666666666664,46.916666666666664,41.916666666666664
+CO,Film,Action/Adventure,Action/Adventure,22.0,22.0,22.0
+CO,Film,Family,Miscellaneous,34.0,74.0,54.0
+CO,Film,Miscellaneous,Miscellaneous,25.0,25.0,25.0
+CO,Miscellaneous,Ice Shows,Ice Shows,20.0,140.0,80.0
+CO,Music,Alternative,Indie Pop,20.04,20.04,20.04
+CO,Music,Alternative,Ska,20.04,20.04,20.04
+CO,Music,Ballads/Romantic,Ballads/Romantic,32.25,102.25,67.25
+CO,Music,Blues,Blues,33.125,50.625,41.875
+CO,Music,Classical,Classical/Vocal,80.0,360.0,220.0
+CO,Music,Country,Alternative Country,28.384999999999998,28.384999999999998,28.384999999999998
+CO,Music,Country,Bluegrass,44.5,69.5,57.0
+CO,Music,Country,Classic Country,47.29,47.29,47.29
+CO,Music,Country,Country,44.45538461538461,85.99384615384616,65.22461538461538
+CO,Music,Country,Nashville Sound,26.72,26.72,26.72
+CO,Music,Dance/Electronic,House,19.95,19.95,19.95
+CO,Music,Dance/Electronic,Witchstep,26.0,53.9375,39.96875
+CO,Music,Folk,Americana,28.0,28.0,28.0
+CO,Music,Folk,Indie Folk,39.5,99.5,69.5
+CO,Music,Hip-Hop/Rap,French Rap,55.767857142857146,105.19642857142857,80.48214285714286
+CO,Music,Latin,Latin,59.0,189.0,124.0
+CO,Music,Metal,Nu-Metal,43.0,73.61538461538461,58.30769230769231
+CO,Music,Other,Other,56.74464285714286,62.012499999999996,59.378571428571426
+CO,Music,Pop,A Cappella,20.0,45.0,32.5
+CO,Music,Pop,K-Pop,40.0,80.0,60.0
+CO,Music,Pop,Pop,54.23076923076923,86.5576923076923,70.39423076923077
+CO,Music,R&B,R&B,49.75909090909091,105.12272727272726,77.44090909090909
+CO,Music,Religious,Gospel,45.91,121.6,83.755
+CO,Music,Rock,Alternative Rock,35.058928571428574,62.275,48.666964285714286
+CO,Music,Rock,German Rock,39.5,99.5,69.5
+CO,Music,Rock,Pop,38.44511627906977,65.72534883720931,52.08523255813953
+CO,Music,Rock,Punk,20.0,20.0,20.0
+CO,Music,Undefined,Undefined,27.25,66.9375,47.09375
+CO,Sports,Basketball,NBA,49.45454545454545,3523.939393939394,1786.6969696969697
+CO,Sports,Football,NFL,65.0,562.75,313.875
+CO,Sports,Hockey,College,29.0,85.0,57.0
+CO,Sports,Hockey,NHL,60.61538461538461,1003.8461538461538,532.2307692307693
+CO,Sports,Lacrosse,Lacrosse,27.571428571428573,999.0,513.2857142857143
+CO,Sports,Motorsports/Racing,Motorsports/Racing,26.25,92.5,59.375
+CT,Arts & Theatre,Children's Theatre,Children's Theatre,39.0,69.0,54.0
+CT,Arts & Theatre,Circus & Specialty Acts,Circus,48.8,167.2,108.0
+CT,Arts & Theatre,Comedy,Comedy,46.11764705882353,122.94117647058823,84.52941176470588
+CT,Arts & Theatre,Dance,Dance,63.35,153.9,108.625
+CT,Arts & Theatre,Magic & Illusion,Magic,37.5,75.0,56.25
+CT,Arts & Theatre,Miscellaneous Theatre,Miscellaneous Theatre,35.833333333333336,129.16666666666666,82.5
+CT,Arts & Theatre,Theatre,Musical,40.0,112.25,76.125
+CT,Film,Comedy,Comedy,35.0,55.0,45.0
+CT,Miscellaneous,Community/Civic,Community/Civic,48.5,73.5,61.0
+CT,Miscellaneous,Family,Other,35.0,107.0,71.0
+CT,Miscellaneous,Food & Drink,Food & Drink,103.57142857142857,103.57142857142857,103.57142857142857
+CT,Miscellaneous,Hobby/Special Interest Expos,Hobby/Special Interest Expos,36.2,36.2,36.2
+CT,Miscellaneous,Ice Shows,Ice Shows,17.25,102.5,59.875
+CT,Miscellaneous,Lecture/Seminar,Lecture/Seminar,31.5,245.75,138.625
+CT,Miscellaneous,Psychics/Mediums/Hypnotists,Psychics/Mediums/Hypnotists,75.0,85.0,80.0
+CT,Miscellaneous,Undefined,Undefined,99.0,99.0,99.0
+CT,Music,Blues,Blues,69.0,249.0,159.0
+CT,Music,Children's Music,Children's Music,35.0,35.0,35.0
+CT,Music,Classical,Classical/Vocal,71.16666666666667,231.16666666666666,151.16666666666666
+CT,Music,Country,Bluegrass,35.0,75.0,55.0
+CT,Music,Country,Country,46.228571428571435,137.5857142857143,91.90714285714286
+CT,Music,Dance/Electronic,Witchstep,17.857142857142858,17.857142857142858,17.857142857142858
+CT,Music,Hip-Hop/Rap,French Rap,45.0,155.0,100.0
+CT,Music,Hip-Hop/Rap,Reggaeton,40.0,180.0,110.0
+CT,Music,Jazz,Jazz,39.0,65.0,52.0
+CT,Music,Latin,Latin,49.5,129.5,89.5
+CT,Music,Metal,Nu-Metal,39.5,269.5,154.5
+CT,Music,Other,Other,39.5,129.5,84.5
+CT,Music,Pop,Adult Contemporary,65.0,95.0,80.0
+CT,Music,Pop,Pop,79.5,169.5,124.5
+CT,Music,R&B,R&B,41.9375,131.4375,86.6875
+CT,Music,Religious,Gospel,20.0,119.75,69.875
+CT,Music,Rock,Alternative Rock,36.5,920.875,478.6875
+CT,Music,Rock,Pop,45.667857142857144,134.73035714285714,90.19910714285713
+CT,Music,Rock,Rock,74.54,74.54,74.54
+CT,Music,Undefined,Undefined,26.875,44.9,35.8875
+CT,Sports,Basketball,College,17.5,82.5,50.0
+CT,Sports,Hockey,AHL,16.70212765957447,52.680851063829785,34.691489361702125
+CT,Sports,Hockey,College,11.666666666666666,132.77777777777777,72.22222222222223
+CT,Sports,Martial Arts,Mixed Martial Arts,56.0,91.0,73.5
+CT,Sports,Motorsports/Racing,Motorsports/Racing,19.166666666666668,61.666666666666664,40.416666666666664
+CT,Sports,Rodeo,Bullriding,22.0,115.875,68.9375
+DE,Arts & Theatre,Comedy,Comedy,27.0,77.0,52.0
+DE,Arts & Theatre,Miscellaneous Theatre,Miscellaneous Theatre,26.0,26.0,26.0
+DE,Music,Folk,Indie Folk,20.0,20.0,20.0
+DE,Music,Hip-Hop/Rap,French Rap,35.0,99.0,67.0
+DE,Music,Pop,Pop,28.5,75.0,51.75
+DE,Music,Religious,Gospel,32.5,50.0,41.25
+DE,Music,Rock,Pop,25.333333333333332,44.166666666666664,34.75
+DE,Music,Undefined,Undefined,30.214285714285715,52.5,41.357142857142854
+DE,Sports,Basketball,NBA D League,18.0,114.0,66.0
+FL,Arts & Theatre,Children's Theatre,Children's Theatre,19.089444444444446,29.936666666666667,24.513055555555557
+FL,Arts & Theatre,Circus & Specialty Acts,Pantomime,45.0,125.0,85.0
+FL,Arts & Theatre,Classical,Classical/Vocal,33.0,61.666666666666664,47.333333333333336
+FL,Arts & Theatre,Classical,Symphonic,25.023960396039605,89.25217821782178,57.13806930693069
+FL,Arts & Theatre,Comedy,Comedy,46.44915584415585,116.74811688311688,81.59863636363637
+FL,Arts & Theatre,Cultural,Cultural,52.0,57.0,54.5
+FL,Arts & Theatre,Dance,Dance,48.03193548387097,126.45935483870967,87.24564516129031
+FL,Arts & Theatre,Magic & Illusion,Magic,25.715999999999998,36.608000000000004,31.162
+FL,Arts & Theatre,Miscellaneous Theatre,Miscellaneous Theatre,47.5,66.25,56.875
+FL,Arts & Theatre,Opera,Opera,29.279999999999998,162.3876923076923,95.83384615384615
+FL,Arts & Theatre,Performance Art,Performance Art,45.935,131.3725,88.65375
+FL,Arts & Theatre,Spectacular,Spectacular,49.0,159.5,104.25
+FL,Arts & Theatre,Theatre,Comedy,49.0,73.46666666666667,61.233333333333334
+FL,Arts & Theatre,Theatre,Drama,32.0,64.0,48.0
+FL,Arts & Theatre,Theatre,Horror,39.0,99.0,69.0
+FL,Arts & Theatre,Theatre,Musical,52.92323699421965,133.0128323699422,92.96803468208093
+FL,Arts & Theatre,Theatre,Podcast,37.0,109.5,73.25
+FL,Arts & Theatre,Variety,Cabaret,40.0,70.0,55.0
+FL,Arts & Theatre,Variety,Variety,45.0,65.0,55.0
+FL,Miscellaneous,Community/Civic,Community/Civic,45.666666666666664,115.66666666666667,80.66666666666667
+FL,Miscellaneous,Family,Other,29.34375,177.96875,103.65625
+FL,Miscellaneous,Hobby/Special Interest Expos,Hobby/Special Interest Expos,5.0,15.0,10.0
+FL,Miscellaneous,Ice Shows,Ice Shows,21.53846153846154,108.84615384615384,65.1923076923077
+FL,Miscellaneous,Lecture/Seminar,Lecture/Seminar,47.0,165.5,106.25
+FL,Miscellaneous,Psychics/Mediums/Hypnotists,Psychics/Mediums/Hypnotists,38.0,80.5,59.25
+FL,Miscellaneous,Undefined,Undefined,56.27142857142857,56.27142857142857,56.27142857142857
+FL,Music,Alternative,Alternative,0.0,0.0,0.0
+FL,Music,Alternative,Alternative Rock,19.846153846153847,26.384615384615383,23.115384615384617
+FL,Music,Alternative,Americana,0.0,0.0,0.0
+FL,Music,Alternative,Indie Pop,17.333333333333332,17.333333333333332,17.333333333333332
+FL,Music,Alternative,Neo-Psychedelia,30.0,30.0,30.0
+FL,Music,Alternative,Ska Punk,25.0,25.0,25.0
+FL,Music,Ballads/Romantic,Ballads/Romantic,34.666666666666664,119.66666666666667,77.16666666666667
+FL,Music,Blues,Blues,39.8125,115.75,77.78125
+FL,Music,Classical,Classical/Vocal,53.07666666666667,184.32666666666668,118.70166666666667
+FL,Music,Country,Alternative Country,25.0,25.0,25.0
+FL,Music,Country,Country,51.03159090909091,127.37818181818183,89.20488636363636
+FL,Music,Country,Country Folk,27.0,200.0,113.5
+FL,Music,Country,Country Pop,12.5,45.0,28.75
+FL,Music,Dance/Electronic,Witchstep,41.25,117.5,79.375
+FL,Music,Folk,Indie Folk,41.5,41.5,41.5
+FL,Music,Hip-Hop/Rap,French Rap,53.01882352941176,178.6364705882353,115.82764705882353
+FL,Music,Hip-Hop/Rap,Hip-Hop/Rap,0.0,0.0,0.0
+FL,Music,Hip-Hop/Rap,Reggaeton,51.5,165.5,108.5
+FL,Music,Holiday,Christmas Music,58.83,81.26,70.045
+FL,Music,Jazz,Jazz,36.222500000000004,58.71178571428572,47.46714285714285
+FL,Music,Latin,Latin,47.15607142857143,188.4025,117.77928571428572
+FL,Music,Metal,Death Metal/Black Metal,20.0,20.0,20.0
+FL,Music,Metal,Doom Metal,22.0,22.0,22.0
+FL,Music,Metal,Heavy Metal,20.0,20.0,20.0
+FL,Music,Metal,Nu-Metal,40.107142857142854,112.64285714285714,76.375
+FL,Music,Metal,Sludge Metal,20.0,20.0,20.0
+FL,Music,Other,Other,35.9525,99.66625,67.809375
+FL,Music,Pop,Adult Contemporary,45.638,113.123,79.38050000000001
+FL,Music,Pop,K-Pop,62.166666666666664,205.0,133.58333333333334
+FL,Music,Pop,Pop,47.82692307692308,114.78846153846153,81.3076923076923
+FL,Music,Pop,Singer-Songwriter,24.0,24.0,24.0
+FL,Music,R&B,Funk,40.0,40.0,40.0
+FL,Music,R&B,R&B,58.065,171.4625,114.76375
+FL,Music,R&B,Soul,65.0,95.0,80.0
+FL,Music,Reggae,Reggae,39.0,39.0,39.0
+FL,Music,Reggae,Rock Steady,0.0,0.0,0.0
+FL,Music,Religious,Contemporary Christian,51.666666666666664,85.0,68.33333333333333
+FL,Music,Religious,Gospel,23.925,89.53571428571429,56.730357142857144
+FL,Music,Religious,Praise & Worship,0.0,0.0,0.0
+FL,Music,Rock,Alternative Rock,40.05128205128205,107.51282051282051,73.78205128205128
+FL,Music,Rock,Arena Rock,24.99,38.0,31.494999999999997
+FL,Music,Rock,Emo,0.0,0.0,0.0
+FL,Music,Rock,Experimental Rock,20.0,20.0,20.0
+FL,Music,Rock,Garage Rock,0.0,0.0,0.0
+FL,Music,Rock,Hardcore Punk,25.0,25.0,25.0
+FL,Music,Rock,Oldies & Classics,63.46125,113.1825,88.321875
+FL,Music,Rock,Pop,55.03584337349398,124.72668674698795,89.88126506024096
+FL,Music,Rock,Pop Punk,15.0,15.0,15.0
+FL,Music,Rock,Progressive Metal,9.0,9.0,9.0
+FL,Music,Rock,Punk,33.714285714285715,50.857142857142854,42.285714285714285
+FL,Music,Rock,Rock,19.833333333333332,24.0,21.916666666666668
+FL,Music,Rock,Rockabilly,20.0,20.0,20.0
+FL,Music,Rock,Stoner Metal,20.0,20.0,20.0
+FL,Music,Undefined,Undefined,40.10865384615385,63.28865384615385,51.698653846153846
+FL,Music,World,Trova,48.0,588.0,318.0
+FL,Music,World,World,60.833333333333336,160.75,110.79166666666667
+FL,Sports,Baseball,MLB,26.951612903225808,105.7258064516129,66.33870967741936
+FL,Sports,Basketball,College,12.930232558139535,111.87209302325581,62.401162790697676
+FL,Sports,Basketball,NBA,49.734375,1801.84375,925.7890625
+FL,Sports,Basketball,NBA D League,11.0,171.0,91.0
+FL,Sports,Basketball,Women Professional,45.0,225.0,135.0
+FL,Sports,Boxing,Boxing,53.0,453.0,253.0
+FL,Sports,Equestrian,Horse Racing,55.0,564.6666666666666,309.8333333333333
+FL,Sports,Football,College,98.33333333333333,1015.0,556.6666666666666
+FL,Sports,Golf,Golf,179.55555555555554,202.0,190.77777777777777
+FL,Sports,Hockey,Minor League,18.69724770642202,75.8440366972477,47.27064220183486
+FL,Sports,Hockey,NHL,46.75,995.25,521.0
+FL,Sports,Martial Arts,Mixed Martial Arts,65.0,1825.0,945.0
+FL,Sports,Miscellaneous,Miscellaneous,70.0,500.0,285.0
+FL,Sports,Motorsports/Racing,Motorsports/Racing,24.403846153846153,80.73076923076923,52.56730769230769
+FL,Sports,Rodeo,Bullriding,17.625,122.025,69.825
+FL,Sports,Soccer,MLS,29.0,800.0,414.5
+FL,Sports,Soccer,Soccer,35.0,35.0,35.0
+FL,Sports,Tennis,Tennis,53.5945945945946,1494.8648648648648,774.2297297297297
+FL,Sports,Volleyball,Volleyball,25.0,147.5,86.25
+FL,Sports,Wrestling,Wrestling,25.714285714285715,166.42857142857142,96.07142857142857
+GA,Arts & Theatre,Children's Theatre,Children's Theatre,63.74444444444445,96.87777777777778,80.3111111111111
+GA,Arts & Theatre,Circus & Specialty Acts,Circus,22.636363636363637,103.54545454545455,63.09090909090909
+GA,Arts & Theatre,Classical,Symphonic,35.28448275862069,118.5,76.89224137931035
+GA,Arts & Theatre,Comedy,Comedy,39.684035087719295,98.429649122807,69.05684210526316
+GA,Arts & Theatre,Dance,Dance,41.34375,127.890625,84.6171875
+GA,Arts & Theatre,Miscellaneous Theatre,Miscellaneous Theatre,29.95,44.95,37.45
+GA,Arts & Theatre,Opera,Opera,49.75,115.75,82.75
+GA,Arts & Theatre,Performance Art,Performance Art,31.5,121.5,76.5
+GA,Arts & Theatre,Theatre,Musical,53.77777777777778,104.0,78.88888888888889
+GA,Arts & Theatre,Theatre,Podcast,33.0,43.0,38.0
+GA,Film,Action/Adventure,Action/Adventure,39.5,109.5,74.5
+GA,Miscellaneous,Family,Other,27.375,336.375,181.875
+GA,Miscellaneous,Ice Shows,Ice Shows,20.0,106.66666666666667,63.333333333333336
+GA,Miscellaneous,Multimedia,Multimedia,67.0,67.0,67.0
+GA,Miscellaneous,Undefined,Undefined,58.81481481481482,58.81481481481482,58.81481481481482
+GA,Music,Ballads/Romantic,Ballads/Romantic,30.5,77.16666666666667,53.833333333333336
+GA,Music,Blues,Blues,47.583333333333336,139.75,93.66666666666667
+GA,Music,Children's Music,Children's Music,29.0,69.0,49.0
+GA,Music,Classical,Classical/Vocal,61.625,254.0,157.8125
+GA,Music,Country,Bluegrass,39.5,74.5,57.0
+GA,Music,Country,Country,38.0,121.95454545454545,79.97727272727273
+GA,Music,Dance/Electronic,Witchstep,35.90625,65.75,50.828125
+GA,Music,Folk,Indie Folk,28.416666666666668,46.666666666666664,37.541666666666664
+GA,Music,Hip-Hop/Rap,French Rap,42.65151515151515,112.57575757575758,77.61363636363636
+GA,Music,Hip-Hop/Rap,Reggaeton,41.0,191.0,116.0
+GA,Music,Jazz,Jazz,35.333333333333336,62.0,48.666666666666664
+GA,Music,Latin,Latin,43.04090909090909,107.58636363636364,75.31363636363636
+GA,Music,Metal,Nu-Metal,34.72,61.24,47.98
+GA,Music,Other,Other,30.75,82.41666666666667,56.583333333333336
+GA,Music,Pop,K-Pop,66.16666666666667,376.1666666666667,221.16666666666666
+GA,Music,Pop,Pop,31.928571428571427,68.98214285714286,50.455357142857146
+GA,Music,R&B,R&B,46.423478260869565,113.51043478260868,79.96695652173914
+GA,Music,R&B,Soul,34.875,63.375,49.125
+GA,Music,Reggae,Reggae,50.0,70.0,60.0
+GA,Music,Religious,Gospel,22.43625,59.3425,40.889375
+GA,Music,Religious,Praise & Worship,0.0,0.0,0.0
+GA,Music,Rock,Alternative Rock,29.431818181818183,46.49545454545454,37.96363636363636
+GA,Music,Rock,Oldies & Classics,59.666666666666664,133.0,96.33333333333333
+GA,Music,Rock,Pop,35.26821052631579,71.90768421052631,53.58794736842105
+GA,Music,Rock,Punk,21.681818181818183,25.318181818181817,23.5
+GA,Music,Undefined,Undefined,32.05,64.225,48.1375
+GA,Music,World,World,26.72222222222222,66.38888888888889,46.55555555555556
+GA,Sports,Baseball,MLB,12.236842105263158,255.0921052631579,133.66447368421052
+GA,Sports,Basketball,NBA,41.172413793103445,922.0344827586207,481.6034482758621
+GA,Sports,Basketball,NBA D League,13.0,125.0,69.0
+GA,Sports,Boxing,Boxing,25.0,25.0,25.0
+GA,Sports,Hockey,Ice Hockey,12.0,28.0,20.0
+GA,Sports,Hockey,Minor League,20.44776119402985,57.440298507462686,38.94402985074627
+GA,Sports,Lacrosse,Lacrosse,8.0,51.0,29.5
+GA,Sports,Martial Arts,Mixed Martial Arts,41.0,196.0,118.5
+GA,Sports,Motorsports/Racing,Motorsports/Racing,18.416666666666668,64.25,41.333333333333336
+GA,Sports,Rodeo,Bullriding,44.0,184.0,114.0
+GA,Sports,Volleyball,Volleyball,21.0,103.0,62.0
+GA,Sports,Wrestling,Wrestling,40.0,250.0,145.0
+HI,Arts & Theatre,Comedy,Comedy,38.55,60.55,49.55
+HI,Arts & Theatre,Dance,Dance,50.0,130.0,90.0
+HI,Arts & Theatre,Opera,Opera,35.0,135.0,85.0
+HI,Music,Country,Country,50.0,65.0,57.5
+HI,Music,Jazz,Jazz,25.0,35.0,30.0
+HI,Music,Other,Other,29.5,149.5,89.5
+HI,Music,Pop,Pop,45.0,55.0,50.0
+HI,Music,R&B,Contemporary R&B,45.0,55.0,50.0
+HI,Music,R&B,Psychedelic Soul,30.0,45.0,37.5
+HI,Music,R&B,R&B,44.214285714285715,62.142857142857146,53.17857142857143
+HI,Music,R&B,Soul,65.0,85.0,75.0
+HI,Music,Reggae,Reggae,62.666666666666664,429.3333333333333,246.0
+HI,Music,Rock,Pop,53.46153846153846,71.92307692307692,62.69230769230769
+HI,Music,World,World,46.25,70.0,58.125
+IA,Arts & Theatre,Children's Theatre,Children's Theatre,28.75,66.875,47.8125
+IA,Arts & Theatre,Circus & Specialty Acts,Circus,12.0,40.0,26.0
+IA,Arts & Theatre,Classical,Classical/Vocal,30.0,50.0,40.0
+IA,Arts & Theatre,Classical,Symphonic,23.975,66.4,45.1875
+IA,Arts & Theatre,Comedy,Comedy,37.970588235294116,86.54411764705883,62.25735294117647
+IA,Arts & Theatre,Dance,Dance,30.545454545454547,74.0,52.27272727272727
+IA,Arts & Theatre,Magic & Illusion,Magic,39.5,49.5,44.5
+IA,Arts & Theatre,Miscellaneous Theatre,Miscellaneous Theatre,36.0,81.66666666666667,58.833333333333336
+IA,Arts & Theatre,Opera,Opera,18.0,75.0,46.5
+IA,Arts & Theatre,Theatre,Drama,35.5,68.0,51.75
+IA,Arts & Theatre,Theatre,Musical,32.30769230769231,81.23076923076923,56.76923076923077
+IA,Film,Family,Miscellaneous,34.25,76.75,55.5
+IA,Miscellaneous,Family,Other,29.5,241.5,135.5
+IA,Music,Country,Bluegrass,28.0,43.0,35.5
+IA,Music,Country,Country,30.113636363636363,82.43181818181819,56.27272727272727
+IA,Music,Dance/Electronic,Witchstep,30.0,30.0,30.0
+IA,Music,Holiday,Christmas Music,19.75,39.75,29.75
+IA,Music,Jazz,Jazz,45.1,80.7,62.9
+IA,Music,New Age,New Age,51.5,74.0,62.75
+IA,Music,Other,Other,29.333333333333332,51.0,40.166666666666664
+IA,Music,Pop,Adult Contemporary,25.0,35.0,30.0
+IA,Music,R&B,R&B,36.5,151.5,94.0
+IA,Music,Rock,Alternative Rock,35.333333333333336,82.0,58.666666666666664
+IA,Music,Rock,Pop,36.9264705882353,71.66176470588235,54.294117647058826
+IA,Music,Undefined,Undefined,27.75,45.75,36.75
+IA,Music,World,Latin,70.0,500.0,285.0
+IA,Music,World,World,30.5,58.0,44.25
+IA,Sports,Basketball,College,36.666666666666664,55.0,45.833333333333336
+IA,Sports,Hockey,Minor League,16.0,20.0,18.0
+IA,Sports,Motorsports/Racing,Motorsports/Racing,20.0,39.0,29.5
+IA,Sports,Rodeo,Bullriding,21.0,30.0,25.5
+IA,Sports,Rodeo,Rodeo,26.66333333333333,66.66333333333334,46.663333333333334
+IA,Sports,Wrestling,Wrestling,15.0,15.0,15.0
+ID,Arts & Theatre,Children's Theatre,Children's Theatre,29.625,105.75,67.6875
+ID,Arts & Theatre,Classical,Symphonic,10.0,10.0,10.0
+ID,Arts & Theatre,Comedy,Comedy,31.46875,119.65625,75.5625
+ID,Arts & Theatre,Dance,Dance,49.861111111111114,134.66666666666666,92.26388888888889
+ID,Arts & Theatre,Miscellaneous Theatre,Miscellaneous Theatre,43.25,143.25,93.25
+ID,Arts & Theatre,Theatre,Drama,40.0,70.0,55.0
+ID,Arts & Theatre,Theatre,Horror,30.0,85.0,57.5
+ID,Arts & Theatre,Theatre,Miscellaneous,18.8,18.8,18.8
+ID,Arts & Theatre,Theatre,Musical,52.642857142857146,200.42857142857142,126.53571428571429
+ID,Miscellaneous,Lecture/Seminar,Lecture/Seminar,41.5,97.0,69.25
+ID,Music,Alternative,Alternative Rock,18.0,18.0,18.0
+ID,Music,Alternative,Dream Pop,18.0,18.0,18.0
+ID,Music,Alternative,Indie Pop,18.0,18.0,18.0
+ID,Music,Alternative,Post-Rock/Experimental,25.0,25.0,25.0
+ID,Music,Country,Country,31.821428571428573,77.53571428571429,54.67857142857143
+ID,Music,Dance/Electronic,Witchstep,30.5,71.6,51.05
+ID,Music,Folk,Indie Folk,39.5,99.5,69.5
+ID,Music,Hip-Hop/Rap,French Rap,43.5,394.0,218.75
+ID,Music,Hip-Hop/Rap,Urban,20.0,45.0,32.5
+ID,Music,Metal,Nu-Metal,30.0,75.0,52.5
+ID,Music,New Age,New Age,32.5,80.0,56.25
+ID,Music,Other,Other,23.0,50.0,36.5
+ID,Music,Pop,Adult Contemporary,36.5,70.0,53.25
+ID,Music,Pop,Pop,25.0,95.0,60.0
+ID,Music,Pop,Pop Rock,22.0,22.0,22.0
+ID,Music,Reggae,Reggae,27.5,74.33333333333333,50.916666666666664
+ID,Music,Rock,Alternative Rock,44.45,371.65,208.05
+ID,Music,Rock,Emo,20.0,20.0,20.0
+ID,Music,Rock,Pop,29.291666666666668,100.45833333333333,64.875
+ID,Music,Rock,Psychedelic,18.0,18.0,18.0
+ID,Music,Rock,Punk,20.0,20.0,20.0
+ID,Music,Rock,Rockabilly,30.0,30.0,30.0
+ID,Music,Undefined,Undefined,24.5,57.5,41.0
+ID,Music,World,Latin,40.0,75.0,57.5
+ID,Sports,Basketball,College,19.166666666666668,79.58333333333333,49.375
+ID,Sports,Football,College,20.0,200.0,110.0
+ID,Sports,Hockey,College,15.0,15.0,15.0
+ID,Sports,Hockey,Minor League,20.790697674418606,47.74418604651163,34.26744186046512
+IL,Arts & Theatre,Children's Theatre,Children's Theatre,22.625,41.6875,32.15625
+IL,Arts & Theatre,Circus & Specialty Acts,Circus,45.9375,135.25,90.59375
+IL,Arts & Theatre,Classical,Symphonic,38.291666666666664,84.45833333333333,61.375
+IL,Arts & Theatre,Comedy,Comedy,37.24632352941177,86.23014705882352,61.73823529411764
+IL,Arts & Theatre,Dance,Dance,28.863636363636363,81.4090909090909,55.13636363636363
+IL,Arts & Theatre,Magic & Illusion,Magic,21.75,279.75,150.75
+IL,Arts & Theatre,Miscellaneous Theatre,Miscellaneous Theatre,47.708333333333336,120.04166666666667,83.875
+IL,Arts & Theatre,Performance Art,Performance Art,39.5,69.5,54.5
+IL,Arts & Theatre,Theatre,Comedy,49.698113207547166,132.0754716981132,90.88679245283019
+IL,Arts & Theatre,Theatre,Drama,54.976,125.776,90.376
+IL,Arts & Theatre,Theatre,Horror,36.5,101.5,69.0
+IL,Arts & Theatre,Theatre,Musical,48.083333333333336,209.31333333333333,128.69833333333332
+IL,Arts & Theatre,Theatre,Podcast,41.62,313.12,177.37
+IL,Arts & Theatre,Variety,Variety,44.5,79.5,62.0
+IL,Film,Family,Miscellaneous,36.0,61.5,48.75
+IL,Film,Miscellaneous,Miscellaneous,29.25,59.25,44.25
+IL,Miscellaneous,Community/Civic,Community/Civic,34.5,214.75,124.625
+IL,Miscellaneous,Family,Other,34.541666666666664,192.125,113.33333333333333
+IL,Miscellaneous,Holiday,Holiday,12.75,35.0,23.875
+IL,Miscellaneous,Ice Shows,Ice Shows,19.644736842105264,110.65789473684211,65.15131578947368
+IL,Miscellaneous,Lecture/Seminar,Lecture/Seminar,43.916666666666664,93.16666666666667,68.54166666666667
+IL,Miscellaneous,Undefined,Undefined,39.333333333333336,40.166666666666664,39.75
+IL,Music,Alternative,Alternative,5.0,5.0,5.0
+IL,Music,Alternative,Alternative Rock,15.0,73.39473684210526,44.19736842105263
+IL,Music,Alternative,Dream Pop,20.0,20.0,20.0
+IL,Music,Alternative,Indie Pop,8.333333333333334,8.333333333333334,8.333333333333334
+IL,Music,Alternative,Indie Rock,9.0,100.0,54.5
+IL,Music,Alternative,Post-Punk,25.0,25.0,25.0
+IL,Music,Alternative,Post-Rock/Experimental,50.0,50.0,50.0
+IL,Music,Ballads/Romantic,Ballads/Romantic,31.0,126.25,78.625
+IL,Music,Blues,Blues,32.7,80.8,56.75
+IL,Music,Blues,Chicago Blues,25.0,40.0,32.5
+IL,Music,Classical,Classical/Vocal,42.214285714285715,155.21428571428572,98.71428571428571
+IL,Music,Country,Alternative Country,18.5,18.5,18.5
+IL,Music,Country,Classic Country,25.0,45.0,35.0
+IL,Music,Country,Country,34.813559322033896,87.10169491525424,60.95762711864407
+IL,Music,Country,Nashville Sound,15.0,65.0,40.0
+IL,Music,Dance/Electronic,Electro-Jazz,20.0,30.0,25.0
+IL,Music,Dance/Electronic,Witchstep,43.96107142857143,64.76571428571428,54.363392857142856
+IL,Music,Folk,Alternative Folk,0.0,0.0,0.0
+IL,Music,Folk,Indie Folk,32.0,40.0,36.0
+IL,Music,Hip-Hop/Rap,French Rap,68.88461538461539,201.07692307692307,134.98076923076923
+IL,Music,Hip-Hop/Rap,Hip-Hop/Rap,16.666666666666668,84.16666666666667,50.416666666666664
+IL,Music,Hip-Hop/Rap,Reggaeton,41.0,191.0,116.0
+IL,Music,Hip-Hop/Rap,Urban,20.0,30.0,25.0
+IL,Music,Jazz,Free Jazz,15.0,20.0,17.5
+IL,Music,Jazz,Fusion,0.0,0.0,0.0
+IL,Music,Jazz,Jazz,20.454545454545453,152.75,86.60227272727273
+IL,Music,Jazz,New Orleans Brass Bands,0.0,0.0,0.0
+IL,Music,Latin,Latin,45.21052631578947,146.21052631578948,95.71052631578948
+IL,Music,Metal,Death Metal/Black Metal,13.75,55.0,34.375
+IL,Music,Metal,Heavy Metal,14.916666666666666,62.833333333333336,38.875
+IL,Music,Metal,Metal,12.5,75.0,43.75
+IL,Music,Metal,Nu-Metal,45.2,168.3,106.75
+IL,Music,Metal,Power Metal,12.5,50.0,31.25
+IL,Music,Other,Other,43.049,81.899,62.474000000000004
+IL,Music,Pop,Adult Contemporary,59.0,89.0,74.0
+IL,Music,Pop,Dream Pop,11.666666666666666,130.0,70.83333333333333
+IL,Music,Pop,Indie Pop,17.5,62.5,40.0
+IL,Music,Pop,K-Pop,46.92857142857143,221.35714285714286,134.14285714285714
+IL,Music,Pop,Pop,36.32058823529412,81.35000000000001,58.83529411764706
+IL,Music,Pop,Pop Rock,0.0,0.0,0.0
+IL,Music,Pop,Pop Vocal,15.0,35.0,25.0
+IL,Music,Pop,Singer-Songwriter,17.5,104.44444444444444,60.97222222222222
+IL,Music,Pop,Synth Pop,29.5,270.0,149.75
+IL,Music,R&B,Funk,0.0,0.0,0.0
+IL,Music,R&B,R&B,46.354166666666664,114.9375,80.64583333333333
+IL,Music,R&B,Soul,53.0,78.0,65.5
+IL,Music,Reggae,Reggae,40.0,40.0,40.0
+IL,Music,Religious,Contemporary Christian,26.0,65.0,45.5
+IL,Music,Religious,Gospel,30.0,83.6875,56.84375
+IL,Music,Rock,Alternative Rock,48.88333333333333,116.15,82.51666666666667
+IL,Music,Rock,Avant-Garde Rock,27.5,27.5,27.5
+IL,Music,Rock,Blues-Rock,20.0,150.0,85.0
+IL,Music,Rock,Garage Rock,20.0,20.0,20.0
+IL,Music,Rock,German Rock,49.5,89.5,69.5
+IL,Music,Rock,Hard Rock,11.666666666666666,11.666666666666666,11.666666666666666
+IL,Music,Rock,Hardcore Punk,22.375,113.75,68.0625
+IL,Music,Rock,Indie Rock,0.0,0.0,0.0
+IL,Music,Rock,Kraut Rock,45.0,45.0,45.0
+IL,Music,Rock,Oldies & Classics,69.0,125.0,97.0
+IL,Music,Rock,Pop,38.32970873786408,91.96077669902911,65.1452427184466
+IL,Music,Rock,Pop Punk,20.0,20.0,20.0
+IL,Music,Rock,Post-Punk,25.0,25.0,25.0
+IL,Music,Rock,Punk,30.833333333333332,56.5,43.666666666666664
+IL,Music,Rock,Rock,20.833333333333332,162.5,91.66666666666667
+IL,Music,Rock,Rock & Roll,20.0,28.75,24.375
+IL,Music,Rock,Roots Rock,39.0,300.0,169.5
+IL,Music,Rock,Surf Rock,20.0,20.0,20.0
+IL,Music,Undefined,Undefined,31.01388888888889,58.041666666666664,44.52777777777778
+IL,Music,World,Afro-Beat,41.0,486.0,263.5
+IL,Music,World,Latin,60.0,200.0,130.0
+IL,Music,World,Trova,67.0,348.0,207.5
+IL,Music,World,World,39.0,168.0,103.5
+IL,Sports,Basketball,College,13.0,72.3076923076923,42.65384615384615
+IL,Sports,Basketball,NBA,61.4,745.9666666666667,403.68333333333334
+IL,Sports,Basketball,NBA D League,15.0,105.0,60.0
+IL,Sports,Football,NFL,130.0,773.0,451.5
+IL,Sports,Hockey,AHL,21.77777777777778,69.11111111111111,45.44444444444444
+IL,Sports,Hockey,Ice Hockey,20.02962962962963,75.0,47.51481481481482
+IL,Sports,Hockey,Minor League,12.575,39.375,25.975
+IL,Sports,Hockey,NHL,40.333333333333336,811.3349999999999,425.83416666666665
+IL,Sports,Motorsports/Racing,Motorsports/Racing,24.363636363636363,73.0,48.68181818181818
+IL,Sports,Rodeo,Bullriding,22.4,104.8,63.6
+IL,Sports,Wrestling,Wrestling,43.0,97.0,70.0
+IN,Arts & Theatre,Children's Theatre,Children's Theatre,28.295454545454547,93.8409090909091,61.06818181818182
+IN,Arts & Theatre,Circus & Specialty Acts,Circus,17.5,34.5,26.0
+IN,Arts & Theatre,Classical,Classical/Vocal,28.0,46.0,37.0
+IN,Arts & Theatre,Classical,Symphonic,18.418333333333333,74.33333333333333,46.37583333333333
+IN,Arts & Theatre,Comedy,Comedy,38.62765957446808,88.68085106382979,63.65425531914894
+IN,Arts & Theatre,Dance,Dance,27.289736842105263,60.36842105263158,43.82907894736842
+IN,Arts & Theatre,Magic & Illusion,Magic,27.877499999999998,78.5,53.18875
+IN,Arts & Theatre,Miscellaneous Theatre,Miscellaneous Theatre,40.27272727272727,92.0909090909091,66.18181818181819
+IN,Arts & Theatre,Music,Chamber Music,35.0,45.0,40.0
+IN,Arts & Theatre,Performance Art,Performance Art,37.25,61.75,49.5
+IN,Arts & Theatre,Theatre,Comedy,14.006,83.0,48.503
+IN,Arts & Theatre,Theatre,Drama,33.666666666666664,43.666666666666664,38.666666666666664
+IN,Arts & Theatre,Theatre,Miscellaneous,20.92105263157895,29.289473684210527,25.105263157894736
+IN,Arts & Theatre,Theatre,Musical,34.35803571428571,111.19642857142857,72.77723214285714
+IN,Arts & Theatre,Theatre,Podcast,65.0,346.0,205.5
+IN,Film,Action/Adventure,Action/Adventure,39.0,75.0,57.0
+IN,Miscellaneous,Community/Civic,Community/Civic,85.5,267.5,176.5
+IN,Miscellaneous,Family,Other,36.05,181.85,108.95
+IN,Miscellaneous,Food & Drink,Food & Drink,30.0,30.0,30.0
+IN,Miscellaneous,Hobby/Special Interest Expos,Hobby/Special Interest Expos,5.0,5.0,5.0
+IN,Miscellaneous,Ice Shows,Ice Shows,20.25,77.9,49.075
+IN,Miscellaneous,Lecture/Seminar,Lecture/Seminar,37.833333333333336,158.16666666666666,98.0
+IN,Miscellaneous,Undefined,Undefined,10.0,10.0,10.0
+IN,Music,Alternative,Alternative Rock,10.0,10.0,10.0
+IN,Music,Blues,Blues,19.5,19.5,19.5
+IN,Music,Classical,Classical/Vocal,19.505,44.0,31.752499999999998
+IN,Music,Country,Bluegrass,35.0,55.0,45.0
+IN,Music,Country,Country,27.786842105263162,82.55,55.16842105263158
+IN,Music,Dance/Electronic,Witchstep,26.2,41.6,33.9
+IN,Music,Folk,Indie Folk,26.833333333333332,50.166666666666664,38.5
+IN,Music,Hip-Hop/Rap,French Rap,39.75,57.25,48.5
+IN,Music,Holiday,Christmas Music,33.0,73.0,53.0
+IN,Music,Jazz,Jazz,29.712857142857143,48.99857142857143,39.355714285714285
+IN,Music,Latin,Latin,49.5,94.5,72.0
+IN,Music,Metal,Nu-Metal,36.333333333333336,84.75,60.541666666666664
+IN,Music,Other,Other,31.9,77.7,54.8
+IN,Music,Pop,Adult Contemporary,45.0,119.5,82.25
+IN,Music,Pop,Pop,36.361111111111114,74.63888888888889,55.5
+IN,Music,R&B,R&B,46.07142857142857,95.14285714285714,70.60714285714286
+IN,Music,Religious,Gospel,22.5,97.375,59.9375
+IN,Music,Rock,Alternative Rock,34.86363636363637,78.54545454545455,56.70454545454545
+IN,Music,Rock,Oldies & Classics,43.2,109.1,76.15
+IN,Music,Rock,Pop,36.81056603773585,110.1554716981132,73.48301886792453
+IN,Music,Rock,Progressive Rock,32.5,50.0,41.25
+IN,Music,Rock,Rock,30.0,50.0,40.0
+IN,Music,Undefined,Undefined,28.15625,71.46875,49.8125
+IN,Music,World,World,22.802,44.0,33.400999999999996
+IN,Sports,Basketball,College,10.694444444444445,64.43055555555556,37.5625
+IN,Sports,Basketball,Minor League,10.0,10.0,10.0
+IN,Sports,Basketball,NBA,30.03846153846154,772.7692307692307,401.40384615384613
+IN,Sports,Football,College,45.0,300.0,172.5
+IN,Sports,Hockey,Minor League,17.912790697674417,55.401162790697676,36.656976744186046
+IN,Sports,Motorsports/Racing,Motorsports/Racing,19.857142857142858,52.142857142857146,36.0
+IN,Sports,Rodeo,Bullriding,20.0,95.0,57.5
+IN,Sports,Rodeo,Rodeo,29.99,159.99,94.99000000000001
+IN,Sports,Volleyball,Volleyball,30.0,250.0,140.0
+IN,Sports,Wrestling,Wrestling,11.0,55.0,33.0
+KS,Arts & Theatre,Children's Theatre,Children's Theatre,21.0,36.0,28.5
+KS,Arts & Theatre,Circus & Specialty Acts,Circus,16.6,37.85,27.225
+KS,Arts & Theatre,Comedy,Comedy,50.583333333333336,142.58333333333334,96.58333333333333
+KS,Arts & Theatre,Dance,Dance,20.0,20.0,20.0
+KS,Arts & Theatre,Miscellaneous Theatre,Miscellaneous Theatre,49.9,79.9,64.9
+KS,Arts & Theatre,Theatre,Miscellaneous,30.0,69.0,49.5
+KS,Film,Family,Miscellaneous,35.0,79.5,57.25
+KS,Miscellaneous,Family,Other,32.0,306.5,169.25
+KS,Music,Blues,Blues,59.5,99.0,79.25
+KS,Music,Country,Country,41.9,63.7,52.8
+KS,Music,Folk,Indie Folk,39.5,39.5,39.5
+KS,Music,Holiday,Christmas Music,30.0,50.0,40.0
+KS,Music,Metal,Nu-Metal,15.0,15.0,15.0
+KS,Music,Other,Other,32.45,47.45,39.95
+KS,Music,Pop,Pop,41.8,41.8,41.8
+KS,Music,Religious,Gospel,45.0,100.0,72.5
+KS,Music,Rock,Alternative Rock,35.35,41.8,38.575
+KS,Music,Rock,Pop,29.0,46.0,37.5
+KS,Music,Undefined,Undefined,34.0,69.5,51.75
+KS,Sports,Hockey,Minor League,14.0,22.0,18.0
+KS,Sports,Motorsports/Racing,Motorsports/Racing,28.0,44.0,36.0
+KS,Sports,Rodeo,Rodeo,26.0,76.0,51.0
+KY,Arts & Theatre,Children's Theatre,Children's Theatre,34.2,87.6,60.9
+KY,Arts & Theatre,Circus & Specialty Acts,Circus,12.25,41.75,27.0
+KY,Arts & Theatre,Classical,Symphonic,39.75,64.375,52.0625
+KY,Arts & Theatre,Comedy,Comedy,43.9,92.05,67.975
+KY,Arts & Theatre,Dance,Dance,29.033333333333335,58.46666666666667,43.75
+KY,Arts & Theatre,Miscellaneous Theatre,Miscellaneous Theatre,33.416666666666664,59.416666666666664,46.416666666666664
+KY,Arts & Theatre,Theatre,Comedy,53.5,123.5,88.5
+KY,Arts & Theatre,Theatre,Horror,49.5,99.5,74.5
+KY,Arts & Theatre,Theatre,Miscellaneous,29.5,49.5,39.5
+KY,Arts & Theatre,Theatre,Musical,52.73,127.73333333333333,90.23166666666667
+KY,Miscellaneous,Fairs & Festivals,Fairs & Festivals,19.0,23.0,21.0
+KY,Miscellaneous,Family,Other,35.96875,242.09375,139.03125
+KY,Miscellaneous,Ice Shows,Ice Shows,24.833333333333332,88.06666666666666,56.449999999999996
+KY,Miscellaneous,Lecture/Seminar,Lecture/Seminar,52.833333333333336,199.33333333333334,126.08333333333333
+KY,Miscellaneous,Undefined,Undefined,131.0,143.5,137.25
+KY,Music,Alternative,Alternative,18.0,18.0,18.0
+KY,Music,Alternative,Alternative Rock,40.0,150.0,95.0
+KY,Music,Alternative,Psychobilly,22.0,22.0,22.0
+KY,Music,Country,Bluegrass,25.0,45.0,35.0
+KY,Music,Country,Country,34.46551724137931,92.20689655172414,63.33620689655172
+KY,Music,Country,Country Folk,22.0,22.0,22.0
+KY,Music,Dance/Electronic,Dubstep,35.0,35.0,35.0
+KY,Music,Folk,Alternative Folk,18.25,18.25,18.25
+KY,Music,Folk,Americana,45.0,80.0,62.5
+KY,Music,Folk,Folk,0.0,0.0,0.0
+KY,Music,Folk,Indie Folk,29.166666666666668,44.666666666666664,36.916666666666664
+KY,Music,Hip-Hop/Rap,French Rap,44.833333333333336,127.75,86.29166666666667
+KY,Music,Jazz,Jazz,43.5,93.5,68.5
+KY,Music,Metal,Heavy Metal,11.0,11.0,11.0
+KY,Music,Metal,Metal,14.0,14.0,14.0
+KY,Music,Metal,Nu-Metal,39.8,102.3,71.05
+KY,Music,New Age,New Age,53.5,93.5,73.5
+KY,Music,Other,Other,39.5,79.5,59.5
+KY,Music,Pop,Pop,39.5,49.5,44.5
+KY,Music,Pop,Singer-Songwriter,9.0,9.0,9.0
+KY,Music,R&B,R&B,54.5,124.16666666666667,89.33333333333333
+KY,Music,Reggae,Reggae,20.0,20.0,20.0
+KY,Music,Religious,Gospel,15.0,119.75,67.375
+KY,Music,Rock,Alternative Rock,35.5,58.03846153846154,46.76923076923077
+KY,Music,Rock,Hardcore Punk,0.0,0.0,0.0
+KY,Music,Rock,Indie Rock,0.0,0.0,0.0
+KY,Music,Rock,Pop,32.333,76.96633333333332,54.64966666666667
+KY,Music,Rock,Progressive Metal,100.0,100.0,100.0
+KY,Music,Rock,Punk,22.0,22.0,22.0
+KY,Music,Rock,Rockabilly,22.0,22.0,22.0
+KY,Music,Rock,Surf,22.0,22.0,22.0
+KY,Music,Undefined,Undefined,23.0,50.5,36.75
+KY,Sports,Basketball,College,19.771929824561404,50.526315789473685,35.14912280701754
+KY,Sports,Boxing,Boxing,25.0,50.0,37.5
+KY,Sports,Equestrian,Horse Racing,267.0,1349.5,808.25
+KY,Sports,Motorsports/Racing,Motorsports/Racing,22.85,73.28,48.065
+KY,Sports,Rodeo,Bullriding,22.25,103.6,62.925
+KY,Sports,Wrestling,Wrestling,25.0,45.0,35.0
+LA,Arts & Theatre,Children's Theatre,Children's Theatre,27.5,67.5,47.5
+LA,Arts & Theatre,Comedy,Comedy,32.583333333333336,82.5,57.541666666666664
+LA,Arts & Theatre,Dance,Dance,44.833333333333336,105.11111111111111,74.97222222222223
+LA,Arts & Theatre,Magic & Illusion,Magic,39.5,150.0,94.75
+LA,Arts & Theatre,Miscellaneous Theatre,Miscellaneous Theatre,40.0,67.5,53.75
+LA,Arts & Theatre,Performance Art,Performance Art,47.98,159.89,103.93499999999999
+LA,Arts & Theatre,Theatre,Comedy,49.99,99.99,74.99
+LA,Arts & Theatre,Theatre,Drama,33.333333333333336,50.0,41.666666666666664
+LA,Arts & Theatre,Theatre,Musical,31.818181818181817,68.18181818181819,50.0
+LA,Miscellaneous,Community/Cultural,Public Skating,22.0,22.0,22.0
+LA,Miscellaneous,Family,Other,25.0,146.8,85.9
+LA,Miscellaneous,Hobby/Special Interest Expos,Hobby/Special Interest Expos,41.0,41.0,41.0
+LA,Miscellaneous,Ice Shows,Ice Shows,19.23076923076923,100.0,59.61538461538461
+LA,Miscellaneous,Lecture/Seminar,Lecture/Seminar,37.75,67.75,52.75
+LA,Music,Alternative,Alternative,12.5,12.5,12.5
+LA,Music,Alternative,Alternative Rock,36.25,66.25,51.25
+LA,Music,Alternative,Electronic Pop,9.23,9.23,9.23
+LA,Music,Alternative,Indie Pop,25.0,25.0,25.0
+LA,Music,Alternative,Ska Punk,23.0,23.0,23.0
+LA,Music,Blues,Blues,41.9775,137.4775,89.72749999999999
+LA,Music,Classical,Classical/Vocal,80.0,330.0,205.0
+LA,Music,Country,Alternative Country,30.06,30.06,30.06
+LA,Music,Country,Bluegrass,39.5,74.5,57.0
+LA,Music,Country,Country,26.712413793103448,95.47103448275861,61.09172413793104
+LA,Music,Country,Country Folk,30.06,30.06,30.06
+LA,Music,Dance/Electronic,Disco,20.0,20.0,20.0
+LA,Music,Folk,Alternative Folk,30.03,50.03,40.03
+LA,Music,Folk,Folk,17.79285714285714,33.97857142857143,25.88571428571429
+LA,Music,Folk,Indie Folk,41.0,89.5,65.25
+LA,Music,Hip-Hop/Rap,Alternative Rap,30.0,100.0,65.0
+LA,Music,Hip-Hop/Rap,French Rap,46.95,126.2,86.575
+LA,Music,Hip-Hop/Rap,Urban,15.0,25.0,20.0
+LA,Music,Jazz,Acid Jazz,0.0,0.0,0.0
+LA,Music,Jazz,Jazz,29.526666666666667,38.74851851851852,34.1375925925926
+LA,Music,Latin,Latin,78.5,141.0,109.75
+LA,Music,Metal,Heavy Metal,12.5,12.5,12.5
+LA,Music,Metal,Nu-Metal,38.0,84.66666666666667,61.333333333333336
+LA,Music,Pop,Dream Pop,30.0,30.0,30.0
+LA,Music,Pop,Pop,37.5,101.83333333333333,69.66666666666667
+LA,Music,R&B,Funk,29.72,29.72,29.72
+LA,Music,R&B,Pop-Soul,0.0,0.0,0.0
+LA,Music,R&B,R&B,42.083333333333336,148.80555555555554,95.44444444444444
+LA,Music,R&B,Soul,60.5,150.5,105.5
+LA,Music,Religious,Contemporary Christian,28.333333333333332,85.0,56.666666666666664
+LA,Music,Religious,Gospel,28.75,56.84375,42.796875
+LA,Music,Rock,Alternative Rock,36.125,51.0625,43.59375
+LA,Music,Rock,Blues-Rock,35.620000000000005,35.620000000000005,35.620000000000005
+LA,Music,Rock,Funk-Rock,19.91,19.91,19.91
+LA,Music,Rock,Grindcore,0.0,0.0,0.0
+LA,Music,Rock,Indie Rock,0.0,0.0,0.0
+LA,Music,Rock,Oldies & Classics,65.0,79.5,72.25
+LA,Music,Rock,Pop,37.89636363636363,75.79818181818182,56.84727272727273
+LA,Music,Rock,Punk,35.0,61.25,48.125
+LA,Music,Rock,Rockabilly,24.91,24.91,24.91
+LA,Music,Undefined,Undefined,38.916666666666664,71.41666666666667,55.166666666666664
+LA,Sports,Equestrian,Horse Racing,7.544642857142857,24.910714285714285,16.227678571428573
+LA,Sports,Football,College,55.0,224.25,139.625
+LA,Sports,Hockey,Minor League,15.0,30.0,22.5
+LA,Sports,Hockey,Professional,10.13888888888889,24.305555555555557,17.22222222222222
+LA,Sports,Motorsports/Racing,Motorsports/Racing,20.166666666666668,100.16666666666667,60.166666666666664
+LA,Sports,Rodeo,Rodeo,29.99,159.99,94.99000000000001
+LA,Sports,Wrestling,Wrestling,35.0,275.0,155.0
+MA,Arts & Theatre,Children's Theatre,Children's Theatre,34.0,184.0,109.0
+MA,Arts & Theatre,Circus & Specialty Acts,Circus,51.833333333333336,125.66666666666667,88.75
+MA,Arts & Theatre,Classical,Symphonic,39.5,125.0,82.25
+MA,Arts & Theatre,Comedy,Comedy,38.182203389830505,59.99576271186441,49.08898305084746
+MA,Arts & Theatre,Dance,Dance,42.6,106.51428571428572,74.55714285714286
+MA,Arts & Theatre,Miscellaneous Theatre,Miscellaneous Theatre,37.0,67.0,52.0
+MA,Arts & Theatre,Performance Art,Performance Art,49.25,189.25,119.25
+MA,Arts & Theatre,Theatre,Comedy,49.02905569007264,97.37288135593221,73.20096852300242
+MA,Arts & Theatre,Theatre,Musical,36.0,172.90217391304347,104.45108695652173
+MA,Arts & Theatre,Theatre,Podcast,35.714285714285715,49.285714285714285,42.5
+MA,Arts & Theatre,Variety,Cabaret,37.0,57.0,47.0
+MA,Film,Comedy,Comedy,49.0,89.0,69.0
+MA,Miscellaneous,Community/Civic,Community/Civic,51.5,117.5,84.5
+MA,Miscellaneous,Family,Other,41.635,448.5416666666667,245.08833333333334
+MA,Miscellaneous,Hobby/Special Interest Expos,Hobby/Special Interest Expos,7.0,7.0,7.0
+MA,Miscellaneous,Ice Shows,Ice Shows,20.0,131.11111111111111,75.55555555555556
+MA,Miscellaneous,Lecture/Seminar,Lecture/Seminar,44.5,54.5,49.5
+MA,Miscellaneous,Undefined,Undefined,82.0,82.0,82.0
+MA,Music,Alternative,Alternative Rock,15.666666666666666,15.666666666666666,15.666666666666666
+MA,Music,Alternative,Baroque Pop,0.0,0.0,0.0
+MA,Music,Alternative,Indie Pop,18.0,18.0,18.0
+MA,Music,Alternative,Indie Rock,19.0,19.0,19.0
+MA,Music,Alternative,Post-Grunge,20.0,50.0,35.0
+MA,Music,Alternative,Psychobilly,23.0,23.0,23.0
+MA,Music,Blues,Blues,28.5,81.0,54.75
+MA,Music,Classical,Classical/Vocal,60.625,226.75,143.6875
+MA,Music,Country,Bluegrass,22.0,22.0,22.0
+MA,Music,Country,Country,41.04545454545455,104.04545454545455,72.54545454545455
+MA,Music,Dance/Electronic,Witchstep,27.761363636363637,32.69318181818182,30.227272727272727
+MA,Music,Folk,Indie Folk,36.0,76.0,56.0
+MA,Music,Hip-Hop/Rap,French Rap,45.675,96.075,70.875
+MA,Music,Hip-Hop/Rap,Hip-Hop/Rap,20.0,20.0,20.0
+MA,Music,Hip-Hop/Rap,Reggaeton,41.0,191.0,116.0
+MA,Music,Jazz,Jazz,29.666666666666668,40.93333333333333,35.3
+MA,Music,Latin,Latin,43.166666666666664,126.5,84.83333333333333
+MA,Music,Metal,Heavy Metal,25.0,25.0,25.0
+MA,Music,Metal,Industrial Metal,20.0,20.0,20.0
+MA,Music,Metal,Metal,27.0,67.0,47.0
+MA,Music,Metal,Nu-Metal,44.583333333333336,169.58333333333334,107.08333333333333
+MA,Music,Metal,Power Metal,25.0,25.0,25.0
+MA,Music,Other,Other,42.5,94.5,68.5
+MA,Music,Pop,Adult Contemporary,27.0,45.375,36.1875
+MA,Music,Pop,K-Pop,60.0,60.0,60.0
+MA,Music,Pop,Pop,29.082608695652173,72.08260869565218,50.582608695652176
+MA,Music,Pop,Singer-Songwriter,12.0,45.333333333333336,28.666666666666668
+MA,Music,R&B,Funk,25.0,25.0,25.0
+MA,Music,R&B,R&B,37.07692307692308,76.65384615384616,56.86538461538461
+MA,Music,R&B,Soul,29.333333333333332,42.666666666666664,36.0
+MA,Music,Reggae,Dancehall Reggae,29.5,99.5,64.5
+MA,Music,Reggae,Reggae,28.8,28.8,28.8
+MA,Music,Rock,Alternative Rock,36.198412698412696,63.785714285714285,49.992063492063494
+MA,Music,Rock,Emo,20.0,50.0,35.0
+MA,Music,Rock,Hardcore Punk,18.0,18.0,18.0
+MA,Music,Rock,Indie Rock,20.0,20.0,20.0
+MA,Music,Rock,Pop,35.45641304347826,71.6575,53.55695652173913
+MA,Music,Rock,Power Pop,25.0,25.0,25.0
+MA,Music,Rock,Punk,27.5,27.5,27.5
+MA,Music,Rock,Rock,20.0,20.0,20.0
+MA,Music,Rock,Rock & Roll,18.0,18.0,18.0
+MA,Music,Undefined,Undefined,23.357142857142858,34.642857142857146,29.0
+MA,Music,World,Latin,35.0,35.0,35.0
+MA,Music,World,World,34.111111111111114,49.166666666666664,41.638888888888886
+MA,Sports,Basketball,College,10.0,10.0,10.0
+MA,Sports,Basketball,NBA,135.46666666666667,2194.233333333333,1164.85
+MA,Sports,Football,High School,20.0,20.0,20.0
+MA,Sports,Hockey,College,27.4,27.4,27.4
+MA,Sports,Hockey,Minor League,13.619047619047619,36.142857142857146,24.88095238095238
+MA,Sports,Hockey,NHL,141.93333333333334,1509.7833333333333,825.8583333333333
+MA,Sports,Ice Skating,Ice Skating,40.94444444444444,345.3888888888889,193.16666666666666
+MA,Sports,Motorsports/Racing,Motorsports/Racing,17.857142857142858,118.57142857142857,68.21428571428571
+MA,Sports,Rodeo,Bullriding,15.0,330.0,172.5
+MA,Sports,Wrestling,Wrestling,32.5,307.5,170.0
+MA,Sports,eSports,eSports,29.0,499.0,264.0
+MD,Arts & Theatre,Children's Theatre,Children's Theatre,38.0,203.0,120.5
+MD,Arts & Theatre,Circus & Specialty Acts,Circus,19.0,77.5,48.25
+MD,Arts & Theatre,Comedy,Comedy,45.14153846153847,155.20384615384617,100.1726923076923
+MD,Arts & Theatre,Dance,Dance,64.375,201.9375,133.15625
+MD,Arts & Theatre,Miscellaneous Theatre,Miscellaneous Theatre,40.0,70.0,55.0
+MD,Arts & Theatre,Performance Art,Performance Art,60.5,182.5,121.5
+MD,Arts & Theatre,Theatre,Comedy,35.0,65.0,50.0
+MD,Arts & Theatre,Theatre,Drama,49.0,153.0,101.0
+MD,Arts & Theatre,Theatre,Musical,74.98,110.8175,92.89875
+MD,Miscellaneous,Family,Other,27.0,110.0,68.5
+MD,Miscellaneous,Ice Shows,Ice Shows,21.0,105.0,63.0
+MD,Miscellaneous,Undefined,Undefined,57.166666666666664,484.73809523809524,270.95238095238096
+MD,Music,Alternative,Alternative Rock,25.93,25.93,25.93
+MD,Music,Alternative,Psychobilly,28.85,28.85,28.85
+MD,Music,Classical,Classical/Vocal,60.666666666666664,142.33333333333334,101.5
+MD,Music,Country,Bluegrass,35.0,55.0,45.0
+MD,Music,Country,Country,43.0,109.07142857142857,76.03571428571429
+MD,Music,Dance/Electronic,Witchstep,36.25,68.75,52.5
+MD,Music,Folk,Indie Folk,26.0,46.0,36.0
+MD,Music,Hip-Hop/Rap,French Rap,44.464285714285715,68.21428571428571,56.339285714285715
+MD,Music,Jazz,Jazz,41.0,128.5,84.75
+MD,Music,Latin,Latin,66.75,126.75,96.75
+MD,Music,Metal,Nu-Metal,31.466666666666665,46.43333333333333,38.95
+MD,Music,New Age,New Age,49.5,99.5,74.5
+MD,Music,Other,Other,49.5,144.5,97.0
+MD,Music,Pop,Pop,33.26363636363636,82.85454545454546,58.059090909090905
+MD,Music,R&B,R&B,56.4125,139.8125,98.1125
+MD,Music,Reggae,Reggae,30.0,50.0,40.0
+MD,Music,Religious,Contemporary Christian,33.6,104.87,69.235
+MD,Music,Religious,Gospel,37.25,62.25,49.75
+MD,Music,Rock,Alternative Rock,36.392857142857146,61.357142857142854,48.875
+MD,Music,Rock,Pop,36.9375,72.34375,54.640625
+MD,Music,Rock,Punk,29.485,41.985,35.735
+MD,Music,Undefined,Undefined,35.285714285714285,51.714285714285715,43.5
+MD,Music,World,World,77.0,169.0,123.0
+MD,Sports,Basketball,College,15.804878048780488,44.292682926829265,30.048780487804876
+MD,Sports,Indoor Soccer,Indoor Soccer,20.0,50.0,35.0
+MD,Sports,Motorsports/Racing,Motorsports/Racing,22.0,82.0,52.0
+MD,Sports,Wrestling,Wrestling,16.666666666666668,96.66666666666667,56.666666666666664
+ME,Arts & Theatre,Children's Theatre,Children's Theatre,31.0,61.0,46.0
+ME,Arts & Theatre,Circus & Specialty Acts,Circus,42.0,99.0,70.5
+ME,Arts & Theatre,Comedy,Comedy,35.75,82.91666666666667,59.333333333333336
+ME,Arts & Theatre,Magic & Illusion,Magic,33.0,63.0,48.0
+ME,Arts & Theatre,Miscellaneous Theatre,Miscellaneous Theatre,35.0,65.0,50.0
+ME,Arts & Theatre,Performance Art,Performance Art,38.0,48.0,43.0
+ME,Arts & Theatre,Theatre,Miscellaneous,25.0,35.0,30.0
+ME,Arts & Theatre,Theatre,Musical,32.0,77.0,54.5
+ME,Arts & Theatre,Theatre,Podcast,35.0,55.0,45.0
+ME,Film,Miscellaneous,Miscellaneous,25.0,25.0,25.0
+ME,Miscellaneous,Family,Other,25.0,165.66666666666666,95.33333333333333
+ME,Miscellaneous,Food & Drink,Food & Drink,31.5,66.0,48.75
+ME,Miscellaneous,Hobby/Special Interest Expos,Hobby/Special Interest Expos,17.5,17.5,17.5
+ME,Miscellaneous,Ice Shows,Ice Shows,15.0,90.0,52.5
+ME,Music,Blues,Blues,31.5,61.5,46.5
+ME,Music,Country,Bluegrass,35.0,35.0,35.0
+ME,Music,Country,Country,24.5,78.75,51.625
+ME,Music,Hip-Hop/Rap,French Rap,34.0,34.0,34.0
+ME,Music,Jazz,Jazz,25.0,25.0,25.0
+ME,Music,Metal,Nu-Metal,67.5,81.5,74.5
+ME,Music,R&B,Soul,30.0,30.0,30.0
+ME,Music,Rock,Alternative Rock,41.07142857142857,66.21428571428571,53.642857142857146
+ME,Music,Rock,Pop,33.411764705882355,45.794117647058826,39.60294117647059
+ME,Music,Undefined,Undefined,30.55,38.05,34.3
+ME,Sports,Basketball,NBA D League,19.77777777777778,150.27777777777777,85.02777777777777
+ME,Sports,Hockey,Minor League,19.0,28.0,23.5
+ME,Sports,Rodeo,Bullriding,20.0,105.0,62.5
+MI,Arts & Theatre,Children's Theatre,Children's Theatre,33.5,123.5,78.5
+MI,Arts & Theatre,Circus & Specialty Acts,Circus,39.861111111111114,109.69444444444444,74.77777777777777
+MI,Arts & Theatre,Classical,Symphonic,22.032258064516128,87.25806451612904,54.645161290322584
+MI,Arts & Theatre,Comedy,Comedy,44.888214285714284,127.47767857142857,86.18294642857143
+MI,Arts & Theatre,Dance,Dance,27.458333333333332,49.791666666666664,38.625
+MI,Arts & Theatre,Magic & Illusion,Magic,30.0,65.0,47.5
+MI,Arts & Theatre,Miscellaneous Theatre,Miscellaneous Theatre,29.0,59.0,44.0
+MI,Arts & Theatre,Multimedia,Multimedia,22.0,114.0,68.0
+MI,Arts & Theatre,Opera,Opera,49.5,100.0,74.75
+MI,Arts & Theatre,Theatre,Comedy,41.17741935483871,67.30645161290323,54.24193548387097
+MI,Arts & Theatre,Theatre,Musical,40.69615384615384,61.465384615384615,51.08076923076923
+MI,Arts & Theatre,Variety,Variety,35.0,79.0,57.0
+MI,Miscellaneous,Fairs & Festivals,Fairs & Festivals,18.0,22.0,20.0
+MI,Miscellaneous,Family,Other,32.8125,117.8125,75.3125
+MI,Miscellaneous,Ice Shows,Ice Shows,18.4375,109.6875,64.0625
+MI,Miscellaneous,Multimedia,Multimedia,35.0,45.0,40.0
+MI,Miscellaneous,Undefined,Undefined,88.75,89.375,89.0625
+MI,Music,Alternative,Alternative Rock,22.370967741935484,22.370967741935484,22.370967741935484
+MI,Music,Alternative,Dream Pop,17.0,17.0,17.0
+MI,Music,Alternative,Goth,64.5,64.5,64.5
+MI,Music,Alternative,Indie Pop,16.333333333333332,16.333333333333332,16.333333333333332
+MI,Music,Alternative,Indie Rock,25.0,25.0,25.0
+MI,Music,Alternative,Psychobilly,20.0,20.0,20.0
+MI,Music,Alternative,Shoegaze,17.0,17.0,17.0
+MI,Music,Blues,Blues,21.0,68.75,44.875
+MI,Music,Classical,Classical/Vocal,32.1,142.6,87.35
+MI,Music,Country,Classic Country,20.0,20.0,20.0
+MI,Music,Country,Country,32.28846153846154,107.11538461538461,69.70192307692308
+MI,Music,Country,Country Folk,26.0,26.0,26.0
+MI,Music,Dance/Electronic,Dance/Electronic,27.5,30.0,28.75
+MI,Music,Dance/Electronic,Disco,20.0,20.0,20.0
+MI,Music,Dance/Electronic,Downtempo,20.0,50.0,35.0
+MI,Music,Dance/Electronic,Dubstep,19.99,64.99,42.489999999999995
+MI,Music,Dance/Electronic,House,20.0,25.0,22.5
+MI,Music,Dance/Electronic,Trance,20.0,25.0,22.5
+MI,Music,Dance/Electronic,Witchstep,29.40909090909091,74.04545454545455,51.72727272727273
+MI,Music,Folk,Alternative Folk,25.0,25.0,25.0
+MI,Music,Folk,Indie Folk,35.0,55.0,45.0
+MI,Music,Hip-Hop/Rap,French Rap,46.34615384615385,154.76923076923077,100.5576923076923
+MI,Music,Hip-Hop/Rap,Hip-Hop/Rap,29.75,148.375,89.0625
+MI,Music,Hip-Hop/Rap,Jazz-Rap,30.0,30.0,30.0
+MI,Music,Hip-Hop/Rap,Old School Rap,45.0,100.0,72.5
+MI,Music,Jazz,Jazz,36.8,65.5,51.15
+MI,Music,Jazz,Swing Jazz,0.0,0.0,0.0
+MI,Music,Latin,Latin,49.5,119.5,84.5
+MI,Music,Metal,Doom Metal,20.0,20.0,20.0
+MI,Music,Metal,Heavy Metal,31.055555555555557,40.72222222222222,35.888888888888886
+MI,Music,Metal,Industrial Metal,20.0,20.0,20.0
+MI,Music,Metal,Nu-Metal,33.55555555555556,93.88888888888889,63.72222222222222
+MI,Music,Metal,Thrash & Speed,39.5,79.5,59.5
+MI,Music,New Age,New Age,20.0,77.5,48.75
+MI,Music,Other,Other,43.475,89.6,66.5375
+MI,Music,Pop,Adult Contemporary,79.0,150.0,114.5
+MI,Music,Pop,Dream Pop,30.0,70.0,50.0
+MI,Music,Pop,Pop,31.026315789473685,57.026315789473685,44.026315789473685
+MI,Music,Pop,Pop Rock,15.0,200.0,107.5
+MI,Music,Pop,Singer-Songwriter,55.833333333333336,92.5,74.16666666666667
+MI,Music,R&B,Pop-Soul,30.0,180.0,105.0
+MI,Music,R&B,R&B,43.956896551724135,92.78448275862068,68.37068965517241
+MI,Music,R&B,Soul,45.0,73.83333333333333,59.416666666666664
+MI,Music,Reggae,Reggae,29.5,29.5,29.5
+MI,Music,Religious,Gospel,34.9875,99.9375,67.4625
+MI,Music,Rock,Alternative Rock,44.526315789473685,99.97368421052632,72.25
+MI,Music,Rock,Avant-Garde Rock,15.0,15.0,15.0
+MI,Music,Rock,Blues-Rock,26.75,26.75,26.75
+MI,Music,Rock,Classic Rock,20.0,30.0,25.0
+MI,Music,Rock,Detroit Rock,15.0,15.0,15.0
+MI,Music,Rock,Emo,23.0,23.0,23.0
+MI,Music,Rock,Hard Rock,30.0,100.0,65.0
+MI,Music,Rock,Pop,39.09953846153846,91.50723076923077,65.30338461538462
+MI,Music,Rock,Pop Punk,23.0,23.0,23.0
+MI,Music,Rock,Progressive Metal,16.0,16.0,16.0
+MI,Music,Rock,Punk,17.5,32.5,25.0
+MI,Music,Rock,Rock,21.5,151.25,86.375
+MI,Music,Rock,Ska Revival,10.0,30.0,20.0
+MI,Music,Rock,Stoner Metal,25.0,25.0,25.0
+MI,Music,Undefined,Undefined,37.875,80.375,59.125
+MI,Sports,Basketball,College,14.5,57.5,36.0
+MI,Sports,Basketball,Minor League,10.0,148.42105263157896,79.21052631578948
+MI,Sports,Basketball,NBA,28.15625,2763.88125,1396.01875
+MI,Sports,Basketball,NBA D League,14.0,145.0,79.5
+MI,Sports,Boxing,Boxing,35.0,225.0,130.0
+MI,Sports,Football,College,29.0,100.0,64.5
+MI,Sports,Football,NFL,557.0,557.0,557.0
+MI,Sports,Hockey,College,15.5,75.0,45.25
+MI,Sports,Hockey,Ice Hockey,25.0,80.0,52.5
+MI,Sports,Hockey,Minor League,13.0,27.0,20.0
+MI,Sports,Hockey,NHL,60.96296296296296,384.1759259259259,222.56944444444446
+MI,Sports,Hockey,Professional,26.0,93.5,59.75
+MI,Sports,Martial Arts,Mixed Martial Arts,35.0,225.0,130.0
+MI,Sports,Motorsports/Racing,Motorsports/Racing,20.0,101.66666666666667,60.833333333333336
+MI,Sports,Rodeo,Bullriding,18.0,103.33333333333333,60.666666666666664
+MI,Sports,Wrestling,Wrestling,25.0,300.0,162.5
+MN,Arts & Theatre,Children's Theatre,Children's Theatre,26.8,115.0,70.9
+MN,Arts & Theatre,Circus & Specialty Acts,Circus,34.0,130.0,82.0
+MN,Arts & Theatre,Classical,Classical/Vocal,35.0,35.0,35.0
+MN,Arts & Theatre,Classical,Symphonic,40.0,125.0,82.5
+MN,Arts & Theatre,Comedy,Comedy,43.30346153846154,101.2151923076923,72.25932692307693
+MN,Arts & Theatre,Dance,Dance,31.401818181818182,92.25909090909092,61.83045454545454
+MN,Arts & Theatre,Miscellaneous Theatre,Miscellaneous Theatre,29.0,44.0,36.5
+MN,Arts & Theatre,Performance Art,Performance Art,50.0,300.0,175.0
+MN,Arts & Theatre,Theatre,Comedy,45.0,45.0,45.0
+MN,Arts & Theatre,Theatre,Drama,60.0,60.0,60.0
+MN,Arts & Theatre,Theatre,Horror,45.0,110.0,77.5
+MN,Arts & Theatre,Theatre,Musical,43.88,147.08,95.48
+MN,Arts & Theatre,Theatre,Podcast,44.75,64.75,54.75
+MN,Miscellaneous,Family,Other,45.44,428.16,236.8
+MN,Miscellaneous,Health/Wellness,Health/Wellness,11.5,11.5,11.5
+MN,Miscellaneous,Holiday,Holiday,17.291666666666668,24.791666666666668,21.041666666666668
+MN,Miscellaneous,Lecture/Seminar,Lecture/Seminar,42.25,125.0,83.625
+MN,Miscellaneous,Undefined,Undefined,25.0,25.0,25.0
+MN,Music,Blues,Blues,52.5,106.25,79.375
+MN,Music,Country,Bluegrass,39.0,194.0,116.5
+MN,Music,Country,Country,38.75945945945946,81.76054054054053,60.26
+MN,Music,Dance/Electronic,Witchstep,39.30434782608695,62.69565217391305,51.0
+MN,Music,Hip-Hop/Rap,French Rap,47.285714285714285,138.0,92.64285714285714
+MN,Music,Jazz,Jazz,50.0,50.0,50.0
+MN,Music,Latin,Latin,45.0,85.0,65.0
+MN,Music,Metal,Death Metal/Black Metal,25.0,25.0,25.0
+MN,Music,Metal,Metal,27.0,27.0,27.0
+MN,Music,Metal,Nu-Metal,35.6,100.9,68.25
+MN,Music,Other,Other,46.96666666666667,95.3,71.13333333333334
+MN,Music,Pop,Adult Contemporary,54.5,104.5,79.5
+MN,Music,Pop,K-Pop,45.0,62.5,53.75
+MN,Music,Pop,Pop,37.375,108.1875,72.78125
+MN,Music,R&B,Funk,30.0,47.5,38.75
+MN,Music,R&B,R&B,36.857142857142854,81.21428571428571,59.035714285714285
+MN,Music,Reggae,Reggae,30.0,50.0,40.0
+MN,Music,Religious,Contemporary Christian,26.666666666666668,39.666666666666664,33.166666666666664
+MN,Music,Religious,Gospel,48.2725,98.0425,73.1575
+MN,Music,Rock,Alternative Rock,43.107142857142854,108.57142857142857,75.83928571428571
+MN,Music,Rock,Emo,25.0,25.0,25.0
+MN,Music,Rock,Pop,42.66477272727273,96.41363636363636,69.53920454545454
+MN,Music,Rock,Progressive Metal,25.0,25.0,25.0
+MN,Music,Rock,Punk,20.0,37.5,28.75
+MN,Music,Undefined,Undefined,35.58,59.516,47.548
+MN,Music,World,World,40.0,80.0,60.0
+MN,Sports,Football,NFL,84.0,1350.0,717.0
+MN,Sports,Hockey,College,13.581395348837209,21.186046511627907,17.38372093023256
+MN,Sports,Hockey,Ice Hockey,25.9,78.7,52.3
+MN,Sports,Hockey,NHL,53.0,446.6,249.8
+MN,Sports,Rodeo,Rodeo,21.0,129.0,75.0
+MN,Sports,Roller Derby,Roller Derby,13.0,31.0,22.0
+MO,Arts & Theatre,Children's Theatre,Children's Theatre,35.125,85.125,60.125
+MO,Arts & Theatre,Circus & Specialty Acts,Circus,20.0,40.0,30.0
+MO,Arts & Theatre,Classical,Symphonic,40.714285714285715,110.21428571428571,75.46428571428571
+MO,Arts & Theatre,Comedy,Comedy,40.523809523809526,98.39880952380952,69.46130952380952
+MO,Arts & Theatre,Dance,Dance,73.875,157.625,115.75
+MO,Arts & Theatre,Performance Art,Performance Art,18.0,55.5,36.75
+MO,Arts & Theatre,Theatre,Drama,60.645161290322584,64.6774193548387,62.66129032258065
+MO,Arts & Theatre,Theatre,Musical,47.39473684210526,137.76315789473685,92.57894736842105
+MO,Arts & Theatre,Theatre,Podcast,42.25,84.75,63.5
+MO,Arts & Theatre,Variety,Variety,29.5,59.5,44.5
+MO,Film,Family,Miscellaneous,29.5,59.5,44.5
+MO,Film,Miscellaneous,Miscellaneous,29.5,150.0,89.75
+MO,Miscellaneous,Family,Other,33.291666666666664,150.95833333333334,92.125
+MO,Miscellaneous,Ice Shows,Ice Shows,21.428571428571427,86.71428571428571,54.07142857142857
+MO,Music,Alternative,Alternative,0.0,0.0,0.0
+MO,Music,Alternative,Alternative Rock,14.5,68.66666666666667,41.583333333333336
+MO,Music,Alternative,Indie Rock,25.0,70.0,47.5
+MO,Music,Alternative,Post-Punk,20.0,20.0,20.0
+MO,Music,Blues,Blues,33.666666666666664,112.5,73.08333333333333
+MO,Music,Classical,Classical/Vocal,36.55555555555556,105.83333333333333,71.19444444444444
+MO,Music,Country,Bluegrass,21.0,37.666666666666664,29.333333333333332
+MO,Music,Country,Country,35.75675675675676,90.22972972972973,62.99324324324324
+MO,Music,Country,Country Pop,0.0,0.0,0.0
+MO,Music,Dance/Electronic,Witchstep,28.916666666666668,107.66666666666667,68.29166666666667
+MO,Music,Folk,Alternative Folk,24.75,24.75,24.75
+MO,Music,Folk,Indie Folk,12.0,21.25,16.625
+MO,Music,Hip-Hop/Rap,French Rap,37.99133333333334,133.0,85.49566666666666
+MO,Music,Latin,Latin,15.0,45.0,30.0
+MO,Music,Metal,Heavy Metal,49.5,49.5,49.5
+MO,Music,Metal,Nu-Metal,40.3,136.1,88.2
+MO,Music,Other,Other,43.0,98.0,70.5
+MO,Music,Pop,Pop,25.541666666666668,45.791666666666664,35.666666666666664
+MO,Music,Pop,Singer-Songwriter,26.666666666666668,113.33333333333333,70.0
+MO,Music,R&B,R&B,44.5,181.33333333333334,112.91666666666667
+MO,Music,Religious,Contemporary Christian,25.5,75.0,50.25
+MO,Music,Religious,Gospel,28.0,83.35,55.675
+MO,Music,Rock,Alternative Rock,34.3297619047619,62.60357142857143,48.46666666666666
+MO,Music,Rock,Art Rock,0.0,0.0,0.0
+MO,Music,Rock,Funk-Rock,15.0,15.0,15.0
+MO,Music,Rock,Indie Rock,15.0,15.0,15.0
+MO,Music,Rock,Pop,31.671111111111113,62.66811111111111,47.16961111111112
+MO,Music,Rock,Pop Punk,29.5,104.5,67.0
+MO,Music,Rock,Psychedelic,20.0,20.0,20.0
+MO,Music,Rock,Punk,16.0,16.0,16.0
+MO,Music,Rock,Punk Blues,29.5,29.5,29.5
+MO,Music,Rock,Rock & Roll,30.0,45.0,37.5
+MO,Music,Rock,Rockabilly,20.0,20.0,20.0
+MO,Music,Rock,Roots Rock,29.5,29.5,29.5
+MO,Music,Rock,Soft Rock,30.0,50.0,40.0
+MO,Music,Undefined,Undefined,23.545454545454547,55.0,39.27272727272727
+MO,Music,World,World,45.0,115.0,80.0
+MO,Sports,Basketball,College,14.261904761904763,79.85714285714286,47.05952380952381
+MO,Sports,Football,NFL,205.0,998.0,601.5
+MO,Sports,Hockey,Minor League,15.0,53.935483870967744,34.46774193548387
+MO,Sports,Indoor Soccer,Indoor Soccer,20.8,52.0,36.4
+MO,Sports,Martial Arts,Mixed Martial Arts,48.333333333333336,224.16666666666666,136.25
+MO,Sports,Rodeo,Bullriding,15.0,107.0,61.0
+MO,Sports,Volleyball,Volleyball,28.0,108.0,68.0
+MO,Sports,Wrestling,Wrestling,21.0,47.666666666666664,34.333333333333336
+MS,Arts & Theatre,Children's Theatre,Children's Theatre,10.0,10.0,10.0
+MS,Arts & Theatre,Circus & Specialty Acts,Circus,16.25,85.0,50.625
+MS,Arts & Theatre,Comedy,Comedy,46.00333333333333,114.13666666666667,80.07
+MS,Arts & Theatre,Dance,Dance,35.983333333333334,75.98333333333333,55.98333333333333
+MS,Arts & Theatre,Multimedia,Multimedia,25.0,25.0,25.0
+MS,Arts & Theatre,Theatre,Musical,24.285714285714285,38.57142857142857,31.428571428571427
+MS,Film,Animation,Animation,10.0,10.0,10.0
+MS,Miscellaneous,Family,Other,30.0,96.0,63.0
+MS,Miscellaneous,Ice Shows,Ice Shows,20.0,82.0,51.0
+MS,Miscellaneous,Undefined,Undefined,57.142857142857146,57.142857142857146,57.142857142857146
+MS,Music,Blues,Blues,37.42714285714286,79.85571428571428,58.64142857142857
+MS,Music,Country,Country,29.88888888888889,98.33333333333333,64.11111111111111
+MS,Music,Folk,Indie Folk,23.0,38.0,30.5
+MS,Music,Jazz,Jazz,35.0,55.0,45.0
+MS,Music,Metal,Nu-Metal,60.0,250.0,155.0
+MS,Music,New Age,New Age,34.5,94.5,64.5
+MS,Music,Pop,Pop,30.0,90.25,60.125
+MS,Music,R&B,R&B,41.5,76.25,58.875
+MS,Music,Religious,Contemporary Christian,25.0,85.0,55.0
+MS,Music,Religious,Gospel,13.75,18.75,16.25
+MS,Music,Rock,Pop,45.915,82.66499999999999,64.28999999999999
+MS,Music,Undefined,Undefined,33.28285714285714,56.854285714285716,45.06857142857143
+MS,Sports,Basketball,College,10.0,75.0,42.5
+MS,Sports,Basketball,NBA D League,15.0,76.0,45.5
+MS,Sports,Hockey,Minor League,10.0,22.0,16.0
+MS,Sports,Motorsports/Racing,Motorsports/Racing,22.0,70.91666666666667,46.458333333333336
+MS,Sports,Rodeo,Rodeo,20.363636363636363,45.45454545454545,32.90909090909091
+MT,Arts & Theatre,Comedy,Comedy,36.083333333333336,59.75,47.916666666666664
+MT,Music,Country,Bluegrass,29.571428571428573,44.57142857142857,37.07142857142857
+MT,Music,Country,Country,31.375,56.375,43.875
+MT,Music,Dance/Electronic,Witchstep,27.5,37.642857142857146,32.57142857142857
+MT,Music,Folk,Indie Folk,35.0,45.0,40.0
+MT,Music,Hip-Hop/Rap,French Rap,25.375,31.0,28.1875
+MT,Music,Metal,Nu-Metal,25.0,45.0,35.0
+MT,Music,Rock,Alternative Rock,31.0625,49.5,40.28125
+MT,Music,Rock,Pop,32.0,41.083333333333336,36.541666666666664
+MT,Music,Undefined,Undefined,26.714285714285715,39.142857142857146,32.92857142857143
+NC,Arts & Theatre,Children's Theatre,Children's Theatre,33.642857142857146,61.5,47.57142857142857
+NC,Arts & Theatre,Circus & Specialty Acts,Circus,43.57,111.34722222222223,77.45861111111111
+NC,Arts & Theatre,Classical,Classical/Vocal,32.0,38.0,35.0
+NC,Arts & Theatre,Classical,Symphonic,34.72147058823529,83.66264705882352,59.19205882352941
+NC,Arts & Theatre,Comedy,Comedy,39.28272,109.11472,74.19872
+NC,Arts & Theatre,Dance,Dance,31.454,109.77866666666667,70.61633333333333
+NC,Arts & Theatre,Miscellaneous,Miscellaneous,18.0,50.0,34.0
+NC,Arts & Theatre,Opera,Opera,23.470000000000002,104.11285714285714,63.79142857142857
+NC,Arts & Theatre,Performance Art,Performance Art,42.60333333333333,206.3166666666667,124.46
+NC,Arts & Theatre,Theatre,Comedy,35.0,100.0,67.5
+NC,Arts & Theatre,Theatre,Drama,37.27777777777778,96.72222222222223,67.0
+NC,Arts & Theatre,Theatre,Musical,42.3551724137931,193.01568965517242,117.68543103448276
+NC,Arts & Theatre,Theatre,Podcast,39.5,39.5,39.5
+NC,Film,Family,Miscellaneous,33.92666666666667,93.92666666666666,63.92666666666667
+NC,Miscellaneous,Community/Cultural,Public Skating,15.0,15.0,15.0
+NC,Miscellaneous,Family,Other,31.25,184.65,107.95
+NC,Miscellaneous,Food & Drink,Food & Drink,29.314285714285713,29.314285714285713,29.314285714285713
+NC,Miscellaneous,Ice Shows,Ice Shows,17.625,95.125,56.375
+NC,Miscellaneous,Lecture/Seminar,Lecture/Seminar,50.0,100.0,75.0
+NC,Miscellaneous,Undefined,Undefined,38.99957894736842,38.99957894736842,38.99957894736842
+NC,Music,Alternative,Alternative Rock,10.0,150.0,80.0
+NC,Music,Blues,Blues,66.83333333333333,186.5,126.66666666666667
+NC,Music,Classical,Classical/Vocal,29.5,129.5,79.5
+NC,Music,Country,Bluegrass,43.11363636363637,53.38636363636363,48.25
+NC,Music,Country,Country,37.4264705882353,100.41176470588235,68.91911764705883
+NC,Music,Dance/Electronic,Witchstep,29.318181818181817,43.04545454545455,36.18181818181818
+NC,Music,Folk,Indie Folk,39.0,60.833333333333336,49.916666666666664
+NC,Music,Hip-Hop/Rap,French Rap,51.595238095238095,82.66666666666667,67.13095238095238
+NC,Music,Hip-Hop/Rap,Reggaeton,44.5,174.5,109.5
+NC,Music,Jazz,Jazz,68.16499999999999,100.16499999999999,84.16499999999999
+NC,Music,Latin,Latin,53.77777777777778,159.33333333333334,106.55555555555556
+NC,Music,Metal,Nu-Metal,39.28636363636363,113.91818181818181,76.60227272727273
+NC,Music,Other,Other,47.275,103.85249999999999,75.56375
+NC,Music,Pop,Adult Contemporary,35.0,75.0,55.0
+NC,Music,Pop,K-Pop,47.25,112.25,79.75
+NC,Music,Pop,Pop,44.207142857142856,130.06428571428572,87.13571428571429
+NC,Music,R&B,R&B,50.5625,189.39583333333334,119.97916666666667
+NC,Music,R&B,Soul,30.0,30.0,30.0
+NC,Music,Reggae,Reggae,22.5,22.5,22.5
+NC,Music,Religious,Contemporary Christian,35.0,85.0,60.0
+NC,Music,Religious,Gospel,30.83125,104.40625,67.61875
+NC,Music,Rock,Alternative Rock,32.78,59.38,46.08
+NC,Music,Rock,Oldies & Classics,61.333333333333336,118.0,89.66666666666667
+NC,Music,Rock,Pop,39.00025316455696,82.43075949367088,60.71550632911392
+NC,Music,Rock,Punk,29.833333333333332,29.833333333333332,29.833333333333332
+NC,Music,Undefined,Undefined,37.40625,56.15625,46.78125
+NC,Music,World,World,30.0,30.0,30.0
+NC,Sports,Basketball,College,26.733333333333334,148.73333333333332,87.73333333333333
+NC,Sports,Basketball,High School,10.0,10.0,10.0
+NC,Sports,Basketball,NBA,22.90625,787.65625,405.28125
+NC,Sports,Basketball,NBA D League,10.0,89.0,49.5
+NC,Sports,Football,College,55.94,1205.0,630.47
+NC,Sports,Hockey,AHL,25.5,59.5,42.5
+NC,Sports,Hockey,Ice Hockey,12.4,34.4,23.4
+NC,Sports,Hockey,Minor League,13.0,35.0,24.0
+NC,Sports,Hockey,NHL,42.96774193548387,403.64516129032256,223.30645161290323
+NC,Sports,Motorsports/Racing,Motorsports/Racing,29.653846153846153,82.36538461538461,56.00961538461539
+NC,Sports,Rodeo,Rodeo,32.89,99.19,66.03999999999999
+NC,Sports,Soccer,Soccer,25.0,25.0,25.0
+NC,Sports,Tennis,Tennis,162.5,839.0,500.75
+NC,Sports,Wrestling,Wrestling,38.5,303.5,171.0
+ND,Arts & Theatre,Children's Theatre,Children's Theatre,24.0,24.0,24.0
+ND,Arts & Theatre,Comedy,Comedy,39.375,99.375,69.375
+ND,Arts & Theatre,Dance,Dance,42.0,42.0,42.0
+ND,Arts & Theatre,Theatre,Musical,35.0,75.0,55.0
+ND,Miscellaneous,Family,Other,23.5,170.5,97.0
+ND,Music,Other,Other,40.0,40.0,40.0
+ND,Music,Rock,Pop,28.625,89.875,59.25
+ND,Music,Undefined,Undefined,30.0,30.0,30.0
+ND,Sports,Basketball,College,12.368421052631579,12.368421052631579,12.368421052631579
+ND,Sports,Hockey,College,29.083333333333332,55.0,42.041666666666664
+ND,Sports,Hockey,Minor League,11.75,39.75,25.75
+ND,Sports,Rodeo,Bullriding,15.0,105.0,60.0
+NE,Arts & Theatre,Comedy,Comedy,39.25,133.32142857142858,86.28571428571429
+NE,Arts & Theatre,Theatre,Miscellaneous,33.0,72.0,52.5
+NE,Miscellaneous,Community/Civic,Community/Civic,98.75,98.75,98.75
+NE,Miscellaneous,Family,Other,32.0,354.0,193.0
+NE,Miscellaneous,Ice Shows,Ice Shows,22.0,95.0,58.5
+NE,Miscellaneous,Undefined,Undefined,65.0,65.0,65.0
+NE,Music,Classical,Classical/Vocal,81.0,391.0,236.0
+NE,Music,Country,Country,36.56125,90.0625,63.311875
+NE,Music,Country,Progressive Country,20.0,350.0,185.0
+NE,Music,Dance/Electronic,Witchstep,43.5,72.16666666666667,57.833333333333336
+NE,Music,Hip-Hop/Rap,French Rap,40.75,101.75,71.25
+NE,Music,Jazz,Jazz,39.5,99.5,69.5
+NE,Music,Latin,Latin,79.5,159.5,119.5
+NE,Music,Metal,Nu-Metal,48.5,198.5,123.5
+NE,Music,R&B,R&B,49.0,99.0,74.0
+NE,Music,Religious,Gospel,27.475,52.475,39.975
+NE,Music,Rock,Alternative Rock,45.57142857142857,108.5,77.03571428571429
+NE,Music,Rock,Pop,44.05,88.6,66.325
+NE,Music,Rock,Punk,35.0,65.0,50.0
+NE,Music,Undefined,Undefined,30.0,55.0,42.5
+NE,Music,World,World,32.5,54.5,43.5
+NE,Sports,Basketball,College,15.964285714285714,120.82142857142857,68.39285714285714
+NE,Sports,Hockey,College,22.0,54.5,38.25
+NE,Sports,Martial Arts,Mixed Martial Arts,26.0,81.0,53.5
+NE,Sports,Rodeo,Bullriding,19.0,109.0,64.0
+NE,Sports,Volleyball,Volleyball,40.0,145.0,92.5
+NH,Arts & Theatre,Circus & Specialty Acts,Circus,29.5,99.5,64.5
+NH,Arts & Theatre,Classical,Symphonic,62.0,97.0,79.5
+NH,Arts & Theatre,Comedy,Comedy,44.1,102.0,73.05
+NH,Miscellaneous,Family,Other,44.0,134.0,89.0
+NH,Miscellaneous,Ice Shows,Ice Shows,18.0,109.0,63.5
+NH,Music,Blues,Blues,18.75,65.0,41.875
+NH,Music,Country,Bluegrass,35.0,35.0,35.0
+NH,Music,Country,Country,50.9,127.78,89.34
+NH,Music,Folk,Indie Folk,17.5,37.5,27.5
+NH,Music,Hip-Hop/Rap,French Rap,17.5,62.5,40.0
+NH,Music,Jazz,Jazz,18.125,66.125,42.125
+NH,Music,Metal,Nu-Metal,25.0,25.0,25.0
+NH,Music,R&B,Funk,17.5,32.5,25.0
+NH,Music,R&B,R&B,17.5,82.5,50.0
+NH,Music,Reggae,Reggae,20.0,20.0,20.0
+NH,Music,Religious,Gospel,17.5,116.5,67.0
+NH,Music,Rock,Alternative Rock,29.0,125.0,77.0
+NH,Music,Rock,Pop,39.75,137.125,88.4375
+NH,Music,Undefined,Undefined,23.75,34.75,29.25
+NH,Sports,Motorsports/Racing,Motorsports/Racing,46.5,104.0,75.25
+NH,Sports,Rodeo,Bullriding,20.0,115.0,67.5
+NH,Sports,Wrestling,Wrestling,25.0,25.0,25.0
+NJ,Arts & Theatre,Children's Theatre,Children's Theatre,26.5,90.83333333333333,58.666666666666664
+NJ,Arts & Theatre,Classical,Symphonic,23.54,204.14,113.84
+NJ,Arts & Theatre,Comedy,Comedy,79.87559241706161,125.52369668246446,102.69964454976304
+NJ,Arts & Theatre,Dance,Dance,48.17045454545455,106.8409090909091,77.50568181818181
+NJ,Arts & Theatre,Magic & Illusion,Magic,29.0,69.0,49.0
+NJ,Arts & Theatre,Miscellaneous,Miscellaneous,66.0,66.0,66.0
+NJ,Arts & Theatre,Miscellaneous Theatre,Miscellaneous Theatre,41.166666666666664,64.5,52.833333333333336
+NJ,Arts & Theatre,Performance Art,Performance Art,35.5,89.5,62.5
+NJ,Arts & Theatre,Spectacular,Spectacular,32.875,62.875,47.875
+NJ,Arts & Theatre,Theatre,Comedy,29.5,148.5,89.0
+NJ,Arts & Theatre,Theatre,Drama,51.375,98.11111111111111,74.74305555555556
+NJ,Arts & Theatre,Theatre,Horror,36.0,96.0,66.0
+NJ,Arts & Theatre,Theatre,Miscellaneous,35.333333333333336,103.33333333333333,69.33333333333333
+NJ,Arts & Theatre,Theatre,Musical,35.964285714285715,80.17857142857143,58.07142857142857
+NJ,Arts & Theatre,Theatre,Podcast,48.333333333333336,200.0,124.16666666666667
+NJ,Film,Action/Adventure,Action/Adventure,18.0,18.0,18.0
+NJ,Film,Drama,Drama,21.666666666666668,35.0,28.333333333333332
+NJ,Film,Family,Miscellaneous,18.0,18.0,18.0
+NJ,Miscellaneous,Community/Civic,Community/Civic,45.791666666666664,154.20833333333334,100.0
+NJ,Miscellaneous,Fairs & Festivals,Fairs & Festivals,15.0,80.0,47.5
+NJ,Miscellaneous,Family,Other,28.333333333333332,355.6666666666667,192.0
+NJ,Miscellaneous,Ice Shows,Ice Shows,19.214285714285715,140.14285714285714,79.67857142857143
+NJ,Miscellaneous,Lecture/Seminar,Lecture/Seminar,43.0,238.125,140.5625
+NJ,Miscellaneous,Psychics/Mediums/Hypnotists,Psychics/Mediums/Hypnotists,65.0,69.0,67.0
+NJ,Miscellaneous,Undefined,Undefined,99.0,99.0,99.0
+NJ,Music,Classical,Classical/Vocal,42.6,129.6,86.1
+NJ,Music,Country,Bluegrass,25.0,59.0,42.0
+NJ,Music,Country,Country,36.71052631578947,109.34210526315789,73.02631578947368
+NJ,Music,Dance/Electronic,Witchstep,50.0,250.0,150.0
+NJ,Music,Folk,Indie Folk,29.583333333333332,142.77777777777777,86.18055555555556
+NJ,Music,Hip-Hop/Rap,French Rap,52.0,174.875,113.4375
+NJ,Music,Hip-Hop/Rap,Reggaeton,47.0,197.0,122.0
+NJ,Music,Holiday,Christmas Music,18.41,18.41,18.41
+NJ,Music,Jazz,Jazz,33.7,76.3,55.0
+NJ,Music,Latin,Latin,43.498000000000005,172.798,108.148
+NJ,Music,Metal,Nu-Metal,39.5,149.5,94.5
+NJ,Music,Other,Other,32.7,112.7,72.7
+NJ,Music,Pop,Adult Contemporary,48.125,114.5,81.3125
+NJ,Music,Pop,K-Pop,67.5,377.5,222.5
+NJ,Music,Pop,Pop,65.55625,205.30625,135.43125
+NJ,Music,R&B,Funk,35.0,59.0,47.0
+NJ,Music,R&B,R&B,61.09090909090909,174.97727272727272,118.0340909090909
+NJ,Music,R&B,Soul,25.0,25.0,25.0
+NJ,Music,Reggae,Reggae,30.0,30.0,30.0
+NJ,Music,Religious,Gospel,41.0,128.4375,84.71875
+NJ,Music,Religious,Praise & Worship,0.0,0.0,0.0
+NJ,Music,Rock,Alternative Rock,43.55,123.16666666666667,83.35833333333333
+NJ,Music,Rock,Emo,35.0,125.0,80.0
+NJ,Music,Rock,Hardcore Punk,35.0,35.0,35.0
+NJ,Music,Rock,Oldies & Classics,53.375,187.875,120.625
+NJ,Music,Rock,Pop,39.61166666666667,83.79656250000001,61.704114583333336
+NJ,Music,Rock,Punk,25.25,25.25,25.25
+NJ,Music,Rock,Rock,44.5,44.5,44.5
+NJ,Music,Undefined,Undefined,29.472972972972972,56.08108108108108,42.777027027027025
+NJ,Music,World,World,54.916666666666664,144.83333333333334,99.875
+NJ,Sports,Basketball,College,48.23076923076923,135.92307692307693,92.07692307692308
+NJ,Sports,Hockey,NHL,59.06896551724138,1015.2068965517242,537.1379310344828
+NJ,Sports,Hockey,Professional,20.5,69.0,44.75
+NJ,Sports,Martial Arts,Mixed Martial Arts,65.0,295.0,180.0
+NJ,Sports,Motorsports/Racing,Motorsports/Racing,22.923076923076923,73.53846153846153,48.23076923076923
+NM,Arts & Theatre,Children's Theatre,Children's Theatre,35.0,75.0,55.0
+NM,Arts & Theatre,Circus & Specialty Acts,Circus,19.0,59.0,39.0
+NM,Arts & Theatre,Comedy,Comedy,42.05,115.05,78.55
+NM,Arts & Theatre,Magic & Illusion,Magic,35.5,146.0,90.75
+NM,Arts & Theatre,Miscellaneous Theatre,Miscellaneous Theatre,20.0,50.0,35.0
+NM,Arts & Theatre,Performance Art,Performance Art,45.0,299.0,172.0
+NM,Miscellaneous,Community/Civic,Community/Civic,10.0,10.0,10.0
+NM,Miscellaneous,Family,Other,21.333333333333332,329.3333333333333,175.33333333333334
+NM,Music,Country,Classic Country,10.0,35.0,22.5
+NM,Music,Country,Country,26.925,94.625,60.775
+NM,Music,Hip-Hop/Rap,French Rap,79.0,169.0,124.0
+NM,Music,Jazz,Jazz,55.0,105.0,80.0
+NM,Music,Latin,Latin,54.0,214.0,134.0
+NM,Music,Pop,Adult Contemporary,49.0,99.0,74.0
+NM,Music,R&B,R&B,99.0,229.0,164.0
+NM,Music,Religious,Gospel,15.0,119.75,67.375
+NM,Music,Rock,Alternative Rock,49.5,129.5,89.5
+NM,Music,Rock,Pop,29.3,108.9,69.1
+NM,Music,Rock,Punk,10.0,50.0,30.0
+NM,Music,Rock,Soft Rock,25.0,35.0,30.0
+NM,Music,Undefined,Undefined,81.0,96.0,88.5
+NM,Sports,Basketball,College,5.526315789473684,42.10526315789474,23.81578947368421
+NM,Sports,Motorsports/Racing,Motorsports/Racing,33.5,38.5,36.0
+NV,Arts & Theatre,Circus & Specialty Acts,Circus,96.53449958982772,242.0610254306809,169.2977625102543
+NV,Arts & Theatre,Classical,Symphonic,35.54875,35.54875,35.54875
+NV,Arts & Theatre,Comedy,Comedy,39.55919067215363,64.7972085048011,52.17819958847737
+NV,Arts & Theatre,Dance,Dance,29.403333333333336,52.07,40.73666666666667
+NV,Arts & Theatre,Fine Art,Fine Art,43.0,43.0,43.0
+NV,Arts & Theatre,Magic & Illusion,Magic,58.68525547445255,107.7085738349242,83.19691465468838
+NV,Arts & Theatre,Miscellaneous Theatre,Miscellaneous Theatre,55.981968312004874,94.16140158439977,75.07168494820232
+NV,Arts & Theatre,Music,Chamber Music,36.0,98.0,67.0
+NV,Arts & Theatre,Performance Art,Performance Art,85.81295950155763,93.6243613707165,89.71866043613707
+NV,Arts & Theatre,Spectacular,Spectacular,89.94241842610364,197.9798464491363,143.96113243761997
+NV,Arts & Theatre,Theatre,Comedy,62.485900086132645,125.71070628768304,94.09830318690784
+NV,Arts & Theatre,Theatre,Musical,66.35985849056604,91.13521226415094,78.74753537735849
+NV,Arts & Theatre,Variety,Cabaret,56.73337962962963,129.95175925925926,93.34256944444444
+NV,Arts & Theatre,Variety,Variety,94.99478260869564,429.581884057971,262.28833333333336
+NV,Film,Miscellaneous,Miscellaneous,37.0,45.0,41.0
+NV,Miscellaneous,Community/Civic,Community/Civic,39.99,129.99,84.99000000000001
+NV,Miscellaneous,Family,Other,68.06834482758622,102.57111724137931,85.31973103448277
+NV,Miscellaneous,Hobby/Special Interest Expos,Hobby/Special Interest Expos,15.0,15.0,15.0
+NV,Miscellaneous,Ice Shows,Ice Shows,33.10413793103448,53.51103448275862,43.307586206896545
+NV,Miscellaneous,Lecture/Seminar,Lecture/Seminar,111.5,111.5,111.5
+NV,Miscellaneous,Psychics/Mediums/Hypnotists,Psychics/Mediums/Hypnotists,43.598461538461535,70.13426573426572,56.86636363636363
+NV,Miscellaneous,Undefined,Undefined,125.0,125.0,125.0
+NV,Music,Ballads/Romantic,Ballads/Romantic,39.5,99.5,69.5
+NV,Music,Blues,Blues,45.83,119.22,82.525
+NV,Music,Children's Music,Children's Music,24.5,59.5,42.0
+NV,Music,Classical,Classical/Vocal,45.0,130.0,87.5
+NV,Music,Country,Country,79.559,652.2971666666667,365.92808333333335
+NV,Music,Dance/Electronic,Witchstep,56.93504310344828,109.09021551724138,83.01262931034483
+NV,Music,Folk,Indie Folk,44.5,99.5,72.0
+NV,Music,Hip-Hop/Rap,French Rap,73.71875,399.125,236.421875
+NV,Music,Jazz,Jazz,31.47,40.22,35.845
+NV,Music,Latin,Latin,43.72,117.79416666666667,80.75708333333334
+NV,Music,Metal,Heavy Metal,27.5,27.5,27.5
+NV,Music,Metal,Nu-Metal,55.45052631578947,438.55421052631584,247.00236842105264
+NV,Music,Other,Other,26.375,26.375,26.375
+NV,Music,Pop,Adult Contemporary,57.314193548387095,361.91096774193545,209.61258064516127
+NV,Music,Pop,Pop,58.58056603773585,183.1406603773585,120.86061320754717
+NV,Music,R&B,R&B,76.06923076923077,275.49666666666667,175.78294871794873
+NV,Music,R&B,Soul,44.449910714285714,74.40526785714285,59.427589285714284
+NV,Music,Reggae,Reggae,37.25,117.25,77.25
+NV,Music,Reggae,Roots Reggae,0.0,0.0,0.0
+NV,Music,Rock,Alternative Rock,52.707,224.15766666666664,138.43233333333333
+NV,Music,Rock,Emo,22.0,22.0,22.0
+NV,Music,Rock,Grindcore,0.0,0.0,0.0
+NV,Music,Rock,Hardcore Punk,25.0,25.0,25.0
+NV,Music,Rock,Oldies & Classics,41.69555555555556,51.09444444444445,46.395
+NV,Music,Rock,Pop,66.5488625592417,288.1658767772512,177.35736966824643
+NV,Music,Rock,Punk,20.0,20.0,20.0
+NV,Music,Rock,Southern Rock,18.0,18.0,18.0
+NV,Music,Undefined,Undefined,67.5760956618465,91.69273637374862,79.63441601779755
+NV,Music,World,World,80.0,1005.0,542.5
+NV,Sports,Baseball,Minor League,14.0,100.0,57.0
+NV,Sports,Extreme,Extreme,15.0,24.0,19.5
+NV,Sports,Football,NFL,197.0,900.0,548.5
+NV,Sports,Hockey,Ice Hockey,14.0,14.0,14.0
+NV,Sports,Hockey,Minor League,21.0,96.0,58.5
+NV,Sports,Martial Arts,Mixed Martial Arts,70.0,140.0,105.0
+NV,Sports,Motorsports/Racing,Motorsports/Racing,21.174285714285713,46.894285714285715,34.034285714285716
+NV,Sports,Rodeo,Bullriding,26.666666666666668,127.03333333333335,76.85000000000001
+NV,Sports,Wrestling,Wrestling,25.0,45.0,35.0
+NY,Arts & Theatre,Children's Theatre,Children's Theatre,32.766666666666666,99.70555555555556,66.23611111111111
+NY,Arts & Theatre,Circus & Specialty Acts,Circus,33.855000000000004,91.64750000000001,62.75124999999999
+NY,Arts & Theatre,Circus & Specialty Acts,Pantomime,34.0,84.0,59.0
+NY,Arts & Theatre,Classical,Symphonic,33.79705882352941,114.59117647058824,74.19411764705882
+NY,Arts & Theatre,Comedy,Comedy,39.83743190661478,100.26268482490272,70.05005836575876
+NY,Arts & Theatre,Dance,Dance,39.21275,115.23150000000001,77.222125
+NY,Arts & Theatre,Fine Art,Fine Art,5.0,23.0,14.0
+NY,Arts & Theatre,Magic & Illusion,Magic,35.760000000000005,66.94,51.35
+NY,Arts & Theatre,Miscellaneous Theatre,Miscellaneous Theatre,29.214285714285715,63.135714285714286,46.175000000000004
+NY,Arts & Theatre,Multimedia,Multimedia,35.0,55.0,45.0
+NY,Arts & Theatre,Music,Chamber Music,23.0,23.0,23.0
+NY,Arts & Theatre,Opera,Opera,34.785714285714285,43.357142857142854,39.07142857142857
+NY,Arts & Theatre,Performance Art,Performance Art,39.4,74.825,57.1125
+NY,Arts & Theatre,Spectacular,Spectacular,25.0,52.0,38.5
+NY,Arts & Theatre,Theatre,Comedy,48.409203980099505,68.32960199004975,58.36940298507463
+NY,Arts & Theatre,Theatre,Drama,49.96850649350649,53.390584415584414,51.679545454545455
+NY,Arts & Theatre,Theatre,Horror,40.333333333333336,90.33333333333333,65.33333333333333
+NY,Arts & Theatre,Theatre,Miscellaneous,15.0,15.0,15.0
+NY,Arts & Theatre,Theatre,Monologue,30.0,30.0,30.0
+NY,Arts & Theatre,Theatre,Musical,60.598245614035086,170.55,115.57412280701755
+NY,Arts & Theatre,Theatre,Podcast,37.65909090909091,72.25,54.95454545454545
+NY,Film,Comedy,Comedy,48.5,82.5,65.5
+NY,Film,Drama,Drama,7.0,7.0,7.0
+NY,Film,Family,Miscellaneous,15.471428571428572,26.87857142857143,21.175
+NY,Miscellaneous,Community/Civic,Community/Civic,42.93,85.59333333333333,64.26166666666667
+NY,Miscellaneous,Fairs & Festivals,Fairs & Festivals,15.0,80.0,47.5
+NY,Miscellaneous,Family,Other,27.0625,164.74107142857142,95.90178571428571
+NY,Miscellaneous,Hobby/Special Interest Expos,Hobby/Special Interest Expos,30.0,30.0,30.0
+NY,Miscellaneous,Holiday,Holiday,19.7,67.5,43.6
+NY,Miscellaneous,Ice Shows,Ice Shows,20.36111111111111,123.36111111111111,71.86111111111111
+NY,Miscellaneous,Lecture/Seminar,Lecture/Seminar,48.294999999999995,124.74083333333333,86.51791666666666
+NY,Miscellaneous,Undefined,Undefined,50.904545454545456,107.63181818181819,79.26818181818182
+NY,Music,Alternative,Alternative,17.45,17.45,17.45
+NY,Music,Alternative,Alternative Rock,41.097272727272724,55.41272727272727,48.255
+NY,Music,Alternative,Chamber Pop,63.14,87.41499999999999,75.2775
+NY,Music,Alternative,Indie Pop,23.1,23.1,23.1
+NY,Music,Alternative,Indie Rock,49.1,49.1,49.1
+NY,Music,Alternative,Post-Punk,47.38,47.38,47.38
+NY,Music,Ballads/Romantic,Ballads/Romantic,25.0,25.0,25.0
+NY,Music,Blues,Acoustic Blues,51.0,62.19,56.595
+NY,Music,Blues,Blues,40.522777777777776,77.56055555555555,59.041666666666664
+NY,Music,Blues,Soul-Blues,21.03,32.84,26.935000000000002
+NY,Music,Classical,Classical/Vocal,58.74071428571428,165.00142857142856,111.87107142857143
+NY,Music,Country,Bluegrass,36.0,76.33333333333333,56.166666666666664
+NY,Music,Country,Contemporary Bluegrass,21.56,37.99,29.775
+NY,Music,Country,Contemporary Country,27.69,44.17,35.93
+NY,Music,Country,Country,38.024883720930234,123.73139534883721,80.87813953488373
+NY,Music,Dance/Electronic,Electro-Jazz,32.28,43.61,37.945
+NY,Music,Dance/Electronic,Witchstep,35.391304347826086,73.56521739130434,54.47826086956522
+NY,Music,Folk,Americana,23.1,23.1,23.1
+NY,Music,Folk,Indie Folk,42.63809523809524,125.13809523809525,83.88809523809525
+NY,Music,Hip-Hop/Rap,Alternative Rap,37.74,54.74,46.24
+NY,Music,Hip-Hop/Rap,French Rap,42.31594594594595,121.53783783783783,81.9268918918919
+NY,Music,Hip-Hop/Rap,Hip-Hop/Rap,21.913333333333338,71.5,46.70666666666667
+NY,Music,Hip-Hop/Rap,Reggaeton,47.0,197.0,122.0
+NY,Music,Hip-Hop/Rap,Urban,17.45,17.45,17.45
+NY,Music,Jazz,Jazz,53.89431085043988,96.13129032258065,75.01280058651027
+NY,Music,Latin,Latin,47.97565217391305,140.75826086956522,94.36695652173913
+NY,Music,Metal,Heavy Metal,28.1475,28.1475,28.1475
+NY,Music,Metal,Metal,23.55333333333333,23.55333333333333,23.55333333333333
+NY,Music,Metal,Nu-Metal,33.9,82.70344827586207,58.30172413793103
+NY,Music,New Age,Minimalism,25.16,25.16,25.16
+NY,Music,New Age,New Age,45.0,75.0,60.0
+NY,Music,Other,Other,35.77942857142857,75.12942857142858,55.45442857142857
+NY,Music,Pop,Adult Contemporary,30.0,107.5,68.75
+NY,Music,Pop,K-Pop,45.57142857142857,183.14285714285714,114.35714285714286
+NY,Music,Pop,Pop,53.03927835051547,271.7518556701031,162.3955670103093
+NY,Music,Pop,Pop Rock,34.900000000000006,49.32,42.11
+NY,Music,Pop,Singer-Songwriter,31.58,47.78,39.68
+NY,Music,R&B,Free Funk,18.22,18.22,18.22
+NY,Music,R&B,Funk,40.597142857142856,63.607142857142854,52.10214285714285
+NY,Music,R&B,R&B,49.24340425531915,123.02978723404254,86.13659574468085
+NY,Music,R&B,Soul,39.86,88.76,64.31
+NY,Music,Reggae,Dancehall Reggae,15.13,15.13,15.13
+NY,Music,Reggae,Reggae,40.8,83.35,62.075
+NY,Music,Reggae,Roots Reggae,18.22,18.22,18.22
+NY,Music,Religious,Contemporary Christian,45.91,104.87,75.39
+NY,Music,Religious,Gospel,41.122727272727275,55.38727272727272,48.254999999999995
+NY,Music,Religious,Gospel Choir,45.51,66.93333333333334,56.22166666666667
+NY,Music,Rock,Alternative Rock,40.5375,95.84166666666667,68.18958333333333
+NY,Music,Rock,Blues-Rock,34.86000000000001,49.31333333333333,42.086666666666666
+NY,Music,Rock,Celtic Rock,24.9,24.9,24.9
+NY,Music,Rock,Classic Rock,43.803333333333335,84.16333333333334,63.98333333333333
+NY,Music,Rock,Emo,15.74,15.74,15.74
+NY,Music,Rock,Folk Rock,32.72,44.15,38.435
+NY,Music,Rock,New York Punk,17.45,17.45,17.45
+NY,Music,Rock,Oldies & Classics,48.625,78.625,63.625
+NY,Music,Rock,Pop,37.43806962025317,89.53085443037975,63.48446202531645
+NY,Music,Rock,Punk,29.874000000000002,29.874000000000002,29.874000000000002
+NY,Music,Rock,Rock,38.34818181818182,50.05272727272727,44.20045454545455
+NY,Music,Rock,Roots Rock,39.02,49.32,44.17
+NY,Music,Undefined,Undefined,34.19971830985915,92.86971830985915,63.53471830985916
+NY,Music,World,Celtic Pop,27.69,39.02,33.355000000000004
+NY,Music,World,Latin,44.15,51.0,47.575
+NY,Music,World,Mexican Cumbia,66.64,66.64,66.64
+NY,Music,World,Trova,62.0,397.0,229.5
+NY,Music,World,World,54.65384615384615,118.15384615384616,86.40384615384616
+NY,Sports,Baseball,MLB,144.75187969924812,730.0375939849624,437.39473684210526
+NY,Sports,Basketball,College,15.156976744186046,92.18023255813954,53.66860465116279
+NY,Sports,Basketball,Minor League,11.5,147.5,79.5
+NY,Sports,Basketball,NBA,127.32394366197182,6321.992957746479,3224.6584507042253
+NY,Sports,Basketball,NBA D League,27.0,116.0,71.5
+NY,Sports,Boxing,Boxing,50.0,200.0,125.0
+NY,Sports,Hockey,AHL,21.945454545454545,30.745454545454546,26.345454545454544
+NY,Sports,Hockey,College,12.8125,32.5,22.65625
+NY,Sports,Hockey,Minor League,15.0,18.53846153846154,16.76923076923077
+NY,Sports,Hockey,NHL,30.02061855670103,913.7216494845361,471.87113402061857
+NY,Sports,Lacrosse,Lacrosse,18.695652173913043,293.1304347826087,155.91304347826087
+NY,Sports,Motorsports/Racing,Motorsports/Racing,24.466666666666665,85.66666666666667,55.06666666666667
+NY,Sports,Rodeo,Bullriding,22.2,174.2,98.2
+NY,Sports,Tennis,Tennis,25.0,1757.0,891.0
+NY,Sports,Wrestling,Wrestling,28.0625,288.0625,158.0625
+OH,Arts & Theatre,Children's Theatre,Children's Theatre,28.666666666666668,108.11111111111111,68.38888888888889
+OH,Arts & Theatre,Circus & Specialty Acts,Circus,25.2,49.4,37.3
+OH,Arts & Theatre,Classical,Classical/Vocal,20.0,56.8,38.4
+OH,Arts & Theatre,Classical,Symphonic,44.833333333333336,71.66666666666667,58.25
+OH,Arts & Theatre,Comedy,Comedy,41.85,113.505,77.6775
+OH,Arts & Theatre,Dance,Dance,35.05555555555556,139.88888888888889,87.47222222222223
+OH,Arts & Theatre,Miscellaneous Theatre,Miscellaneous Theatre,46.75,119.37857142857142,83.06428571428572
+OH,Arts & Theatre,Opera,Opera,47.5,89.5,68.5
+OH,Arts & Theatre,Performance Art,Performance Art,28.0,68.0,48.0
+OH,Arts & Theatre,Theatre,Comedy,50.0,60.0,55.0
+OH,Arts & Theatre,Theatre,Horror,39.5,73.5,56.5
+OH,Arts & Theatre,Theatre,Musical,34.975,99.85,67.4125
+OH,Arts & Theatre,Theatre,Podcast,26.5,41.666666666666664,34.083333333333336
+OH,Arts & Theatre,Variety,Cabaret,65.0,95.0,80.0
+OH,Miscellaneous,Family,Other,34.84090909090909,228.29545454545453,131.5681818181818
+OH,Miscellaneous,Food & Drink,Food & Drink,46.666666666666664,46.666666666666664,46.666666666666664
+OH,Miscellaneous,Ice Shows,Ice Shows,19.142857142857142,103.80952380952381,61.476190476190474
+OH,Miscellaneous,Lecture/Seminar,Lecture/Seminar,40.833333333333336,313.5,177.16666666666666
+OH,Miscellaneous,Undefined,Undefined,56.970000000000006,67.46799999999999,62.21900000000001
+OH,Music,Alternative,Alternative,12.674285714285714,27.675714285714285,20.175
+OH,Music,Alternative,Alternative Metal,19.0,23.0,21.0
+OH,Music,Alternative,Alternative Rock,14.462222222222222,15.017777777777777,14.74
+OH,Music,Alternative,Americana,30.5,62.0,46.25
+OH,Music,Alternative,Dream Pop,23.34,23.34,23.34
+OH,Music,Blues,Blues,24.5,39.5,32.0
+OH,Music,Children's Music,Children's Music,18.0,18.0,18.0
+OH,Music,Classical,Classical/Vocal,35.5,622.0,328.75
+OH,Music,Country,Alternative Country,7.5,75.0,41.25
+OH,Music,Country,Bluegrass,31.666666666666668,41.666666666666664,36.666666666666664
+OH,Music,Country,Country,33.552093023255814,100.87651162790696,67.2143023255814
+OH,Music,Country,Country Folk,12.5,12.5,12.5
+OH,Music,Country,Country Pop,19.99,19.99,19.99
+OH,Music,Country,Honky Tonk,20.0,20.0,20.0
+OH,Music,Dance/Electronic,Dance/Electronic,46.22,46.22,46.22
+OH,Music,Dance/Electronic,Witchstep,18.6875,41.6875,30.1875
+OH,Music,Folk,Alternative Folk,0.0,0.0,0.0
+OH,Music,Folk,Americana,0.0,0.0,0.0
+OH,Music,Folk,Contemporary Folk,18.74,18.74,18.74
+OH,Music,Folk,Folk,0.0,0.0,0.0
+OH,Music,Folk,Folk Rock,0.0,0.0,0.0
+OH,Music,Folk,Indie Folk,28.0,44.625,36.3125
+OH,Music,Hip-Hop/Rap,French Rap,41.5,101.17857142857143,71.33928571428571
+OH,Music,Hip-Hop/Rap,Hip-Hop/Rap,0.0,0.0,0.0
+OH,Music,Jazz,Jazz,31.88235294117647,47.470588235294116,39.6764705882353
+OH,Music,Metal,Heavy Metal,25.0,25.0,25.0
+OH,Music,Metal,Metal,26.666666666666668,41.666666666666664,34.166666666666664
+OH,Music,Metal,Nu-Metal,28.875,61.166666666666664,45.020833333333336
+OH,Music,New Age,New Age,10.0,75.0,42.5
+OH,Music,Other,Other,41.44,97.14,69.28999999999999
+OH,Music,Pop,Pop,37.375,69.875,53.625
+OH,Music,Pop,Pop Rock,22.685,22.685,22.685
+OH,Music,Pop,Singer-Songwriter,26.869999999999997,59.37,43.12
+OH,Music,R&B,R&B,51.875,212.5,132.1875
+OH,Music,R&B,Soul,30.25,58.875,44.5625
+OH,Music,Religious,Contemporary Christian,40.0,85.0,62.5
+OH,Music,Religious,Gospel,31.15,87.5,59.325
+OH,Music,Rock,Alternative Rock,31.583333333333332,169.47222222222223,100.52777777777777
+OH,Music,Rock,Celtic Rock,23.42,23.42,23.42
+OH,Music,Rock,Electronic,0.0,0.0,0.0
+OH,Music,Rock,Emo,7.5,7.5,7.5
+OH,Music,Rock,Indie Rock,20.0,20.0,20.0
+OH,Music,Rock,Oldies & Classics,29.75,59.75,44.75
+OH,Music,Rock,Pop,34.261698113207544,80.62962264150943,57.445660377358486
+OH,Music,Rock,Post-Punk,0.0,0.0,0.0
+OH,Music,Rock,Power Pop,12.0,12.0,12.0
+OH,Music,Rock,Punk,25.0,25.0,25.0
+OH,Music,Undefined,Undefined,24.8546511627907,40.43604651162791,32.645348837209305
+OH,Music,World,World,35.0,50.0,42.5
+OH,Sports,Baseball,Minor League,8.0,24.0,16.0
+OH,Sports,Basketball,College,13.800125,42.075,27.937562500000002
+OH,Sports,Boxing,Boxing,24.0,44.0,34.0
+OH,Sports,Football,NFL,58.0,998.0,528.0
+OH,Sports,Hockey,College,18.0,30.0,24.0
+OH,Sports,Hockey,Minor League,18.692307692307693,30.692307692307693,24.692307692307693
+OH,Sports,Hockey,NHL,42.0,305.0,173.5
+OH,Sports,Motorsports/Racing,Motorsports/Racing,26.558823529411764,68.08823529411765,47.3235294117647
+OH,Sports,Rodeo,Bullriding,19.166666666666668,111.18333333333334,65.175
+OH,Sports,Rodeo,Rodeo,24.5,84.5,54.5
+OH,Sports,Volleyball,Volleyball,29.5,154.5,92.0
+OH,Sports,Wrestling,Wrestling,32.0,32.0,32.0
+OK,Arts & Theatre,Comedy,Comedy,44.5,112.38888888888889,78.44444444444444
+OK,Arts & Theatre,Theatre,Musical,70.0,90.0,80.0
+OK,Miscellaneous,Family,Other,36.5,262.0,149.25
+OK,Miscellaneous,Food & Drink,Restaurant,250.0,500.0,375.0
+OK,Music,Alternative,Indie Pop,15.0,30.0,22.5
+OK,Music,Classical,Classical/Vocal,80.0,360.0,220.0
+OK,Music,Country,Bluegrass,39.5,74.5,57.0
+OK,Music,Country,Country,41.921052631578945,111.52631578947368,76.72368421052632
+OK,Music,Hip-Hop/Rap,French Rap,55.666666666666664,139.0,97.33333333333333
+OK,Music,Latin,Latin,40.5,100.5,70.5
+OK,Music,Metal,Nu-Metal,43.5,153.5,98.5
+OK,Music,Metal,Thrash & Speed,45.0,175.0,110.0
+OK,Music,Other,Other,15.0,40.0,27.5
+OK,Music,Religious,Gospel,21.25,114.8125,68.03125
+OK,Music,Rock,Alternative Rock,58.333333333333336,130.0,94.16666666666667
+OK,Music,Rock,Art Rock,20.0,40.0,30.0
+OK,Music,Rock,Emo,22.0,50.0,36.0
+OK,Music,Rock,Pop,41.28916666666667,111.70583333333333,76.4975
+OK,Music,Rock,Pop Punk,15.0,30.0,22.5
+OK,Music,Rock,Ska Revival,22.0,50.0,36.0
+OK,Music,Undefined,Undefined,21.5,56.5,39.0
+OK,Sports,Basketball,Minor League,10.0,35.0,22.5
+OK,Sports,Basketball,NBA,29.875,1893.0,961.4375
+OK,Sports,Hockey,Minor League,14.0,149.0,81.5
+OK,Sports,Motorsports/Racing,Motorsports/Racing,23.6,71.0,47.3
+OK,Sports,Rodeo,Bullriding,15.0,100.0,57.5
+OR,Arts & Theatre,Comedy,Comedy,42.75,147.75,95.25
+OR,Miscellaneous,Family,Other,18.75,341.0,179.875
+OR,Music,Alternative,Alternative Rock,24.61111111111111,44.05555555555556,34.333333333333336
+OR,Music,Alternative,Electronic Pop,30.0,30.0,30.0
+OR,Music,Alternative,Indie Rock,19.0,19.0,19.0
+OR,Music,Alternative,Psychobilly,18.0,18.0,18.0
+OR,Music,Alternative,Ska Punk,25.0,25.0,25.0
+OR,Music,Ballads/Romantic,Ballads/Romantic,39.5,119.5,79.5
+OR,Music,Blues,Blues,24.0,24.0,24.0
+OR,Music,Blues,Folk-Blues,30.0,30.0,30.0
+OR,Music,Classical,Classical/Vocal,45.5,145.5,95.5
+OR,Music,Country,Country,36.6,111.6,74.1
+OR,Music,Dance/Electronic,Dance/Electronic,25.0,25.0,25.0
+OR,Music,Dance/Electronic,Witchstep,80.0,80.0,80.0
+OR,Music,Folk,Americana,10.0,10.0,10.0
+OR,Music,Folk,Folk,25.0,25.0,25.0
+OR,Music,Hip-Hop/Rap,French Rap,111.0,295.5,203.25
+OR,Music,Hip-Hop/Rap,Hip-Hop/Rap,0.0,0.0,0.0
+OR,Music,Hip-Hop/Rap,Reggaeton,41.0,181.0,111.0
+OR,Music,Hip-Hop/Rap,Urban,57.0,57.0,57.0
+OR,Music,Jazz,Jazz,0.0,0.0,0.0
+OR,Music,Latin,Latin,35.5,195.5,115.5
+OR,Music,Metal,Nu-Metal,35.5,148.83333333333334,92.16666666666667
+OR,Music,Pop,Pop,55.5,495.5,275.5
+OR,Music,Pop,Singer-Songwriter,15.0,15.0,15.0
+OR,Music,Pop,Synth Pop,99.0,99.0,99.0
+OR,Music,R&B,Funk,0.0,0.0,0.0
+OR,Music,R&B,R&B,65.25,175.25,120.25
+OR,Music,R&B,Retro-Soul,20.0,180.0,100.0
+OR,Music,R&B,Soul,65.0,65.0,65.0
+OR,Music,Reggae,Reggae,39.5,39.5,39.5
+OR,Music,Reggae,Roots Reggae,22.5,22.5,22.5
+OR,Music,Rock,Alternative Rock,43.5,138.5,91.0
+OR,Music,Rock,Folk Rock,15.0,15.0,15.0
+OR,Music,Rock,Funk-Rock,30.0,30.0,30.0
+OR,Music,Rock,Garage Rock,35.0,35.0,35.0
+OR,Music,Rock,Hardcore Punk,27.5,27.5,27.5
+OR,Music,Rock,Indie Rock,0.0,0.0,0.0
+OR,Music,Rock,Pop,28.9,97.9,63.4
+OR,Music,Rock,Punk,20.0,20.0,20.0
+OR,Music,Rock,Rock,16.0,16.0,16.0
+OR,Music,Rock,Rock & Roll,25.0,62.5,43.75
+OR,Music,Rock,Rockabilly,0.0,0.0,0.0
+OR,Music,World,World,0.0,0.0,0.0
+OR,Sports,Basketball,College,9.235294117647058,111.05882352941177,60.14705882352941
+OR,Sports,Basketball,NBA,25.419354838709676,3758.064516129032,1891.741935483871
+OR,Sports,Hockey,Minor League,29.125,67.25,48.1875
+OR,Sports,Motorsports/Racing,Motorsports/Racing,25.0,93.5,59.25
+OR,Sports,Rodeo,Bullriding,15.0,202.5,108.75
+OR,Sports,Wrestling,Wrestling,35.0,375.0,205.0
+PA,Arts & Theatre,Children's Theatre,Children's Theatre,31.826923076923077,85.28846153846153,58.55769230769231
+PA,Arts & Theatre,Circus & Specialty Acts,Circus,46.56060606060606,128.63636363636363,87.59848484848484
+PA,Arts & Theatre,Classical,Classical/Vocal,25.0,125.0,75.0
+PA,Arts & Theatre,Classical,Symphonic,31.4375,91.75,61.59375
+PA,Arts & Theatre,Comedy,Comedy,30.570776255707763,73.66529680365296,52.11803652968037
+PA,Arts & Theatre,Dance,Dance,38.0,88.0,63.0
+PA,Arts & Theatre,Miscellaneous Theatre,Miscellaneous Theatre,48.9375,128.5625,88.75
+PA,Arts & Theatre,Multimedia,Multimedia,25.0,60.0,42.5
+PA,Arts & Theatre,Performance Art,Performance Art,22.63095238095238,40.04761904761905,31.339285714285715
+PA,Arts & Theatre,Spectacular,Spectacular,24.0,44.0,34.0
+PA,Arts & Theatre,Theatre,Comedy,25.0,107.0,66.0
+PA,Arts & Theatre,Theatre,Horror,39.5,99.5,69.5
+PA,Arts & Theatre,Theatre,Miscellaneous,102.57142857142857,148.57142857142858,125.57142857142857
+PA,Arts & Theatre,Theatre,Musical,29.509174311926607,125.12385321100918,77.31651376146789
+PA,Arts & Theatre,Theatre,Podcast,30.916666666666668,47.416666666666664,39.166666666666664
+PA,Arts & Theatre,Variety,Variety,29.5,59.5,44.5
+PA,Film,Comedy,Comedy,22.25,52.25,37.25
+PA,Film,Family,Miscellaneous,42.0,105.0,73.5
+PA,Miscellaneous,Community/Civic,Community/Civic,81.97,81.97,81.97
+PA,Miscellaneous,Family,Other,30.47888888888889,228.19444444444446,129.33666666666667
+PA,Miscellaneous,Ice Shows,Ice Shows,24.381818181818183,149.4181818181818,86.9
+PA,Miscellaneous,Lecture/Seminar,Lecture/Seminar,31.2,62.4,46.8
+PA,Miscellaneous,Psychics/Mediums/Hypnotists,Psychics/Mediums/Hypnotists,45.0,79.66666666666667,62.333333333333336
+PA,Miscellaneous,Undefined,Undefined,34.166666666666664,34.166666666666664,34.166666666666664
+PA,Music,Alternative,Alternative Metal,30.0,30.0,30.0
+PA,Music,Alternative,Alternative Rock,22.5,22.5,22.5
+PA,Music,Alternative,Electronic Pop,15.0,15.0,15.0
+PA,Music,Alternative,Indie Rock,22.0,22.0,22.0
+PA,Music,Alternative,Psychobilly,23.0,23.0,23.0
+PA,Music,Blues,Blues,23.7,25.7,24.7
+PA,Music,Children's Music,Children's Music,23.5,48.5,36.0
+PA,Music,Classical,Classical/Vocal,56.0,126.0,91.0
+PA,Music,Country,Bluegrass,33.75,38.75,36.25
+PA,Music,Country,Country,38.114,88.95685714285713,63.53542857142857
+PA,Music,Dance/Electronic,Witchstep,21.77777777777778,32.22222222222222,27.0
+PA,Music,Folk,Alternative Folk,32.0,32.0,32.0
+PA,Music,Folk,Americana,25.0,25.0,25.0
+PA,Music,Folk,Folk,24.833333333333332,66.5,45.666666666666664
+PA,Music,Folk,Indie Folk,24.25,34.25,29.25
+PA,Music,Hip-Hop/Rap,French Rap,41.73076923076923,86.80576923076923,64.26826923076922
+PA,Music,Hip-Hop/Rap,Reggaeton,39.0,179.0,109.0
+PA,Music,Jazz,Jazz,20.5,20.5,20.5
+PA,Music,Latin,Latin,44.5,170.5,107.5
+PA,Music,Metal,Heavy Metal,28.125,28.125,28.125
+PA,Music,Metal,Metal,16.0,16.0,16.0
+PA,Music,Metal,Nu-Metal,36.40909090909091,81.36363636363636,58.88636363636363
+PA,Music,Other,Other,43.875,93.25,68.5625
+PA,Music,Pop,Adult Contemporary,39.375,66.625,53.0
+PA,Music,Pop,Pop,32.28703703703704,82.89814814814815,57.592592592592595
+PA,Music,Pop,Singer-Songwriter,32.0,97.0,64.5
+PA,Music,R&B,Funk,25.0,30.0,27.5
+PA,Music,R&B,R&B,36.925,72.125,54.525
+PA,Music,R&B,Soul,38.166666666666664,61.666666666666664,49.916666666666664
+PA,Music,Reggae,Reggae,28.5,38.5,33.5
+PA,Music,Religious,Contemporary Christian,29.95,85.0,57.475
+PA,Music,Religious,Gospel,24.833333333333332,112.66666666666667,68.75
+PA,Music,Rock,Alternative Rock,34.20220588235294,58.54779411764706,46.375
+PA,Music,Rock,Celtic Rock,23.0,23.0,23.0
+PA,Music,Rock,Oldies & Classics,32.5,37.5,35.0
+PA,Music,Rock,Pop,34.600859375,66.518828125,50.55984375
+PA,Music,Rock,Punk,23.8,30.9,27.35
+PA,Music,Rock,Rock,62.5,62.5,62.5
+PA,Music,Undefined,Undefined,24.770857142857142,34.71371428571429,29.742285714285714
+PA,Music,World,World,30.0,30.0,30.0
+PA,Sports,Basketball,College,9.882352941176471,66.17647058823529,38.029411764705884
+PA,Sports,Basketball,NBA,51.125,1076.46875,563.796875
+PA,Sports,Football,NFL,50.0,1568.0,809.0
+PA,Sports,Hockey,AHL,21.981250000000003,91.40416666666667,56.692708333333336
+PA,Sports,Hockey,College,16.433333333333334,36.56666666666667,26.5
+PA,Sports,Hockey,Minor League,13.618181818181819,26.436363636363637,20.027272727272727
+PA,Sports,Hockey,NHL,39.03333333333333,724.2666666666667,381.65
+PA,Sports,Lacrosse,Lacrosse,27.0,998.0,512.5
+PA,Sports,Martial Arts,Mixed Martial Arts,40.0,1005.0,522.5
+PA,Sports,Motorsports/Racing,Motorsports/Racing,22.11764705882353,74.41176470588235,48.26470588235294
+PA,Sports,Rodeo,Bullriding,20.833333333333332,114.5,67.66666666666667
+PA,Sports,Wrestling,Wrestling,82.5,202.8125,142.65625
+RI,Arts & Theatre,Comedy,Comedy,59.0,350.0,204.5
+RI,Miscellaneous,Hobby/Special Interest Expos,Hobby/Special Interest Expos,37.5,37.5,37.5
+RI,Miscellaneous,Ice Shows,Ice Shows,15.0,136.42857142857142,75.71428571428571
+RI,Music,Alternative,Alternative Rock,35.0,35.0,35.0
+RI,Music,Alternative,Post-Grunge,20.0,20.0,20.0
+RI,Music,Country,Country,44.5,194.5,119.5
+RI,Music,Folk,Americana,0.0,0.0,0.0
+RI,Music,Metal,Heavy Metal,15.0,15.0,15.0
+RI,Music,Pop,Pop,40.0,130.0,85.0
+RI,Music,R&B,R&B,35.0,65.0,50.0
+RI,Music,Rock,Emo,0.0,0.0,0.0
+RI,Music,Rock,Pop,29.0,49.0,39.0
+RI,Music,Rock,Psychedelic,25.0,35.0,30.0
+RI,Music,Rock,Punk,20.0,20.0,20.0
+RI,Sports,Hockey,AHL,16.0,75.0,45.5
+RI,Sports,Motorsports/Racing,Motorsports/Racing,17.0,81.0,49.0
+SC,Arts & Theatre,Children's Theatre,Children's Theatre,28.5,68.5,48.5
+SC,Arts & Theatre,Circus & Specialty Acts,Circus,20.555555555555557,96.66666666666667,58.611111111111114
+SC,Arts & Theatre,Classical,Symphonic,16.0,45.0,30.5
+SC,Arts & Theatre,Comedy,Comedy,43.99193548387097,94.70161290322581,69.34677419354838
+SC,Arts & Theatre,Dance,Dance,60.0,125.6923076923077,92.84615384615384
+SC,Arts & Theatre,Opera,Opera,25.0,25.0,25.0
+SC,Arts & Theatre,Performance Art,Performance Art,38.625,90.625,64.625
+SC,Arts & Theatre,Theatre,Horror,36.5,86.5,61.5
+SC,Arts & Theatre,Theatre,Miscellaneous,20.0,25.0,22.5
+SC,Arts & Theatre,Theatre,Musical,51.96,93.92,72.94
+SC,Arts & Theatre,Theatre,Mystery,59.0,59.0,59.0
+SC,Arts & Theatre,Variety,Variety,42.2,46.7,44.45
+SC,Film,Documentary,Documentary,15.0,15.0,15.0
+SC,Film,Family,Miscellaneous,39.5,59.5,49.5
+SC,Miscellaneous,Family,Other,31.5,234.5,133.0
+SC,Miscellaneous,Ice Shows,Ice Shows,20.0,96.42857142857143,58.214285714285715
+SC,Miscellaneous,Undefined,Undefined,99.0,99.0,99.0
+SC,Music,Blues,Blues,35.0,55.0,45.0
+SC,Music,Country,Country,34.89673913043478,83.7663043478261,59.33152173913044
+SC,Music,Country,Nashville Sound,15.0,50.0,32.5
+SC,Music,Dance/Electronic,Witchstep,26.5,26.5,26.5
+SC,Music,Folk,Indie Folk,33.166666666666664,39.833333333333336,36.5
+SC,Music,Hip-Hop/Rap,French Rap,43.333333333333336,80.5,61.916666666666664
+SC,Music,Jazz,Jazz,36.0,66.0,51.0
+SC,Music,Latin,Latin,49.166666666666664,175.83333333333334,112.5
+SC,Music,Metal,Nu-Metal,23.666666666666668,27.0,25.333333333333332
+SC,Music,Other,Other,46.0,68.5,57.25
+SC,Music,Pop,Pop,31.0,40.666666666666664,35.833333333333336
+SC,Music,R&B,Funk,15.0,15.0,15.0
+SC,Music,R&B,R&B,56.357142857142854,196.07142857142858,126.21428571428571
+SC,Music,R&B,Soul,37.166666666666664,53.833333333333336,45.5
+SC,Music,Reggae,Reggae,22.5,22.5,22.5
+SC,Music,Religious,Contemporary Christian,15.0,75.0,45.0
+SC,Music,Religious,Gospel,22.650000000000002,126.0,74.325
+SC,Music,Rock,Alternative Rock,32.827586206896555,48.706896551724135,40.76724137931034
+SC,Music,Rock,Oldies & Classics,57.5,137.5,97.5
+SC,Music,Rock,Pop,33.36055555555556,54.16611111111111,43.76333333333333
+SC,Music,Undefined,Undefined,22.166666666666668,31.458333333333332,26.8125
+SC,Sports,Basketball,College,19.069767441860463,66.86046511627907,42.96511627906977
+SC,Sports,Boxing,Boxing,12.0,32.0,22.0
+SC,Sports,Football,Professional,10.0,125.0,67.5
+SC,Sports,Hockey,Minor League,24.36842105263158,50.26315789473684,37.31578947368421
+SC,Sports,Motorsports/Racing,Motorsports/Racing,19.583333333333332,67.5,43.541666666666664
+SC,Sports,Rodeo,Bullriding,15.0,107.8,61.4
+SC,Sports,Rodeo,Rodeo,20.0,77.0,48.5
+SC,Sports,Tennis,Tennis,136.19230769230768,215.30769230769232,175.75
+SD,Arts & Theatre,Children's Theatre,Children's Theatre,32.75,76.25,54.5
+SD,Miscellaneous,Family,Other,25.0,330.0,177.5
+SD,Miscellaneous,Food & Drink,Food & Drink,36.5,36.5,36.5
+SD,Miscellaneous,Ice Shows,Ice Shows,23.333333333333332,83.0,53.166666666666664
+SD,Music,Alternative,Indie Pop,20.0,20.0,20.0
+SD,Music,Country,Country,41.041666666666664,131.125,86.08333333333333
+SD,Music,Religious,Contemporary Christian,28.0,28.0,28.0
+SD,Music,Rock,Pop,25.0,249.5,137.25
+SD,Music,Undefined,Undefined,14.0,34.0,24.0
+SD,Sports,Basketball,Minor League,7.0,100.0,53.5
+SD,Sports,Hockey,Minor League,16.297619047619047,50.54761904761905,33.42261904761905
+SD,Sports,Motorsports/Racing,Motorsports/Racing,25.0,39.0,32.0
+SD,Sports,Rodeo,Bullriding,15.0,119.0,67.0
+TN,Arts & Theatre,Children's Theatre,Children's Theatre,27.666666666666668,91.0,59.333333333333336
+TN,Arts & Theatre,Circus & Specialty Acts,Circus,20.0,90.0,55.0
+TN,Arts & Theatre,Classical,Symphonic,30.171875,69.09375,49.6328125
+TN,Arts & Theatre,Comedy,Comedy,40.009655172413794,94.4953448275862,67.2525
+TN,Arts & Theatre,Dance,Dance,36.0,89.53846153846153,62.76923076923077
+TN,Arts & Theatre,Magic & Illusion,Magic,39.5,39.5,39.5
+TN,Arts & Theatre,Miscellaneous Theatre,Miscellaneous Theatre,53.25,75.75,64.5
+TN,Arts & Theatre,Performance Art,Performance Art,40.875,117.375,79.125
+TN,Arts & Theatre,Theatre,Comedy,37.0,95.0,66.0
+TN,Arts & Theatre,Theatre,Drama,38.0,92.82352941176471,65.41176470588235
+TN,Arts & Theatre,Theatre,Horror,30.0,95.0,62.5
+TN,Arts & Theatre,Theatre,Miscellaneous,35.0,45.0,40.0
+TN,Arts & Theatre,Theatre,Musical,55.24264705882353,123.63970588235294,89.44117647058823
+TN,Arts & Theatre,Theatre,Podcast,35.0,51.5,43.25
+TN,Arts & Theatre,Variety,Cabaret,40.0,75.0,57.5
+TN,Film,Comedy,Comedy,12.0,12.0,12.0
+TN,Film,Family,Miscellaneous,12.0,12.0,12.0
+TN,Miscellaneous,Family,Other,41.07142857142857,115.71428571428571,78.39285714285714
+TN,Miscellaneous,Undefined,Undefined,34.422222222222224,34.422222222222224,34.422222222222224
+TN,Music,Alternative,Alternative,28.554285714285715,28.554285714285715,28.554285714285715
+TN,Music,Alternative,Alternative Metal,36.51,36.51,36.51
+TN,Music,Alternative,Alternative Rock,28.77285714285714,52.62071428571429,40.69678571428572
+TN,Music,Alternative,Indie Pop,22.085,22.085,22.085
+TN,Music,Alternative,Indie Rock,27.990000000000002,27.990000000000002,27.990000000000002
+TN,Music,Alternative,Neo-Psychedelia,29.91,162.41,96.16
+TN,Music,Alternative,Post-Punk,0.0,0.0,0.0
+TN,Music,Blues,Blues,30.177999999999997,96.40899999999999,63.293499999999995
+TN,Music,Classical,Classical/Vocal,46.5625,179.0625,112.8125
+TN,Music,Country,Alternative Country,33.645,114.44,74.0425
+TN,Music,Country,Bluegrass,35.67285714285715,64.17285714285715,49.92285714285714
+TN,Music,Country,Classic Country,41.758,41.758,41.758
+TN,Music,Country,Country,35.99126984126984,104.41238095238094,70.2018253968254
+TN,Music,Country,Country Folk,33.9,33.9,33.9
+TN,Music,Country,Country Pop,0.0,0.0,0.0
+TN,Music,Dance/Electronic,Dance/Electronic,74.75,74.75,74.75
+TN,Music,Dance/Electronic,Witchstep,24.8,76.0,50.4
+TN,Music,Folk,Alternative Folk,12.85,12.85,12.85
+TN,Music,Folk,Americana,0.0,0.0,0.0
+TN,Music,Folk,Folk,26.07,26.07,26.07
+TN,Music,Folk,Indie Folk,38.5,46.0,42.25
+TN,Music,Hip-Hop/Rap,French Rap,42.25,60.25,51.25
+TN,Music,Hip-Hop/Rap,Hip-Hop/Rap,0.0,0.0,0.0
+TN,Music,Hip-Hop/Rap,Urban,30.3675,72.1075,51.237500000000004
+TN,Music,Jazz,Jazz,44.333333333333336,97.66666666666667,71.0
+TN,Music,Metal,Death Metal/Black Metal,38.54,38.54,38.54
+TN,Music,Metal,Heavy Metal,12.68,12.68,12.68
+TN,Music,Metal,Metal,0.0,0.0,0.0
+TN,Music,Metal,Nu-Metal,36.833333333333336,127.0,81.91666666666667
+TN,Music,Metal,Pop Metal,31.87,31.87,31.87
+TN,Music,New Age,New Age,41.0,91.0,66.0
+TN,Music,Other,Other,41.6,90.7,66.15
+TN,Music,Pop,Adult Contemporary,45.0,65.0,55.0
+TN,Music,Pop,Dance,0.0,0.0,0.0
+TN,Music,Pop,Pop,30.398421052631576,98.21526315789474,64.30684210526316
+TN,Music,Pop,Pop Rock,47.05,257.43,152.24
+TN,Music,Pop,Singer-Songwriter,24.32,71.186,47.753
+TN,Music,R&B,R&B,48.083333333333336,146.75,97.41666666666667
+TN,Music,R&B,Soul,29.630000000000003,103.605,66.6175
+TN,Music,Religious,Contemporary Christian,37.70333333333333,104.87,71.28666666666668
+TN,Music,Religious,Gospel,25.0,98.29166666666667,61.645833333333336
+TN,Music,Rock,Alternative Rock,34.23863636363637,68.39772727272727,51.31818181818182
+TN,Music,Rock,Blues-Rock,26.61,142.61,84.61000000000001
+TN,Music,Rock,Classic Rock,32.72,32.72,32.72
+TN,Music,Rock,Emo,34.48,34.48,34.48
+TN,Music,Rock,Funk-Rock,24.18,80.645,52.412499999999994
+TN,Music,Rock,Hard Rock,30.435,45.19,37.8125
+TN,Music,Rock,Indie Rock,26.71,26.71,26.71
+TN,Music,Rock,Oldies & Classics,59.5,139.5,99.5
+TN,Music,Rock,Pop,36.5739175257732,80.76989690721649,58.671907216494844
+TN,Music,Rock,Pop Punk,0.0,0.0,0.0
+TN,Music,Rock,Post-Hardcore,0.0,0.0,0.0
+TN,Music,Rock,Post-Punk,47.05,86.5,66.775
+TN,Music,Rock,Progressive Metal,0.0,0.0,0.0
+TN,Music,Rock,Psychedelic,26.71,26.71,26.71
+TN,Music,Rock,Punk,16.666666666666668,26.5,21.583333333333332
+TN,Music,Rock,Rock,54.31,54.31,54.31
+TN,Music,Rock,Rock & Roll,16.69,32.87,24.78
+TN,Music,Rock,Soft Rock,39.21,39.21,39.21
+TN,Music,Rock,Surf,29.27,29.27,29.27
+TN,Music,Rock,Surf Rock,19.2,19.2,19.2
+TN,Music,Undefined,Undefined,33.5,63.0,48.25
+TN,Music,World,World,30.0,65.0,47.5
+TN,Sports,Basketball,College,15.633333333333333,66.75,41.19166666666667
+TN,Sports,Basketball,NBA,37.64705882352941,324.11764705882354,180.88235294117646
+TN,Sports,Football,College,75.0,120.0,97.5
+TN,Sports,Hockey,Ice Hockey,15.0,15.0,15.0
+TN,Sports,Hockey,Minor League,14.0,48.0,31.0
+TN,Sports,Hockey,NHL,57.0,900.0,478.5
+TN,Sports,Miscellaneous,Miscellaneous,13.0,42.0,27.5
+TN,Sports,Motorsports/Racing,Motorsports/Racing,21.2,81.6,51.4
+TN,Sports,Rodeo,Bullriding,18.5,128.5,73.5
+TN,Sports,Wrestling,Wrestling,30.0,198.75,114.375
+TX,Arts & Theatre,Children's Theatre,Children's Theatre,30.24375,60.86875,45.55625
+TX,Arts & Theatre,Circus & Specialty Acts,Circus,19.5,129.5,74.5
+TX,Arts & Theatre,Classical,Symphonic,25.5,45.625,35.5625
+TX,Arts & Theatre,Comedy,Comedy,33.746097560975606,103.41463414634147,68.58036585365853
+TX,Arts & Theatre,Dance,Dance,49.9,134.1,92.0
+TX,Arts & Theatre,Magic & Illusion,Magic,35.31666666666667,70.14999999999999,52.73333333333333
+TX,Arts & Theatre,Miscellaneous Theatre,Miscellaneous Theatre,12.115384615384615,13.346153846153847,12.73076923076923
+TX,Arts & Theatre,Opera,Opera,25.0,25.0,25.0
+TX,Arts & Theatre,Performance Art,Performance Art,38.04545454545455,141.4090909090909,89.72727272727273
+TX,Arts & Theatre,Theatre,Comedy,26.0,26.0,26.0
+TX,Arts & Theatre,Theatre,Drama,15.0,15.0,15.0
+TX,Arts & Theatre,Theatre,Horror,45.5,105.5,75.5
+TX,Arts & Theatre,Theatre,Miscellaneous,29.5,79.5,54.5
+TX,Arts & Theatre,Theatre,Musical,37.19512195121951,175.08130081300814,106.13821138211382
+TX,Arts & Theatre,Theatre,Podcast,30.0,35.0,32.5
+TX,Arts & Theatre,Variety,Cabaret,25.0,49.75,37.375
+TX,Film,Animation,Animation,6.0,6.0,6.0
+TX,Film,Comedy,Comedy,6.0,6.0,6.0
+TX,Film,Family,Miscellaneous,6.0,6.0,6.0
+TX,Miscellaneous,Community/Civic,Community/Civic,109.5625,129.5625,119.5625
+TX,Miscellaneous,Fairs & Festivals,Fairs & Festivals,12.0,12.0,12.0
+TX,Miscellaneous,Family,Other,27.807692307692307,175.69230769230768,101.75
+TX,Miscellaneous,Hobby/Special Interest Expos,Hobby/Special Interest Expos,28.0,28.0,28.0
+TX,Miscellaneous,Ice Shows,Ice Shows,21.470000000000002,106.08,63.775000000000006
+TX,Miscellaneous,Lecture/Seminar,Lecture/Seminar,44.083333333333336,197.41666666666666,120.75
+TX,Miscellaneous,Psychics/Mediums/Hypnotists,Psychics/Mediums/Hypnotists,25.0,40.0,32.5
+TX,Miscellaneous,Undefined,Undefined,55.0,55.0,55.0
+TX,Music,Ballads/Romantic,Ballads/Romantic,27.375,49.875,38.625
+TX,Music,Blues,Blues,24.76923076923077,49.07692307692308,36.92307692307692
+TX,Music,Classical,Classical/Vocal,64.875,222.4375,143.65625
+TX,Music,Country,Alternative Country,25.0,200.0,112.5
+TX,Music,Country,Bluegrass,33.333333333333336,66.33333333333333,49.833333333333336
+TX,Music,Country,Country,32.006071428571424,80.55071428571429,56.27839285714286
+TX,Music,Dance/Electronic,Witchstep,34.17333333333333,55.04,44.60666666666667
+TX,Music,Folk,Indie Folk,23.772727272727273,40.59090909090909,32.18181818181818
+TX,Music,Hip-Hop/Rap,French Rap,41.343333333333334,79.99111111111111,60.66722222222222
+TX,Music,Hip-Hop/Rap,Hip-Hop/Rap,10.0,25.0,17.5
+TX,Music,Hip-Hop/Rap,Reggaeton,41.5,332.25,186.875
+TX,Music,Holiday,Christmas Music,33.5,68.5,51.0
+TX,Music,Jazz,Jazz,28.25,45.75,37.0
+TX,Music,Latin,Latin,44.871707317073174,138.9960975609756,91.9339024390244
+TX,Music,Metal,Nu-Metal,37.89214285714286,93.7225,65.80732142857143
+TX,Music,Other,Other,24.70529411764706,65.97,45.33764705882353
+TX,Music,Pop,K-Pop,45.5,209.05555555555554,127.27777777777777
+TX,Music,Pop,Pop,33.613684210526316,62.34175438596491,47.97771929824562
+TX,Music,R&B,Funk,19.5,19.5,19.5
+TX,Music,R&B,R&B,32.861111111111114,68.56481481481481,50.71296296296296
+TX,Music,R&B,Soul,40.5,55.333333333333336,47.916666666666664
+TX,Music,Reggae,Reggae,27.125,28.375,27.75
+TX,Music,Religious,Contemporary Christian,35.0,85.0,60.0
+TX,Music,Religious,Gospel,14.897058823529411,54.69117647058823,34.794117647058826
+TX,Music,Religious,Praise & Worship,0.0,0.0,0.0
+TX,Music,Rock,Alternative Rock,31.642696629213482,55.54438202247191,43.59353932584269
+TX,Music,Rock,Pop,33.16126315789474,68.38257894736843,50.77192105263158
+TX,Music,Rock,Punk,32.9375,48.5,40.71875
+TX,Music,Undefined,Undefined,32.78947368421053,56.36842105263158,44.578947368421055
+TX,Music,World,Latin,25.0,25.0,25.0
+TX,Music,World,World,29.0,75.75,52.375
+TX,Sports,Basketball,College,9.962962962962964,74.74074074074075,42.351851851851855
+TX,Sports,Basketball,Minor League,11.23076923076923,153.71794871794873,82.47435897435898
+TX,Sports,Basketball,NBA,47.2,3665.35,1856.275
+TX,Sports,Football,College,36.0,232.5,134.25
+TX,Sports,Football,High School,15.0,25.0,20.0
+TX,Sports,Hockey,AHL,25.53030303030303,103.18181818181819,64.35606060606061
+TX,Sports,Hockey,Ice Hockey,5.0,30.0,17.5
+TX,Sports,Hockey,Minor League,25.95744680851064,54.212765957446805,40.08510638297872
+TX,Sports,Hockey,NHL,42.84375,644.09375,343.46875
+TX,Sports,Indoor Soccer,Indoor Soccer,33.38461538461539,53.38461538461539,43.38461538461539
+TX,Sports,Motorsports/Racing,Motorsports/Racing,24.510526315789473,57.72631578947368,41.11842105263158
+TX,Sports,Rodeo,Bullriding,30.25,122.75,76.5
+TX,Sports,Rodeo,Rodeo,33.3859649122807,82.03508771929825,57.71052631578947
+TX,Sports,Soccer,Soccer,25.0,250.0,137.5
+TX,Sports,Volleyball,Volleyball,31.25,117.25,74.25
+TX,Sports,Wrestling,Wrestling,42.125,377.125,209.625
+UT,Arts & Theatre,Comedy,Comedy,39.333333333333336,114.41666666666667,76.875
+UT,Arts & Theatre,Miscellaneous Theatre,Miscellaneous Theatre,49.0,129.0,89.0
+UT,Arts & Theatre,Theatre,Musical,20.0,20.0,20.0
+UT,Arts & Theatre,Theatre,Podcast,39.5,39.5,39.5
+UT,Miscellaneous,Family,Other,35.75,205.75,120.75
+UT,Music,Classical,Classical/Vocal,49.5,129.5,89.5
+UT,Music,Country,Country,34.25,74.25,54.25
+UT,Music,Dance/Electronic,Witchstep,23.5,55.4,39.45
+UT,Music,Hip-Hop/Rap,French Rap,44.666666666666664,144.66666666666666,94.66666666666667
+UT,Music,Latin,Latin,62.25,302.25,182.25
+UT,Music,Metal,Nu-Metal,37.8,90.8,64.3
+UT,Music,Pop,Pop,36.375,40.125,38.25
+UT,Music,R&B,R&B,25.0,25.0,25.0
+UT,Music,R&B,Soul,35.0,35.0,35.0
+UT,Music,Rock,Alternative Rock,40.46875,78.9375,59.703125
+UT,Music,Rock,Pop,42.630434782608695,59.15217391304348,50.891304347826086
+UT,Music,Undefined,Undefined,23.25,35.75,29.5
+UT,Sports,Basketball,College,15.357142857142858,31.428571428571427,23.392857142857142
+UT,Sports,Basketball,Minor League,10.0,81.0,45.5
+UT,Sports,Hockey,Minor League,19.0,43.0,31.0
+UT,Sports,Motorsports/Racing,Motorsports/Racing,34.0,219.0,126.5
+UT,Sports,Volleyball,Volleyball,28.2,112.2,70.2
+VA,Arts & Theatre,Children's Theatre,Children's Theatre,27.357142857142858,134.5,80.92857142857143
+VA,Arts & Theatre,Circus & Specialty Acts,Circus,18.192307692307693,83.84615384615384,51.01923076923077
+VA,Arts & Theatre,Classical,Classical/Vocal,30.0,85.0,57.5
+VA,Arts & Theatre,Classical,Symphonic,28.571428571428573,108.57142857142857,68.57142857142857
+VA,Arts & Theatre,Comedy,Comedy,44.44166666666667,91.30833333333334,67.875
+VA,Arts & Theatre,Cultural,Cultural,25.0,25.0,25.0
+VA,Arts & Theatre,Dance,Dance,44.166666666666664,94.66666666666667,69.41666666666667
+VA,Arts & Theatre,Miscellaneous Theatre,Miscellaneous Theatre,25.0,100.0,62.5
+VA,Arts & Theatre,Multimedia,Multimedia,150.0,150.0,150.0
+VA,Arts & Theatre,Music,Chamber Music,25.0,25.0,25.0
+VA,Arts & Theatre,Opera,Opera,35.0,125.0,80.0
+VA,Arts & Theatre,Performance Art,Performance Art,32.375,82.375,57.375
+VA,Arts & Theatre,Theatre,Miscellaneous,25.0,25.0,25.0
+VA,Arts & Theatre,Theatre,Musical,50.45,106.175,78.3125
+VA,Film,Family,Miscellaneous,25.0,45.0,35.0
+VA,Film,Music,Music,48.0,63.0,55.5
+VA,Miscellaneous,Family,Other,31.666666666666668,316.6666666666667,174.16666666666666
+VA,Miscellaneous,Ice Shows,Ice Shows,15.0,90.0,52.5
+VA,Miscellaneous,Lecture/Seminar,Lecture/Seminar,74.875,90.375,82.625
+VA,Miscellaneous,Undefined,Undefined,94.44444444444444,130.55555555555554,112.5
+VA,Music,Alternative,Alternative Rock,15.0,35.0,25.0
+VA,Music,Blues,Blues,44.5,55.875,50.1875
+VA,Music,Classical,Classical/Vocal,31.714285714285715,46.42857142857143,39.07142857142857
+VA,Music,Country,Bluegrass,23.0,25.0,24.0
+VA,Music,Country,Country,42.864285714285714,95.82142857142857,69.34285714285714
+VA,Music,Dance/Electronic,Witchstep,23.75,55.5,39.625
+VA,Music,Folk,Indie Folk,45.5,48.357142857142854,46.92857142857143
+VA,Music,Hip-Hop/Rap,French Rap,30.25,41.5,35.875
+VA,Music,Hip-Hop/Rap,Reggaeton,47.99,197.99,122.99000000000001
+VA,Music,Jazz,Jazz,55.95454545454545,77.04545454545455,66.5
+VA,Music,Latin,Latin,36.333333333333336,186.0,111.16666666666667
+VA,Music,Metal,Heavy Metal,25.0,50.0,37.5
+VA,Music,Metal,Nu-Metal,34.0,34.0,34.0
+VA,Music,New Age,New Age,40.0,80.0,60.0
+VA,Music,Other,Other,49.833333333333336,64.83333333333333,57.333333333333336
+VA,Music,Pop,Pop,24.5,32.0,28.25
+VA,Music,R&B,R&B,68.3173076923077,81.39423076923077,74.85576923076923
+VA,Music,R&B,Soul,63.7,63.7,63.7
+VA,Music,Reggae,Reggae,20.875,34.625,27.75
+VA,Music,Religious,Contemporary Christian,30.0,85.0,57.5
+VA,Music,Religious,Gospel,32.625,123.375,78.0
+VA,Music,Rock,Alternative Rock,36.84782608695652,44.130434782608695,40.48913043478261
+VA,Music,Rock,Hardcore Punk,28.0,85.0,56.5
+VA,Music,Rock,Pop,38.60795454545455,54.22147727272727,46.41471590909091
+VA,Music,Undefined,Undefined,30.58653846153846,47.24038461538461,38.91346153846154
+VA,Music,World,World,59.5,59.5,59.5
+VA,Sports,Basketball,College,15.275862068965518,37.3448275862069,26.310344827586206
+VA,Sports,Equestrian,Horse Racing,16.4,157.19,86.795
+VA,Sports,Hockey,Minor League,21.0,38.0,29.5
+VA,Sports,Motorsports/Racing,Motorsports/Racing,80.42857142857143,115.35714285714286,97.89285714285714
+VA,Sports,Rodeo,Rodeo,21.5,25.0,23.25
+WA,Arts & Theatre,Children's Theatre,Children's Theatre,25.0,60.0,42.5
+WA,Arts & Theatre,Circus & Specialty Acts,Circus,35.0,90.0,62.5
+WA,Arts & Theatre,Classical,Classical/Vocal,39.0,99.0,69.0
+WA,Arts & Theatre,Classical,Symphonic,22.363636363636363,31.09090909090909,26.727272727272727
+WA,Arts & Theatre,Comedy,Comedy,36.48546511627907,67.73255813953489,52.10901162790697
+WA,Arts & Theatre,Dance,Dance,30.22222222222222,56.888888888888886,43.55555555555556
+WA,Arts & Theatre,Magic & Illusion,Magic,52.416666666666664,87.5,69.95833333333333
+WA,Arts & Theatre,Multimedia,Multimedia,37.875,57.875,47.875
+WA,Arts & Theatre,Opera,Opera,45.5,95.5,70.5
+WA,Arts & Theatre,Performance Art,Performance Art,38.357142857142854,169.35714285714286,103.85714285714286
+WA,Arts & Theatre,Theatre,Comedy,46.5,96.5,71.5
+WA,Arts & Theatre,Theatre,Miscellaneous,37.0,57.0,47.0
+WA,Arts & Theatre,Theatre,Musical,50.18,192.78,121.48
+WA,Arts & Theatre,Theatre,Podcast,34.3,46.2,40.25
+WA,Film,Miscellaneous,Miscellaneous,16.333333333333332,16.333333333333332,16.333333333333332
+WA,Miscellaneous,Family,Other,33.0,237.5,135.25
+WA,Miscellaneous,Lecture/Seminar,Lecture/Seminar,49.75,88.625,69.1875
+WA,Miscellaneous,Undefined,Undefined,10.0,25.0,17.5
+WA,Music,Alternative,Alternative Rock,19.571428571428573,24.333333333333332,21.952380952380953
+WA,Music,Alternative,Dream Pop,23.0,23.0,23.0
+WA,Music,Alternative,Electronic Pop,50.0,50.0,50.0
+WA,Music,Alternative,Goth,25.0,25.0,25.0
+WA,Music,Alternative,Indie Pop,19.625,19.625,19.625
+WA,Music,Alternative,Indie Rock,27.5,27.5,27.5
+WA,Music,Alternative,Ska,29.75,29.75,29.75
+WA,Music,Ballads/Romantic,Ballads/Romantic,36.0,176.0,106.0
+WA,Music,Blues,Blues,47.0,147.0,97.0
+WA,Music,Blues,Folk-Blues,32.5,32.5,32.5
+WA,Music,Children's Music,Children's Music,47.0,76.0,61.5
+WA,Music,Classical,Classical/Vocal,47.833333333333336,207.83333333333334,127.83333333333333
+WA,Music,Country,Alternative Country,25.0,25.0,25.0
+WA,Music,Country,Bluegrass,15.0,15.0,15.0
+WA,Music,Country,Classic Country,17.0,17.0,17.0
+WA,Music,Country,Country,39.96666666666667,93.8,66.88333333333334
+WA,Music,Country,Neo-Traditional Country,27.0,27.0,27.0
+WA,Music,Dance/Electronic,Dance/Electronic,15.0,16.333333333333332,15.666666666666666
+WA,Music,Dance/Electronic,Electro-Jazz,24.0,50.0,37.0
+WA,Music,Dance/Electronic,Witchstep,38.054761904761904,41.03095238095238,39.542857142857144
+WA,Music,Folk,Acid Folk,22.0,22.0,22.0
+WA,Music,Folk,Alternative Folk,19.166666666666668,19.166666666666668,19.166666666666668
+WA,Music,Folk,Americana,8.0,8.0,8.0
+WA,Music,Folk,Folk,12.5,12.5,12.5
+WA,Music,Folk,Indie Folk,33.25,50.75,42.0
+WA,Music,Hip-Hop/Rap,French Rap,58.916666666666664,183.08333333333334,121.0
+WA,Music,Hip-Hop/Rap,Hip-Hop/Rap,25.149,39.149,32.149
+WA,Music,Hip-Hop/Rap,Reggaeton,46.5,186.5,116.5
+WA,Music,Hip-Hop/Rap,Urban,63.333333333333336,131.66666666666666,97.5
+WA,Music,Jazz,Jazz,34.25,62.583333333333336,48.416666666666664
+WA,Music,Latin,Latin,32.25,187.25,109.75
+WA,Music,Metal,Nu-Metal,49.3,107.9,78.6
+WA,Music,Other,Other,41.8125,64.3125,53.0625
+WA,Music,Pop,Adult Contemporary,40.0,40.0,40.0
+WA,Music,Pop,Indie Pop,0.0,0.0,0.0
+WA,Music,Pop,K-Pop,52.125,167.125,109.625
+WA,Music,Pop,Pop,36.595,119.0,77.7975
+WA,Music,Pop,Pop Rock,12.5,12.5,12.5
+WA,Music,Pop,Singer-Songwriter,31.666666666666668,31.666666666666668,31.666666666666668
+WA,Music,Pop,Synth Pop,22.0,22.0,22.0
+WA,Music,R&B,Funk,25.0,25.0,25.0
+WA,Music,R&B,R&B,48.2,121.2,84.7
+WA,Music,R&B,Soul,38.416666666666664,54.25,46.333333333333336
+WA,Music,Reggae,Reggae,31.666666666666668,110.0,70.83333333333333
+WA,Music,Reggae,Reggae-Pop,0.0,0.0,0.0
+WA,Music,Rock,Alternative Rock,37.88235294117647,67.29411764705883,52.588235294117645
+WA,Music,Rock,Funk-Rock,0.0,0.0,0.0
+WA,Music,Rock,German Rock,40.0,80.0,60.0
+WA,Music,Rock,Hardcore Punk,25.0,25.0,25.0
+WA,Music,Rock,New Wave,0.0,0.0,0.0
+WA,Music,Rock,Pop,38.78409090909091,62.871212121212125,50.827651515151516
+WA,Music,Rock,Power Pop,25.0,25.0,25.0
+WA,Music,Rock,Psychedelic,22.0,22.0,22.0
+WA,Music,Rock,Punk,21.666666666666668,22.333333333333332,22.0
+WA,Music,Rock,Rock,24.0,24.0,24.0
+WA,Music,Rock,Roots Rock,45.0,45.0,45.0
+WA,Music,Rock,Southern Rock,30.0,30.0,30.0
+WA,Music,Undefined,Undefined,34.916666666666664,46.083333333333336,40.5
+WA,Music,World,World,39.333333333333336,76.77777777777777,58.05555555555556
+WA,Sports,Baseball,MLB,20.350649350649352,699.1811688311689,359.76590909090913
+WA,Sports,Basketball,College,21.5,55.0,38.25
+WA,Sports,Boxing,Boxing,40.0,60.0,50.0
+WA,Sports,Football,NFL,150.0,1050.0,600.0
+WA,Sports,Hockey,Minor League,19.605263157894736,46.94736842105263,33.276315789473685
+WA,Sports,Hockey,NHL,40.48275862068966,563.0344827586207,301.7586206896552
+WA,Sports,Martial Arts,Mixed Martial Arts,70.0,80.0,75.0
+WA,Sports,Motorsports/Racing,Motorsports/Racing,22.0,83.2,52.6
+WA,Sports,Rodeo,Bullriding,16.666666666666668,129.5,73.08333333333333
+WA,Sports,Wrestling,Wrestling,30.0,175.0,102.5
+WI,Arts & Theatre,Children's Theatre,Children's Theatre,40.0,60.0,50.0
+WI,Arts & Theatre,Circus & Specialty Acts,Circus,25.0,37.5,31.25
+WI,Arts & Theatre,Classical,Classical/Vocal,35.25,53.08,44.165
+WI,Arts & Theatre,Classical,Symphonic,27.228333333333335,67.22833333333334,47.22833333333333
+WI,Arts & Theatre,Comedy,Comedy,29.606617647058822,86.13235294117646,57.869485294117645
+WI,Arts & Theatre,Dance,Dance,38.5,71.0,54.75
+WI,Arts & Theatre,Magic & Illusion,Magic,35.0,75.0,55.0
+WI,Arts & Theatre,Miscellaneous Theatre,Miscellaneous Theatre,18.25,64.0,41.125
+WI,Arts & Theatre,Opera,Opera,45.2,145.2,95.2
+WI,Arts & Theatre,Performance Art,Performance Art,10.0,55.0,32.5
+WI,Arts & Theatre,Theatre,Drama,48.0,48.0,48.0
+WI,Arts & Theatre,Theatre,Miscellaneous,36.5,146.5,91.5
+WI,Arts & Theatre,Theatre,Musical,41.083333333333336,398.16269841269843,219.62301587301587
+WI,Arts & Theatre,Theatre,Podcast,38.0,79.66666666666667,58.833333333333336
+WI,Miscellaneous,Family,Other,36.666666666666664,200.66666666666666,118.66666666666667
+WI,Miscellaneous,Ice Shows,Ice Shows,20.0,110.55555555555556,65.27777777777777
+WI,Miscellaneous,Lecture/Seminar,Lecture/Seminar,23.75,42.75,33.25
+WI,Miscellaneous,Undefined,Undefined,70.16666666666667,70.16666666666667,70.16666666666667
+WI,Music,Blues,Blues,25.0,30.0,27.5
+WI,Music,Country,Bluegrass,22.2,42.9,32.55
+WI,Music,Country,Country,39.339999999999996,119.74529411764706,79.54264705882352
+WI,Music,Dance/Electronic,Witchstep,25.272727272727273,155.63636363636363,90.45454545454545
+WI,Music,Folk,Americana,20.0,20.0,20.0
+WI,Music,Folk,Indie Folk,40.97125,81.33500000000001,61.153125
+WI,Music,Hip-Hop/Rap,French Rap,64.5,167.125,115.8125
+WI,Music,Holiday,Christmas Music,27.5,47.5,37.5
+WI,Music,Jazz,Jazz,32.0,57.833333333333336,44.916666666666664
+WI,Music,Metal,Nu-Metal,42.357142857142854,132.35714285714286,87.35714285714286
+WI,Music,Other,Other,33.7,69.7,51.7
+WI,Music,Pop,Pop,31.24,78.56800000000001,54.903999999999996
+WI,Music,R&B,Funk,17.0,20.0,18.5
+WI,Music,R&B,R&B,43.875,96.375,70.125
+WI,Music,R&B,Soul,15.0,18.0,16.5
+WI,Music,Religious,Gospel,0.0,0.0,0.0
+WI,Music,Rock,Alternative Rock,30.546818181818182,76.38772727272728,53.46727272727273
+WI,Music,Rock,Pop,29.737843137254902,110.85176470588235,70.29480392156863
+WI,Music,Rock,Punk,12.5,15.0,13.75
+WI,Music,Undefined,Undefined,28.09375,56.0625,42.078125
+WI,Music,World,World,20.0,33.5,26.75
+WI,Sports,Basketball,College,25.9375,445.3125,235.625
+WI,Sports,Basketball,Minor League,6.0,150.23809523809524,78.11904761904762
+WI,Sports,Basketball,NBA,24.448275862068964,4176.896551724138,2100.6724137931033
+WI,Sports,Football,NFL,95.0,474.0,284.5
+WI,Sports,Hockey,AHL,24.17142857142857,101.5,62.83571428571429
+WI,Sports,Indoor Soccer,Indoor Soccer,20.0,59.0,39.5
+WI,Sports,Motorsports/Racing,Motorsports/Racing,20.666666666666668,72.66666666666667,46.666666666666664
+WI,Sports,Rodeo,Bullriding,15.0,105.0,60.0
+WI,Sports,Rodeo,Rodeo,29.99,209.99,119.99000000000001
+WI,Sports,Volleyball,Volleyball,28.5,114.5,71.5
+WV,Arts & Theatre,Children's Theatre,Children's Theatre,27.0,67.0,47.0
+WV,Arts & Theatre,Comedy,Comedy,43.8,72.8,58.3
+WV,Arts & Theatre,Miscellaneous Theatre,Miscellaneous Theatre,41.0,999.0,520.0
+WV,Arts & Theatre,Theatre,Comedy,22.0,22.0,22.0
+WV,Arts & Theatre,Theatre,Musical,50.0,999.0,524.5
+WV,Film,Miscellaneous,Miscellaneous,9.87,9.87,9.87
+WV,Miscellaneous,Family,Other,25.0,107.0,66.0
+WV,Miscellaneous,Ice Shows,Ice Shows,17.0,81.66666666666667,49.333333333333336
+WV,Miscellaneous,Undefined,Undefined,44.0,44.0,44.0
+WV,Music,Country,Country,51.78125,116.78125,84.28125
+WV,Music,Folk,Indie Folk,23.0,999.0,511.0
+WV,Music,Hip-Hop/Rap,French Rap,45.0,45.0,45.0
+WV,Music,Pop,Adult Contemporary,40.0,65.0,52.5
+WV,Music,Religious,Contemporary Christian,85.0,85.0,85.0
+WV,Music,Rock,Pop,46.196000000000005,270.796,158.496
+WV,Music,Rock,Southern Rock,25.0,75.0,50.0
+WV,Music,Undefined,Undefined,32.5,58.75,45.625
+WV,Sports,Boxing,Boxing,25.0,75.0,50.0
+WV,Sports,Motorsports/Racing,Motorsports/Racing,22.0,60.0,41.0
+WV,Sports,Rodeo,Bullriding,15.0,110.0,62.5
+WY,Arts & Theatre,Children's Theatre,Children's Theatre,28.0,63.0,45.5
+WY,Arts & Theatre,Comedy,Comedy,42.5,152.5,97.5
+WY,Miscellaneous,Family,Other,32.0,87.0,59.5
+WY,Music,Country,Country,39.5,89.5,64.5

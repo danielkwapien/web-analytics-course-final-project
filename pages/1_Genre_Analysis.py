@@ -22,6 +22,7 @@ df = load_data()
 
 # Get subset necessary to create popularity event map
 df['average_price'] = (df['min_price'] + df['max_price']) / 2
+df = df[df['genre_name'] != 'Undefined']
 data_subset = df[['event_name', 'venue_state', 'venue_city', 'segment_name', 'genre_name', 'sub_genre_name', 'start_date', 'venue_latitude', 'venue_longitude', 'min_price', 'max_price', 'average_price']]
 
 # Aggregate data for event counts (per segment)
@@ -31,6 +32,10 @@ data_segment_eventcount = data_subset.groupby(['venue_state', 'venue_city', 'seg
 data_segment_classification_eventcount = data_subset.groupby(['venue_state', 'venue_city', 'segment_name', 'genre_name']).agg(event_count=('event_name', 'count')).reset_index()
 data_segment_classification_eventcount = data_segment_classification_eventcount.sort_values(by=['event_count'], ascending=False)
 data_segment_price = data_subset.groupby(['venue_state', 'segment_name', 'genre_name', 'sub_genre_name']).agg(average_price=('average_price', 'mean'), count=('max_price', 'count')).reset_index()
+data_segment_price = data_segment_price[data_segment_price['genre_name'] != 'Undefined']
+
+data_state_price = pd.read_csv("data/prices_by_state.csv")
+data_state_price = data_state_price[data_state_price['segment_name'] != 'Undefined']
 
 # Prepare data for the map (count the number of events happening in each state)
 state_counts = (
@@ -84,8 +89,6 @@ with price_tab:
 
     if all(col in data_segment_price.columns for col in ['venue_state', 'segment_name', 'genre_name', 'sub_genre_name', 'average_price', 'count']):
         # Get unique segment options for filtering
-        segment_options = data_segment_price['segment_name'].unique()
-        selected_segment = st.selectbox("Select Segment", options=segment_options, index=0)
 
         state_options = ["All States"] + list(data_segment_price['venue_state'].unique())
         selected_state = st.selectbox("Select a State", options=state_options, index=0)
@@ -141,7 +144,7 @@ with price_tab:
         # Update layout for better visuals and usability
         fig.update_layout(
             xaxis_title="Category",  # Title for x-axis
-            yaxis_title="Average Price" if toggle_view == "Genres" else "Category (Genre-Subgenre)",
+            yaxis_title="Average Price",
             # Dynamic y-axis title
             xaxis_tickangle=45,  # Rotate x-axis labels for better readability
             height=600,  # Chart height
@@ -150,6 +153,34 @@ with price_tab:
 
         # Render the plot in Streamlit
         st.plotly_chart(fig, use_container_width=True)
+
+        choropleth_data = data_state_price[data_state_price["segment_name"] == selected_segment]
+        if selected_genre != "All":
+            choropleth_data = choropleth_data[choropleth_data["genre_name"] == selected_genre]
+        choropleth_data = choropleth_data.groupby("venue_state_code").agg(average_price=("average_price", "mean")).reset_index()
+
+        if not choropleth_data.empty:
+            fig_choropleth = px.choropleth(
+                choropleth_data,
+                locations="venue_state_code",  # State abbreviations
+                locationmode="USA-states",  # USA states
+                color="average_price",  # Column to use for coloring
+                scope="usa",  # Focus on the USA
+                title=f"Choropleth Map of Average Prices by State for {selected_segment}"
+            )
+
+            # Update layout for better visuals
+            fig_choropleth.update_layout(
+                geo=dict(
+                    lakecolor="rgb(255, 255, 255)"  # Optional: make lakes white
+                ),
+                height=800,
+                width=1000
+            )
+
+            # Display the map in Streamlit
+            st.plotly_chart(fig_choropleth, use_container_width=True)
+
     else:
         # Display an error if required columns are missing from the dataset
         st.error(
